@@ -1,0 +1,29 @@
+# Huge raw dataset (39GB) — NOT needed for the demo
+data/ibm-transactions-for-anti-money-laundering-aml/
+
+# Frontend build artifacts (rebuilt in Docker)
+frontend/node_modules/
+frontend/dist/
+
+# Python cache
+__pycache__/
+*.pyc
+.venv/
+
+# IDE & OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+
+# Git
+.git/
+
+# Notebooks & tests
+*.ipynb
+test.ipynb
+eda.ipynb
+
+# Poetry lock (using pip install directly)
+poetry.lock
+

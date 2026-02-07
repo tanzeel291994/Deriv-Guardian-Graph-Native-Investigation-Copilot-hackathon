@@ -1,0 +1,53 @@
+{
+  "all_accounts": {
+    "cohort": "All Accounts",
+    "total": 2358,
+    "actual_fraud": 896,
+    "predicted_fraud": 857,
+    "confusion_matrix": {
+      "tp": 826,
+      "tn": 1431,
+      "fp": 31,
+      "fn": 70
+    },
+    "accuracy": 0.9572,
+    "precision": 0.9638,
+    "recall": 0.9219,
+    "f1_score": 0.9424,
+    "auc_roc": 0.9868
+  },
+  "partners": {
+    "cohort": "Partners Only (200)",
+    "total": 200,
+    "actual_fraud": 68,
+    "predicted_fraud": 69,
+    "confusion_matrix": {
+      "tp": 65,
+      "tn": 128,
+      "fp": 4,
+      "fn": 3
+    },
+    "accuracy": 0.965,
+    "precision": 0.942,
+    "recall": 0.9559,
+    "f1_score": 0.9489,
+    "auc_roc": 0.9939
+  },
+  "clients": {
+    "cohort": "Clients Only (2158)",
+    "total": 2158,
+    "actual_fraud": 828,
+    "predicted_fraud": 788,
+    "confusion_matrix": {
+      "tp": 761,
+      "tn": 1303,
+      "fp": 27,
+      "fn": 67
+    },
+    "accuracy": 0.9564,
+    "precision": 0.9657,
+    "recall": 0.9191,
+    "f1_score": 0.9418,
+    "auc_roc": 0.9865
+  }
+}

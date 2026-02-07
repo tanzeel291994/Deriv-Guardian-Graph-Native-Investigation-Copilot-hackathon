@@ -1,0 +1,2359 @@
+account_id,role,account_number,bank_name,entity_name,is_fraudulent
+P_0001,PARTNER,811C48E10,Saudi Arabia Bank #4,Corporation #36539,False
+P_0002,PARTNER,80A2DF610,Australia Bank #47,Corporation #33736,True
+P_0003,PARTNER,80A19A4A0,Australia Bank #3,Corporation #43613,False
+P_0004,PARTNER,8120E8810,Greece Bank #180,Sole Proprietorship #28118,False
+P_0005,PARTNER,8000DB3C0,Israel Bank #6,Sole Proprietorship #40502,True
+P_0006,PARTNER,808D74500,UK Bank #19,Corporation #32965,False
+P_0007,PARTNER,807DD0FB0,Golden Credit Union,Corporation #884,True
+P_0008,PARTNER,80F1164A0,Switzerland Bank #170,Corporation #34854,False
+P_0009,PARTNER,8028E8460,Brownstone Trust Bank,Corporation #4477,True
+P_0010,PARTNER,8051E3B20,First Bank of Indianapolis,Partnership #9358,True
+P_0011,PARTNER,8019A2650,Sunrise Credit Union,Partnership #45288,True
+P_0012,PARTNER,8026C8540,Spain Bank #23,Corporation #24444,False
+P_0013,PARTNER,801C0D550,Slovakia Bank #106,Sole Proprietorship #22700,False
+P_0014,PARTNER,80AB6EB90,Bank of Miami,Partnership #15570,False
+P_0015,PARTNER,80F576BB0,The Pine Credit Union,Corporation #16396,True
+P_0016,PARTNER,809FD0970,Plateau Community Bank,Partnership #54289,False
+P_0017,PARTNER,80400DC40,Bank of Detroit,Partnership #50633,False
+P_0018,PARTNER,81484C700,Italy Bank #49,Sole Proprietorship #26313,False
+P_0019,PARTNER,8013F0350,First Bank of Springfield,Sole Proprietorship #3159,True
+P_0020,PARTNER,8024C8E20,Savings Bank of Huron,Sole Proprietorship #3252,False
+P_0021,PARTNER,802508900,Acme Community Bank,Partnership #18582,False
+P_0022,PARTNER,810FDB280,Italy Bank #98,Corporation #25182,False
+P_0023,PARTNER,8069A8380,France Bank #984,Sole Proprietorship #23164,False
+P_0024,PARTNER,8055077A0,India Bank #16,Sole Proprietorship #32152,False
+P_0025,PARTNER,805CDE270,National Bank of Arkadelphia,Partnership #5707,False
+P_0026,PARTNER,812B864D0,First Bank of Houston,Sole Proprietorship #506,False
+P_0027,PARTNER,100428858,Oasis Thrift,Partnership #19472,False
+P_0028,PARTNER,80ADA5540,Australia Bank #21,Corporation #43613,False
+P_0029,PARTNER,805D4C850,India Bank #27,Corporation #11703,True
+P_0030,PARTNER,805CC3F40,National Bank of Danbury,Sole Proprietorship #9729,False
+P_0031,PARTNER,8125B8C40,Greece Bank #789,Sole Proprietorship #39092,False
+P_0032,PARTNER,808981010,Savings Bank of Phoenix,Partnership #846,False
+P_0033,PARTNER,80154AAF0,Spain Bank #9,Partnership #23675,True
+P_0034,PARTNER,803DE4A90,Japan Bank #0,Partnership #31639,True
+P_0035,PARTNER,8057DA9D0,Savings Bank of Newport,Corporation #40774,False
+P_0036,PARTNER,80E27AA10,Spain Bank #110,Sole Proprietorship #25413,True
+P_0037,PARTNER,804157D10,Japan Bank #35,Corporation #29861,False
+P_0038,PARTNER,8003946A0,Savings Bank of Seattle,Partnership #5633,False
+P_0039,PARTNER,80EB1E930,Switzerland Bank #51,Corporation #2477,True
+P_0040,PARTNER,80098A3D0,France Bank #51,Partnership #52485,True
+P_0041,PARTNER,801A21E40,National Bank of Huron,Partnership #18526,True
+P_0042,PARTNER,80D951EC0,National Bank of New Orleans,Corporation #53177,False
+P_0043,PARTNER,803173180,Sappo Federal Bank,Sole Proprietorship #9904,True
+P_0044,PARTNER,8106B1750,China Bank #38,Partnership #31468,True
+P_0045,PARTNER,80340DCF0,Acme Cooperative Bank,Sole Proprietorship #6651,True
+P_0046,PARTNER,806145A70,Russia Bank #25,Corporation #31485,False
+P_0047,PARTNER,8114AF440,China Bank #16,Sole Proprietorship #29571,False
+P_0048,PARTNER,812B86430,First Bank of Phoenix,Corporation #10534,False
+P_0049,PARTNER,806C45860,Netherlands Bank #971,Corporation #22676,False
+P_0050,PARTNER,80755B360,National Bank of Laramie,Sole Proprietorship #11325,False
+P_0051,PARTNER,805B266D0,Savings Bank of Detroit,Partnership #8349,False
+P_0052,PARTNER,804AB4820,India Bank #0,Partnership #32618,False
+P_0053,PARTNER,801B9E2E0,Slovakia Bank #106,Sole Proprietorship #3072,False
+P_0054,PARTNER,8011518B0,Bank of the South,Sole Proprietorship #2693,False
+P_0055,PARTNER,8007C2A40,China Bank #13,Partnership #30760,False
+P_0056,PARTNER,1004286A8,Oasis Thrift,Partnership #2370,False
+P_0057,PARTNER,8017D32A0,First Bank of Dallas,Sole Proprietorship #3681,True
+P_0058,PARTNER,813515540,National Bank of Fairfield,Sole Proprietorship #11158,False
+P_0059,PARTNER,81256B3F0,Spain Bank #642,Corporation #24413,False
+P_0060,PARTNER,80AF24890,China Bank #40,Partnership #31107,False
+P_0061,PARTNER,808F6FCB0,China Bank #65,Corporation #52073,False
+P_0062,PARTNER,8079DDC30,Savings Bank of Butte,Corporation #16523,True
+P_0063,PARTNER,8029FC480,Arbor Savings Bank,Corporation #4551,True
+P_0064,PARTNER,80437D050,Golden Bancorp,Corporation #41579,True
+P_0065,PARTNER,80541EB10,India Bank #2,Sole Proprietorship #31684,False
+P_0066,PARTNER,80D7EC5F0,First Bank of Topeka,Corporation #14945,True
+P_0067,PARTNER,803CA7270,Sunrise Credit Union,Partnership #42589,False
+P_0068,PARTNER,807830890,Italy Bank #201,Corporation #20628,False
+P_0069,PARTNER,80C464630,Japan Bank #0,Corporation #29578,False
+P_0070,PARTNER,8107D3970,Israel Bank #53,Corporation #35871,False
+P_0071,PARTNER,80A61C8A0,Australia Bank #38,Corporation #34076,False
+P_0072,PARTNER,8053168D0,Belgium Bank #87,Sole Proprietorship #23105,True
+P_0073,PARTNER,8135B49D0,Spruce Federal Bank,Sole Proprietorship #2015,False
+P_0074,PARTNER,8041A3440,Savings Bank of Laramie,Sole Proprietorship #5335,True
+P_0075,PARTNER,8000EE420,Germany Bank #65,Corporation #20093,True
+P_0076,PARTNER,80640B300,First Bank of Dallas,Sole Proprietorship #781,False
+P_0077,PARTNER,80145D800,First Bank of Dallas,Partnership #50247,True
+P_0078,PARTNER,813A40B00,Capital Community Bank,Corporation #9441,False
+P_0079,PARTNER,80DACB580,Hearthstone Savings Bank,Partnership #3761,False
+P_0080,PARTNER,80CF68C90,Brazil Bank #10,Partnership #36818,False
+P_0081,PARTNER,80CA7BEE0,Acme Trust Bank,Partnership #36811,False
+P_0082,PARTNER,80098DC70,Germany Bank #126,Partnership #23412,True
+P_0083,PARTNER,81121FAB0,National Bank of Laramie,Sole Proprietorship #19667,True
+P_0084,PARTNER,81235E8B0,Israel Bank #6,Sole Proprietorship #45578,True
+P_0085,PARTNER,8041A4DD0,The Pine Thrift,Partnership #2530,False
+P_0086,PARTNER,80A99BDA0,Australia Bank #49,Corporation #51127,True
+P_0087,PARTNER,801FA96C0,Germany Bank #120,Corporation #38363,False
+P_0088,PARTNER,802E2AD70,Savings Bank of Huron,Sole Proprietorship #17934,True
+P_0089,PARTNER,80B13FD20,China Bank #60,Partnership #31524,False
+P_0090,PARTNER,803B8BFC0,Japan Bank #44,Partnership #48855,True
+P_0091,PARTNER,8045D4D50,National Bank of Danbury,Partnership #38574,False
+P_0092,PARTNER,80AEBECB0,National Bank of Fort Wayne,Corporation #749,True
+P_0093,PARTNER,80C0036A0,First Bank of Arkadelphia,Sole Proprietorship #15471,False
+P_0094,PARTNER,803F7D7A0,Japan Bank #8,Sole Proprietorship #30818,False
+P_0095,PARTNER,8041EBA10,Plandor Trust Bank,Partnership #3118,False
+P_0096,PARTNER,801C3E790,First Bank of Indianapolis,Partnership #4502,False
+P_0097,PARTNER,80FB16BD0,Switzerland Bank #11,Corporation #34854,False
+P_0098,PARTNER,801AF5660,France Bank #85,Sole Proprietorship #41963,False
+P_0099,PARTNER,1004286F0,Oasis Thrift,Partnership #30358,False
+P_0100,PARTNER,811A67510,Switzerland Bank #8,Partnership #38226,True
+P_0101,PARTNER,808B6FC70,UK Bank #61,Partnership #35651,False
+P_0102,PARTNER,80B847A90,Belgium Bank #677,Corporation #21157,False
+P_0103,PARTNER,804925400,Netherlands Bank #507,Corporation #20801,False
+P_0104,PARTNER,80E6BFD50,Bank of Miami,Partnership #14565,True
+P_0105,PARTNER,80172E860,Savings Bank of Milford,Sole Proprietorship #13506,False
+P_0106,PARTNER,800924840,Finland Bank #0,Partnership #2370,True
+P_0107,PARTNER,80DA95030,Austria Bank #233,Partnership #26127,False
+P_0108,PARTNER,801C0A610,France Bank #52,Partnership #41063,False
+P_0109,PARTNER,807BCBDB0,Germany Bank #32,Sole Proprietorship #22560,False
+P_0110,PARTNER,8010D4440,National Bank of the East,Sole Proprietorship #3911,True
+P_0111,PARTNER,8043B84A0,National Bank of Danbury,Corporation #6149,False
+P_0112,PARTNER,80E6D9980,China Bank #340,Partnership #43670,False
+P_0113,PARTNER,80B51F710,Netherlands Bank #117,Sole Proprietorship #53233,False
+P_0114,PARTNER,80794B6F0,Savings Bank of Houston,Sole Proprietorship #11549,True
+P_0115,PARTNER,808D5A430,Savings Bank of Lacrosse,Corporation #6876,False
+P_0116,PARTNER,1004288A0,Oasis Thrift,Sole Proprietorship #24857,False
+P_0117,PARTNER,80EB1AA20,Switzerland Bank #170,Partnership #37691,True
+P_0118,PARTNER,8051A3FA0,The Pine Thrift,Corporation #15274,False
+P_0119,PARTNER,80EEF5A50,Switzerland Bank #35,Sole Proprietorship #36904,False
+P_0120,PARTNER,810C289B0,Spain Bank #341,Sole Proprietorship #48307,True
+P_0121,PARTNER,8130E5130,First Bank of Detroit,Corporation #879,False
+P_0122,PARTNER,8034CEF90,First Bank of Indianapolis,Sole Proprietorship #5784,False
+P_0123,PARTNER,806AA6EE0,Russia Bank #28,Sole Proprietorship #32941,False
+P_0124,PARTNER,801C05230,France Bank #8,Partnership #30125,False
+P_0125,PARTNER,80BDF2170,Savings Bank of the Valley,Partnership #9809,False
+P_0126,PARTNER,8001D5B50,Finland Bank #0,Corporation #37283,True
+P_0127,PARTNER,8001ECD70,Golden Bancorp,Sole Proprietorship #198,True
+P_0128,PARTNER,80B2BA8F0,Australia Bank #18,Corporation #33736,False
+P_0129,PARTNER,8075AC7C0,Savings Bank of Bridgeport,Partnership #11986,True
+P_0130,PARTNER,80032DB60,Golden Bancorp,Partnership #17593,False
+P_0131,PARTNER,80B0C3F40,Australia Bank #17,Partnership #36466,True
+P_0132,PARTNER,80F523260,Switzerland Bank #112,Corporation #34854,False
+P_0133,PARTNER,80C2E7860,China Bank #33,Corporation #28899,True
+P_0134,PARTNER,808B1C350,First Bank of Chicago,Sole Proprietorship #39714,True
+P_0135,PARTNER,80465E020,Japan Bank #52,Corporation #29863,True
+P_0136,PARTNER,8050E2560,India Bank #28,Partnership #33780,False
+P_0137,PARTNER,801325390,Flagstone Federal Bank,Partnership #3164,False
+P_0138,PARTNER,8012CD590,National Bank of Pittsburgh,Sole Proprietorship #628,True
+P_0139,PARTNER,80A694E30,Spain Bank #1115,Corporation #42766,False
+P_0140,PARTNER,1004289C0,Oasis Thrift,Sole Proprietorship #37508,False
+P_0141,PARTNER,801A655B0,Plandor Savings Bank,Sole Proprietorship #6044,True
+P_0142,PARTNER,813AD3CA0,Bank of Billings,Sole Proprietorship #20060,False
+P_0143,PARTNER,80352D880,Baltech Thrift,Corporation #2318,False
+P_0144,PARTNER,80101E060,Italy Bank #73,Corporation #20566,False
+P_0145,PARTNER,808E44B10,UK Bank #29,Sole Proprietorship #6319,True
+P_0146,PARTNER,80BDC5A50,Bank of Huron,Sole Proprietorship #15280,False
+P_0147,PARTNER,80F47A310,Switzerland Bank #17,Corporation #34854,False
+P_0148,PARTNER,804282480,Acme Community Bank,Sole Proprietorship #7861,True
+P_0149,PARTNER,80F454910,Switzerland Bank #50,Sole Proprietorship #5550,True
+P_0150,PARTNER,804A5C9D0,Belgium Bank #87,Sole Proprietorship #24567,False
+P_0151,PARTNER,801B97810,France Bank #8,Sole Proprietorship #22440,False
+P_0152,PARTNER,8000B8AB0,Australia Bank #0,Partnership #3310,True
+P_0153,PARTNER,811588F30,Israel Bank #46,Corporation #36255,False
+P_0154,PARTNER,80C6F48A0,Sappo Bank,Partnership #45448,True
+P_0155,PARTNER,100428660,Oasis Thrift,Sole Proprietorship #41,False
+P_0156,PARTNER,801DB2560,Bank of New Orleans,Sole Proprietorship #4036,False
+P_0157,PARTNER,80AA9A690,UK Bank #20,Corporation #32978,False
+P_0158,PARTNER,8042A5980,Sea Bank,Partnership #262,False
+P_0159,PARTNER,809DACA80,Canada Bank #51,Corporation #12942,True
+P_0160,PARTNER,80F219920,Switzerland Bank #10,Sole Proprietorship #346,True
+P_0161,PARTNER,80AE68D00,Savings Bank of Seattle,Partnership #15208,True
+P_0162,PARTNER,80F49D900,Switzerland Bank #1,Partnership #37691,False
+P_0163,PARTNER,8009541B0,First Bank of Montpelier,Sole Proprietorship #9166,False
+P_0164,PARTNER,80678A430,Bank of Providence,Partnership #11023,False
+P_0165,PARTNER,100428780,Oasis Thrift,Sole Proprietorship #31648,False
+P_0166,PARTNER,100428978,Oasis Thrift,Sole Proprietorship #36613,False
+P_0167,PARTNER,80B6DC2A0,First Bank of Augusta,Sole Proprietorship #4664,False
+P_0168,PARTNER,100428738,Oasis Thrift,Corporation #29514,False
+P_0169,PARTNER,8028F8670,Bank of Hartford,Sole Proprietorship #5572,False
+P_0170,PARTNER,8053B01E0,India Bank #36,Sole Proprietorship #32259,True
+P_0171,PARTNER,811D80C30,Saudi Arabia Bank #5,Corporation #14622,True
+P_0172,PARTNER,81273DE50,France Bank #47,Corporation #24627,False
+P_0173,PARTNER,80F390FC0,Switzerland Bank #80,Corporation #34854,True
+P_0174,PARTNER,8015AC8C0,Netherlands Bank #4,Corporation #20597,False
+P_0175,PARTNER,806EC91C0,Russia Bank #13,Partnership #33830,False
+P_0176,PARTNER,80220E1C0,Savings Bank of Indianapolis,Sole Proprietorship #4767,False
+P_0177,PARTNER,8079C0A30,France Bank #658,Partnership #25474,True
+P_0178,PARTNER,811ED7DF0,Saudi Arabia Bank #18,Partnership #38433,True
+P_0179,PARTNER,80F80A060,Switzerland Bank #170,Sole Proprietorship #36871,False
+P_0180,PARTNER,811CB9E80,Germany Bank #139,Corporation #20535,False
+P_0181,PARTNER,8119A3D80,Greece Bank #616,Corporation #20459,False
+P_0182,PARTNER,800E3D880,Germany Bank #214,Partnership #23716,True
+P_0183,PARTNER,80C5219E0,Greece Bank #570,Corporation #23972,True
+P_0184,PARTNER,809DAEC50,Canada Bank #43,Partnership #36117,False
+P_0185,PARTNER,8028F2650,Italy Bank #49,Corporation #47535,True
+P_0186,PARTNER,80D0F39E0,Arbor Federal Bank,Partnership #7615,False
+P_0187,PARTNER,80337EA20,France Bank #40,Corporation #20950,False
+P_0188,PARTNER,80D31BC40,First Bank of Chicago,Sole Proprietorship #11998,False
+P_0189,PARTNER,80281EBF0,Germany Bank #553,Corporation #24814,False
+P_0190,PARTNER,8018859B0,Arbor Federal Bank,Individual #8,False
+P_0191,PARTNER,80874AF30,UK Bank #52,Corporation #32468,False
+P_0192,PARTNER,8052C6840,Bank of Boston,Partnership #8226,False
+P_0193,PARTNER,81152BF90,Israel Bank #35,Partnership #37705,False
+P_0194,PARTNER,801983E70,Savings Bank of Fairfield,Corporation #2545,False
+P_0195,PARTNER,812091620,UK Bank #58,Partnership #35557,False
+P_0196,PARTNER,8054E5310,India Bank #15,Partnership #33781,False
+P_0197,PARTNER,809D4A4B0,Canada Bank #4,Partnership #36051,False
+P_0198,PARTNER,80054CAB0,Savings Bank of Los Angeles,Corporation #563,True
+P_0199,PARTNER,809CC4600,Canada Bank #63,Corporation #33531,True
+P_0200,PARTNER,8147F3F50,Austria Bank #182,Corporation #26603,False
+C_000001,CLIENT,100428660,Oasis Thrift,Sole Proprietorship #41,False
+C_000002,CLIENT,100428660,Oasis Thrift,Sole Proprietorship #41,False
+C_000003,CLIENT,1004286A8,Oasis Thrift,Partnership #2370,False
+C_000004,CLIENT,8000485D0,India Bank #25,Sole Proprietorship #29275,True
+C_000005,CLIENT,800056160,Arbor Savings Bank,Corporation #16,True
+C_000006,CLIENT,800056370,Arbor Savings Bank,Corporation #17,False
+C_000007,CLIENT,800060420,China Bank #6,Sole Proprietorship #28683,True
+C_000008,CLIENT,800065110,Finland Bank #0,Partnership #23249,True
+C_000009,CLIENT,800072EF0,China Bank #3,Sole Proprietorship #43891,True
+C_000010,CLIENT,80007A550,Japan Bank #41,Sole Proprietorship #29281,True
+C_000011,CLIENT,8000B8AB0,Australia Bank #0,Partnership #3310,True
+C_000012,CLIENT,8000C76D0,Switzerland Bank #11,Partnership #2633,True
+C_000013,CLIENT,8000D9880,Switzerland Bank #8,Partnership #405,False
+C_000014,CLIENT,8000DA7D0,Israel Bank #6,Sole Proprietorship #4286,True
+C_000015,CLIENT,8000DB3C0,Israel Bank #6,Sole Proprietorship #40502,True
+C_000016,CLIENT,8000DB3C0,Israel Bank #6,Sole Proprietorship #40502,True
+C_000017,CLIENT,8000DBF20,Saudi Arabia Bank #4,Corporation #36537,True
+C_000018,CLIENT,8000DC420,Israel Bank #6,Sole Proprietorship #3673,False
+C_000019,CLIENT,8000E1590,Saudi Arabia Bank #6,Corporation #11758,True
+C_000020,CLIENT,8000E1590,Saudi Arabia Bank #6,Corporation #11758,True
+C_000021,CLIENT,8000E1590,Saudi Arabia Bank #6,Corporation #11758,True
+C_000022,CLIENT,8000E1590,Saudi Arabia Bank #6,Corporation #11758,True
+C_000023,CLIENT,8000FE790,Germany Bank #18,Corporation #20126,True
+C_000024,CLIENT,8001027C0,Finland Bank #0,Corporation #39343,True
+C_000025,CLIENT,800117590,National Bank of the East,Corporation #39,True
+C_000026,CLIENT,800118660,National Bank of Pittsburgh,Sole Proprietorship #3693,True
+C_000027,CLIENT,800123E90,China Bank #6,Sole Proprietorship #22214,False
+C_000028,CLIENT,800124BD0,Germany Bank #18,Partnership #23261,True
+C_000029,CLIENT,80012AE10,Finland Bank #0,Corporation #46317,True
+C_000030,CLIENT,800137450,National Bank of the East,Partnership #86,True
+C_000031,CLIENT,800146310,National Bank of Pittsburgh,Sole Proprietorship #4671,False
+C_000032,CLIENT,8001576B0,National Bank of Pittsburgh,Corporation #420,True
+C_000033,CLIENT,80015D1B0,National Bank of Laramie,Partnership #6579,True
+C_000034,CLIENT,8001694F0,Germany Bank #18,Corporation #40245,True
+C_000035,CLIENT,80016E8F0,National Bank of the East,Corporation #38486,True
+C_000036,CLIENT,8001882D0,National Bank of Laramie,Sole Proprietorship #134,False
+C_000037,CLIENT,800188850,Arbor Savings Bank,Sole Proprietorship #8667,True
+C_000038,CLIENT,8001AD4E0,France Bank #129,Sole Proprietorship #8499,False
+C_000039,CLIENT,8001AE930,Germany Bank #65,Sole Proprietorship #21628,True
+C_000040,CLIENT,8001B7DB0,China Bank #6,Partnership #23602,True
+C_000041,CLIENT,8001B8420,National Bank of the East,Corporation #48733,True
+C_000042,CLIENT,8001BA930,Arbor Savings Bank,Partnership #4212,True
+C_000043,CLIENT,8001C80F0,China Bank #6,Corporation #20131,True
+C_000044,CLIENT,8001D5700,National Bank of the East,Corporation #20134,True
+C_000045,CLIENT,8001D7610,Germany Bank #18,Partnership #23243,True
+C_000046,CLIENT,8001E6840,Arbor Savings Bank,Sole Proprietorship #196,True
+C_000047,CLIENT,800202F00,National Bank of the East,Corporation #24607,True
+C_000048,CLIENT,800205030,National Bank of the East,Corporation #20140,True
+C_000049,CLIENT,80020C2A0,Germany Bank #65,Partnership #13766,True
+C_000050,CLIENT,800246FC0,China Bank #6,Corporation #20162,True
+C_000051,CLIENT,80027A2B0,Germany Bank #18,Corporation #4739,True
+C_000052,CLIENT,80027BDE0,Finland Bank #0,Partnership #2370,True
+C_000053,CLIENT,800283B60,China Bank #6,Partnership #39985,True
+C_000054,CLIENT,800283B60,China Bank #6,Partnership #39985,True
+C_000055,CLIENT,800289C70,Finland Bank #0,Sole Proprietorship #41910,True
+C_000056,CLIENT,80028E6D0,Finland Bank #0,Sole Proprietorship #22276,True
+C_000057,CLIENT,800296B10,Italy Bank #95,Partnership #23314,False
+C_000058,CLIENT,80029E4F0,Italy Bank #95,Sole Proprietorship #27039,True
+C_000059,CLIENT,8002B5EE0,National Bank of Pittsburgh,Sole Proprietorship #569,True
+C_000060,CLIENT,8002B5EE0,National Bank of Pittsburgh,Sole Proprietorship #569,True
+C_000061,CLIENT,8002CB9E0,National Bank of Laramie,Sole Proprietorship #1386,True
+C_000062,CLIENT,8002D1950,Italy Bank #95,Sole Proprietorship #41943,True
+C_000063,CLIENT,8002DA960,China Bank #6,Sole Proprietorship #22300,True
+C_000064,CLIENT,8002E4450,Portugal Bank #43,Sole Proprietorship #14798,True
+C_000065,CLIENT,8002E9D40,Germany Bank #126,Sole Proprietorship #22262,True
+C_000066,CLIENT,80031A110,Finland Bank #0,Partnership #49238,True
+C_000067,CLIENT,800328300,Arbor Savings Bank,Partnership #2494,False
+C_000068,CLIENT,8003286C0,Acme Cooperative Bank,Partnership #236,False
+C_000069,CLIENT,8003286C0,Acme Cooperative Bank,Partnership #236,False
+C_000070,CLIENT,80032D090,National Bank of New Orleans,Sole Proprietorship #366,False
+C_000071,CLIENT,80033AD80,Acme Cooperative Bank,Corporation #278,True
+C_000072,CLIENT,800340470,Arbor Savings Bank,Sole Proprietorship #513,True
+C_000073,CLIENT,8003467C0,Savings Bank of Seattle,Partnership #416,False
+C_000074,CLIENT,800348720,National Bank of New Orleans,Partnership #3626,False
+C_000075,CLIENT,800348990,National Bank of New Orleans,Sole Proprietorship #6410,False
+C_000076,CLIENT,800348990,National Bank of New Orleans,Sole Proprietorship #6410,False
+C_000077,CLIENT,80034B060,Arbor Savings Bank,Partnership #419,False
+C_000078,CLIENT,80034B060,Arbor Savings Bank,Partnership #419,False
+C_000079,CLIENT,80034E600,National Bank of Boston,Partnership #433,False
+C_000080,CLIENT,80034E740,Plandor Trust Bank,Sole Proprietorship #2079,False
+C_000081,CLIENT,80034F370,Savings Bank of Seattle,Corporation #305,False
+C_000082,CLIENT,800388790,National Bank of New Orleans,Partnership #11621,False
+C_000083,CLIENT,800389010,Golden Bancorp,Sole Proprietorship #374,True
+C_000084,CLIENT,800389010,Golden Bancorp,Sole Proprietorship #374,True
+C_000085,CLIENT,800389100,Arbor Savings Bank,Partnership #425,False
+C_000086,CLIENT,800392BC0,National Bank of New Orleans,Partnership #12089,False
+C_000087,CLIENT,800392CB0,Arbor Savings Bank,Corporation #310,False
+C_000088,CLIENT,800392D50,Golden Bancorp,Partnership #429,False
+C_000089,CLIENT,800392EE0,National Bank of Boston,Partnership #430,False
+C_000090,CLIENT,800392EE0,National Bank of Boston,Partnership #430,False
+C_000091,CLIENT,800393E30,Golden Bancorp,Sole Proprietorship #11481,False
+C_000092,CLIENT,8003A4750,Arbor Savings Bank,Sole Proprietorship #39846,True
+C_000093,CLIENT,8003AA6D0,Germany Bank #126,Sole Proprietorship #22632,True
+C_000094,CLIENT,8003AA6D0,Germany Bank #126,Sole Proprietorship #22632,True
+C_000095,CLIENT,8003B8230,Savings Bank of Topeka,Partnership #47013,True
+C_000096,CLIENT,8003E5BD0,Savings Bank of Topeka,Partnership #503,True
+C_000097,CLIENT,8003E7740,National Bank of Laramie,Sole Proprietorship #446,True
+C_000098,CLIENT,8003ED970,Savings Bank of Seattle,Sole Proprietorship #19206,True
+C_000099,CLIENT,800410C30,Golden Bancorp,Sole Proprietorship #40924,True
+C_000100,CLIENT,80042AC60,National Bank of Boston,Corporation #409,True
+C_000101,CLIENT,80044A080,Acme Cooperative Bank,Sole Proprietorship #6627,False
+C_000102,CLIENT,80044A5D0,Arbor Savings Bank,Partnership #53152,True
+C_000103,CLIENT,80044E450,Arbor Savings Bank,Sole Proprietorship #39524,True
+C_000104,CLIENT,800456A50,Savings Bank of Los Angeles,Sole Proprietorship #34361,False
+C_000105,CLIENT,800459750,Arbor Savings Bank,Corporation #429,True
+C_000106,CLIENT,80045FE30,Golden Bancorp,Sole Proprietorship #562,True
+C_000107,CLIENT,80046B350,Arbor Savings Bank,Sole Proprietorship #2807,True
+C_000108,CLIENT,8004723C0,Savings Bank of Topeka,Sole Proprietorship #38896,True
+C_000109,CLIENT,800473820,Savings Bank of Seattle,Corporation #47699,True
+C_000110,CLIENT,800473C40,Arbor Thrift,Corporation #11663,True
+C_000111,CLIENT,8004825B0,Savings Bank of Seattle,Sole Proprietorship #611,True
+C_000112,CLIENT,80049A310,National Bank of Laramie,Corporation #506,True
+C_000113,CLIENT,8004C1720,Arbor Savings Bank,Sole Proprietorship #649,False
+C_000114,CLIENT,800526550,Italy Bank #49,Sole Proprietorship #38953,True
+C_000115,CLIENT,800528290,National Bank of the East,Corporation #20080,True
+C_000116,CLIENT,80052C600,France Bank #85,Sole Proprietorship #22382,False
+C_000117,CLIENT,80053C0B0,Golden Bancorp,Sole Proprietorship #747,True
+C_000118,CLIENT,800544890,Spain Bank #23,Corporation #20285,False
+C_000119,CLIENT,80054A7C0,Arbor Savings Bank,Sole Proprietorship #7674,True
+C_000120,CLIENT,800550B60,National Bank of the East,Partnership #23409,True
+C_000121,CLIENT,80055F090,Spain Bank #23,Corporation #20289,True
+C_000122,CLIENT,80056CE80,Italy Bank #95,Sole Proprietorship #22373,True
+C_000123,CLIENT,800579A40,National Bank of Indianapolis,Partnership #38696,False
+C_000124,CLIENT,80059A750,National Bank of the East,Sole Proprietorship #824,True
+C_000125,CLIENT,8005A64B0,First Bank of Montpelier,Partnership #896,True
+C_000126,CLIENT,8005BD570,Savings Bank of Seattle,Partnership #926,True
+C_000127,CLIENT,8005C1970,Plandor Savings Bank,Partnership #7228,True
+C_000128,CLIENT,8005D13F0,Savings Bank of Los Angeles,Partnership #8162,False
+C_000129,CLIENT,800619700,First Bank of Springfield,Partnership #10163,True
+C_000130,CLIENT,80061BB00,Savings Bank of Seattle,Sole Proprietorship #14388,True
+C_000131,CLIENT,80062C960,Golden Bancorp,Corporation #54398,True
+C_000132,CLIENT,80063CFF0,Spain Bank #23,Sole Proprietorship #28010,False
+C_000133,CLIENT,8006457A0,First Bank of Springfield,Partnership #1980,False
+C_000134,CLIENT,8006A4A30,Savings Bank of Los Angeles,Sole Proprietorship #3353,True
+C_000135,CLIENT,8006A6CF0,Savings Bank of Topeka,Partnership #1120,True
+C_000136,CLIENT,8006BF850,France Bank #51,Sole Proprietorship #22402,True
+C_000137,CLIENT,8006D7690,Savings Bank of Seattle,Partnership #1157,True
+C_000138,CLIENT,8006FA4B0,Arbor Savings Bank,Corporation #851,True
+C_000139,CLIENT,80070AA30,Germany Bank #65,Sole Proprietorship #22407,True
+C_000140,CLIENT,80071C080,National Bank of Laramie,Sole Proprietorship #7887,True
+C_000141,CLIENT,8007354D0,National Bank of New Orleans,Partnership #11938,True
+C_000142,CLIENT,800750120,National Bank of Laramie,Corporation #5542,True
+C_000143,CLIENT,80079AE10,China Bank #6,Corporation #9086,True
+C_000144,CLIENT,80079B220,China Bank #6,Sole Proprietorship #29351,False
+C_000145,CLIENT,80079FA80,China Bank #14,Sole Proprietorship #29291,False
+C_000146,CLIENT,8007A1C40,China Bank #13,Corporation #28221,True
+C_000147,CLIENT,8007C1440,China Bank #14,Sole Proprietorship #29293,True
+C_000148,CLIENT,8007C2A40,China Bank #13,Partnership #30760,False
+C_000149,CLIENT,8007C31A0,China Bank #14,Sole Proprietorship #29296,False
+C_000150,CLIENT,8007C6170,China Bank #30,Partnership #22504,False
+C_000151,CLIENT,8007C6E70,China Bank #13,Corporation #28901,False
+C_000152,CLIENT,8007C7750,China Bank #3,Partnership #30394,False
+C_000153,CLIENT,8007EF950,Germany Bank #18,Partnership #23456,True
+C_000154,CLIENT,8007F79F0,Finland Bank #0,Sole Proprietorship #22421,True
+C_000155,CLIENT,80081F5E0,First Bank of Arkadelphia,Sole Proprietorship #15125,True
+C_000156,CLIENT,80082C6C0,Arbor Thrift,Sole Proprietorship #150,True
+C_000157,CLIENT,800836F80,First Bank of Arkadelphia,Partnership #1384,True
+C_000158,CLIENT,80087EA60,National Bank of Pittsburgh,Corporation #1085,True
+C_000159,CLIENT,80088E940,Brownstone Trust Bank,Partnership #13354,True
+C_000160,CLIENT,800893E40,Spain Bank #437,Corporation #40461,False
+C_000161,CLIENT,8008B1F80,Italy Bank #95,Partnership #11661,True
+C_000162,CLIENT,8008B29B0,Greece Bank #77,Sole Proprietorship #42869,True
+C_000163,CLIENT,800906D70,Savings Bank of Topeka,Sole Proprietorship #21961,True
+C_000164,CLIENT,80090C740,Germany Bank #366,Partnership #46252,False
+C_000165,CLIENT,800924840,Finland Bank #0,Partnership #2370,True
+C_000166,CLIENT,800934020,Savings Bank of Miami,Corporation #1206,False
+C_000167,CLIENT,800937C90,Flagstone Federal Bank,Corporation #6438,False
+C_000168,CLIENT,800938D10,First Bank of Springfield,Sole Proprietorship #10549,False
+C_000169,CLIENT,800938DB0,First Bank of Arkadelphia,Partnership #1591,False
+C_000170,CLIENT,80093B290,Sappo Bancorp,Partnership #47765,True
+C_000171,CLIENT,80093F2B0,Arbor Savings Bank,Partnership #1583,False
+C_000172,CLIENT,80093F7B0,Savings Bank of Seattle,Sole Proprietorship #2371,False
+C_000173,CLIENT,800949570,First Bank of Arkadelphia,Partnership #1564,True
+C_000174,CLIENT,800954070,Arbor Savings Bank,Partnership #1587,False
+C_000175,CLIENT,800958F00,First Bank of Indianapolis,Partnership #22221,False
+C_000176,CLIENT,8009636A0,Finland Bank #0,Partnership #23498,True
+C_000177,CLIENT,8009ABF50,Portugal Bank #43,Corporation #20251,True
+C_000178,CLIENT,8009C77C0,Spain Bank #23,Sole Proprietorship #22519,True
+C_000179,CLIENT,8009E34E0,Italy Bank #49,Corporation #20477,True
+C_000180,CLIENT,8009F1D10,First Bank of Plattsburg,Sole Proprietorship #38528,True
+C_000181,CLIENT,8009FD120,Portugal Bank #43,Sole Proprietorship #22373,True
+C_000182,CLIENT,800A180A0,Italy Bank #95,Sole Proprietorship #26660,True
+C_000183,CLIENT,800A483E0,France Bank #51,Partnership #23582,True
+C_000184,CLIENT,800A56540,First Bank of Indianapolis,Sole Proprietorship #43537,False
+C_000185,CLIENT,800A8E530,First Bank of Springfield,Sole Proprietorship #1613,True
+C_000186,CLIENT,800AB4E80,Willows Bancorp,Sole Proprietorship #1631,True
+C_000187,CLIENT,800AE9480,Germany Bank #239,Partnership #24894,True
+C_000188,CLIENT,800B047D0,Arbor Savings Bank,Sole Proprietorship #6900,True
+C_000189,CLIENT,800B68E00,Spain Bank #9,Corporation #27645,True
+C_000190,CLIENT,800B7DA00,Netherlands Bank #4,Corporation #20581,True
+C_000191,CLIENT,800BCF3C0,Bank of Harrisburg,Sole Proprietorship #17429,False
+C_000192,CLIENT,800BFC300,National Bank of Portland,Partnership #10791,False
+C_000193,CLIENT,800C67560,Italy Bank #73,Corporation #24603,True
+C_000194,CLIENT,800CD0BC0,Savings Bank of Dallas,Partnership #2078,False
+C_000195,CLIENT,800D25490,Bank of Lincoln,Partnership #21127,False
+C_000196,CLIENT,800D59B70,Spain Bank #3932,Sole Proprietorship #54924,False
+C_000197,CLIENT,800D78EB0,Italy Bank #73,Corporation #38373,True
+C_000198,CLIENT,800D7BCD0,Brook Credit Union,Corporation #5496,False
+C_000199,CLIENT,800D7DDB0,Italy Bank #73,Corporation #20251,True
+C_000200,CLIENT,800DF38E0,Sea Community Bank,Corporation #1366,False
+C_000201,CLIENT,800E2BB90,National Bank of Chicago,Partnership #2298,False
+C_000202,CLIENT,800E9F0B0,National Bank of Laramie,Partnership #44616,True
+C_000203,CLIENT,800EF3D90,Spruce Cooperative Bank,Partnership #4847,False
+C_000204,CLIENT,800EF7C00,Italy Bank #73,Corporation #20654,True
+C_000205,CLIENT,800EFDCD0,Netherlands Bank #4,Sole Proprietorship #48804,True
+C_000206,CLIENT,800F113C0,Italy Bank #3941,Corporation #46966,False
+C_000207,CLIENT,800F24BE0,Savings Bank of Los Angeles,Partnership #2370,True
+C_000208,CLIENT,800F31270,Savings Bank of Los Angeles,Sole Proprietorship #4683,True
+C_000209,CLIENT,800F57D60,National Bank of New Orleans,Partnership #54839,True
+C_000210,CLIENT,800FC0970,Bank of the East,Partnership #17497,False
+C_000211,CLIENT,800FD3C70,Spain Bank #4213,Corporation #26545,False
+C_000212,CLIENT,800FFB620,Desert Savings Bank,Partnership #19552,False
+C_000213,CLIENT,80101BF40,Germany Bank #239,Corporation #20736,False
+C_000214,CLIENT,80101EA40,Savings Bank of Los Angeles,Corporation #20370,False
+C_000215,CLIENT,80101F760,Germany Bank #18,Corporation #54975,False
+C_000216,CLIENT,8010224C0,Austria Bank #90,Corporation #20407,False
+C_000217,CLIENT,8010237A0,Germany Bank #179,Partnership #26512,False
+C_000218,CLIENT,801027BB0,Germany Bank #65,Corporation #20703,False
+C_000219,CLIENT,80102A1F0,China Bank #6,Corporation #20404,True
+C_000220,CLIENT,80102BBA0,France Bank #85,Sole Proprietorship #13857,False
+C_000221,CLIENT,80104ABA0,Bank of Chicago,Partnership #2661,True
+C_000222,CLIENT,80104B3D0,Plandor Trust Bank,Partnership #2660,True
+C_000223,CLIENT,801059EF0,Italy Bank #53,Sole Proprietorship #29206,True
+C_000224,CLIENT,801079B80,Netherlands Bank #4,Sole Proprietorship #3506,True
+C_000225,CLIENT,8010BAAC0,Mountain Trust Bank,Corporation #2112,True
+C_000226,CLIENT,8010D4440,National Bank of the East,Sole Proprietorship #3911,True
+C_000227,CLIENT,8010D6C80,Savings Bank of Miami,Partnership #2725,True
+C_000228,CLIENT,8010F4680,Spain Bank #23,Partnership #23807,True
+C_000229,CLIENT,8010FD8B0,Savings Bank of Los Angeles,Sole Proprietorship #22901,True
+C_000230,CLIENT,80111F0D0,Bank of New Orleans,Sole Proprietorship #4804,False
+C_000231,CLIENT,80112FAD0,Golden Bancorp,Partnership #38558,False
+C_000232,CLIENT,801139C30,Acme Cooperative Bank,Corporation #2123,True
+C_000233,CLIENT,80113DA30,Sea Bank,Corporation #8570,False
+C_000234,CLIENT,80114E950,National Bank of Boston,Partnership #592,False
+C_000235,CLIENT,801150FC0,Bank of Arkadelphia,Sole Proprietorship #2694,False
+C_000236,CLIENT,801151150,Bank of New Orleans,Corporation #39861,False
+C_000237,CLIENT,8011514B0,Savings Bank of Seattle,Sole Proprietorship #1009,False
+C_000238,CLIENT,8011518B0,Bank of the South,Sole Proprietorship #2693,False
+C_000239,CLIENT,801151950,Acme Cooperative Bank,Partnership #6834,False
+C_000240,CLIENT,801218970,France Bank #35,Corporation #39351,True
+C_000241,CLIENT,801228520,Flagstone Bancorp,Corporation #2314,True
+C_000242,CLIENT,8012525C0,Arbor Savings Bank,Sole Proprietorship #2883,True
+C_000243,CLIENT,801253D80,Savings Bank of Dallas,Partnership #4239,True
+C_000244,CLIENT,80128F040,National Bank of the East,Partnership #19423,False
+C_000245,CLIENT,8012E62B0,Acme Community Bank,Partnership #39484,True
+C_000246,CLIENT,80131B6F0,Arbor Savings Bank,Corporation #2491,False
+C_000247,CLIENT,80131B790,Savings Bank of Fairfield,Sole Proprietorship #3054,False
+C_000248,CLIENT,8013250D0,Future Cooperative Bank,Corporation #6743,False
+C_000249,CLIENT,801325340,Savings Bank of Butte,Partnership #3161,False
+C_000250,CLIENT,801338D50,Sappo Bancorp,Sole Proprietorship #3056,False
+C_000251,CLIENT,80133B640,Bank of Billings,Partnership #3163,False
+C_000252,CLIENT,8013431C0,Bank of Chicago,Sole Proprietorship #3059,False
+C_000253,CLIENT,801348970,Spain Bank #23,Partnership #23882,True
+C_000254,CLIENT,801396710,National Bank of Laramie,Sole Proprietorship #4417,True
+C_000255,CLIENT,8013C5D60,Italy Bank #3941,Corporation #53809,False
+C_000256,CLIENT,80145D1D0,Acme Federal Bank,Sole Proprietorship #3216,True
+C_000257,CLIENT,8014621B0,Spruce Cooperative Bank,Partnership #112,True
+C_000258,CLIENT,801479230,Italy Bank #73,Partnership #28849,True
+C_000259,CLIENT,801485510,Willows Bancorp,Partnership #727,True
+C_000260,CLIENT,8014CBA10,Willows Community Bank,Partnership #45915,True
+C_000261,CLIENT,8014FCAF0,Brownstone Credit Union,Corporation #2671,True
+C_000262,CLIENT,801505B60,Italy Bank #316,Corporation #26555,False
+C_000263,CLIENT,801514330,Slovakia Bank #3113,Partnership #25509,False
+C_000264,CLIENT,80154AAF0,Spain Bank #9,Partnership #23675,True
+C_000265,CLIENT,80154ABE0,Germany Bank #74,Sole Proprietorship #13857,False
+C_000266,CLIENT,801564480,France Bank #35,Partnership #29014,True
+C_000267,CLIENT,80156DE70,Acme Federal Bank,Partnership #3433,True
+C_000268,CLIENT,80157E940,Germany Bank #214,Sole Proprietorship #23433,True
+C_000269,CLIENT,8015A53B0,Germany Bank #74,Corporation #20520,False
+C_000270,CLIENT,8015AB5D0,Germany Bank #74,Sole Proprietorship #22481,False
+C_000271,CLIENT,8015ADA70,Germany Bank #160,Sole Proprietorship #22394,False
+C_000272,CLIENT,8015AE210,Spain Bank #81,Partnership #23927,False
+C_000273,CLIENT,8015AED00,Greece Bank #77,Corporation #20404,False
+C_000274,CLIENT,8015AED50,France Bank #75,Partnership #25293,False
+C_000275,CLIENT,801656500,Savings Bank of Chicago,Partnership #7042,False
+C_000276,CLIENT,8016A8DE0,Willows Community Bank,Sole Proprietorship #45607,True
+C_000277,CLIENT,8016AF890,Belgium Bank #79,Sole Proprietorship #23009,True
+C_000278,CLIENT,8016EFD70,Spruce Community Bank,Partnership #3589,True
+C_000279,CLIENT,801703570,Arbor Thrift,Partnership #3676,True
+C_000280,CLIENT,80171D7A0,Sappo Bancorp,Sole Proprietorship #3535,False
+C_000281,CLIENT,80171EF50,Willows Community Bank,Sole Proprietorship #6771,False
+C_000282,CLIENT,8017213C0,Plandor Savings Bank,Partnership #3727,False
+C_000283,CLIENT,80172BC60,First Bank of Hartford,Sole Proprietorship #3542,False
+C_000284,CLIENT,80172BDF0,Savings Bank of Huron,Corporation #2887,False
+C_000285,CLIENT,80172C960,National Bank of Helena,Sole Proprietorship #3544,False
+C_000286,CLIENT,80172FD70,The Pine Thrift,Partnership #7008,False
+C_000287,CLIENT,801736690,First Bank of the East,Sole Proprietorship #19742,False
+C_000288,CLIENT,801798880,Savings Bank of Huron,Corporation #2943,True
+C_000289,CLIENT,8017A4900,National Bank of Dallas,Corporation #14645,False
+C_000290,CLIENT,8017F7FF0,Spruce Cooperative Bank,Partnership #3892,True
+C_000291,CLIENT,8018031B0,Willows Thrift,Partnership #43162,True
+C_000292,CLIENT,801812250,National Bank of the East,Corporation #20567,True
+C_000293,CLIENT,801820540,Italy Bank #97,Partnership #28343,True
+C_000294,CLIENT,801847600,Golden Bancorp,Corporation #3015,True
+C_000295,CLIENT,801856350,National Bank of Boston,Sole Proprietorship #3738,True
+C_000296,CLIENT,8018859B0,Arbor Federal Bank,Individual #8,False
+C_000297,CLIENT,8018B5A10,Italy Bank #95,Partnership #46767,True
+C_000298,CLIENT,8018F8400,Greece Bank #77,Partnership #23412,False
+C_000299,CLIENT,801928280,Bank of Chicago,Partnership #4032,True
+C_000300,CLIENT,801976F00,Oak Bancorp,Partnership #53828,False
+C_000301,CLIENT,801977590,Bank of the West,Partnership #4105,True
+C_000302,CLIENT,801986020,Golden Bancorp,Sole Proprietorship #3916,False
+C_000303,CLIENT,801987F50,Acme Federal Bank,Partnership #4130,False
+C_000304,CLIENT,8019883B0,National Bank of Pittsburgh,Corporation #3156,False
+C_000305,CLIENT,801988770,First Bank of Montpelier,Corporation #3157,False
+C_000306,CLIENT,80198C590,Savings Bank of Huron,Sole Proprietorship #3914,False
+C_000307,CLIENT,80198C680,Bank of Portland,Partnership #11414,False
+C_000308,CLIENT,80198F0D0,Bank of the South,Corporation #3167,False
+C_000309,CLIENT,801998160,National Bank of Laramie,Sole Proprietorship #3921,True
+C_000310,CLIENT,8019D0940,France Bank #35,Partnership #24643,True
+C_000311,CLIENT,801A5B470,Savings Bank of New Orleans,Sole Proprietorship #9744,True
+C_000312,CLIENT,801A8B2F0,France Bank #75,Corporation #43329,True
+C_000313,CLIENT,801ABC430,National Bank of Boston,Sole Proprietorship #4116,True
+C_000314,CLIENT,801ADDA10,Greece Bank #77,Corporation #21196,False
+C_000315,CLIENT,801ADF2D0,Ireland Bank #96,Sole Proprietorship #26393,False
+C_000316,CLIENT,801AE14F0,Italy Bank #97,Partnership #23367,False
+C_000317,CLIENT,801AE4070,Ireland Bank #71,Partnership #24782,True
+C_000318,CLIENT,801AE6C10,Italy Bank #304,Partnership #28476,False
+C_000319,CLIENT,801AE8FD0,Austria Bank #2,Sole Proprietorship #22244,False
+C_000320,CLIENT,801AEAD60,Germany Bank #88,Corporation #24345,False
+C_000321,CLIENT,801AEF5A0,Italy Bank #73,Partnership #28705,False
+C_000322,CLIENT,801AF0C40,Germany Bank #38,Sole Proprietorship #25062,False
+C_000323,CLIENT,801AF7AE0,Germany Bank #18,Corporation #20908,False
+C_000324,CLIENT,801AF7B80,Finland Bank #0,Corporation #24647,False
+C_000325,CLIENT,801B02270,Italy Bank #53,Partnership #22388,False
+C_000326,CLIENT,801B91CF0,France Bank #52,Partnership #22388,False
+C_000327,CLIENT,801B92F40,Germany Bank #120,Partnership #25271,False
+C_000328,CLIENT,801B95CC0,Netherlands Bank #72,Corporation #20961,False
+C_000329,CLIENT,801B96120,Germany Bank #18,Sole Proprietorship #24307,False
+C_000330,CLIENT,801B96B20,Germany Bank #179,Corporation #20450,False
+C_000331,CLIENT,801B96F30,Italy Bank #97,Partnership #7964,False
+C_000332,CLIENT,801B96F30,Italy Bank #97,Partnership #7964,False
+C_000333,CLIENT,801B984E0,Greece Bank #77,Corporation #51026,False
+C_000334,CLIENT,801B9D380,Italy Bank #73,Corporation #21119,False
+C_000335,CLIENT,801B9D4C0,Savings Bank of Los Angeles,Corporation #20520,False
+C_000336,CLIENT,801B9E2E0,Slovakia Bank #106,Sole Proprietorship #3072,False
+C_000337,CLIENT,801B9F6A0,Germany Bank #126,Partnership #46824,False
+C_000338,CLIENT,801B9F970,Slovakia Bank #106,Partnership #23983,False
+C_000339,CLIENT,801B9F970,Slovakia Bank #106,Partnership #23983,False
+C_000340,CLIENT,801B9FC90,Italy Bank #4806,Corporation #53531,False
+C_000341,CLIENT,801BA07D0,France Bank #40,Corporation #24943,False
+C_000342,CLIENT,801BA2B00,Finland Bank #0,Corporation #23074,False
+C_000343,CLIENT,801BA30D0,Savings Bank of Los Angeles,Sole Proprietorship #22320,False
+C_000344,CLIENT,801BC6530,Spain Bank #4687,Sole Proprietorship #22317,False
+C_000345,CLIENT,801BCE220,Savings Bank of Detroit,Corporation #3400,True
+C_000346,CLIENT,801BE1590,Capital Trust Bank,Partnership #4443,True
+C_000347,CLIENT,801BF5B20,First Bank of Tampa,Sole Proprietorship #4273,False
+C_000348,CLIENT,801BF60F0,Savings Bank of Fairfield,Corporation #221,False
+C_000349,CLIENT,801BF6E80,National Bank of Helena,Sole Proprietorship #4275,False
+C_000350,CLIENT,801BF8C30,Arbor Savings Bank,Partnership #4500,False
+C_000351,CLIENT,801BF9ED0,National Bank of Laramie,Corporation #3427,True
+C_000352,CLIENT,801C04740,Germany Bank #160,Corporation #21252,False
+C_000353,CLIENT,801C050A0,Croatia Bank #36,Corporation #21172,False
+C_000354,CLIENT,801C05E50,Spain Bank #37,Sole Proprietorship #23059,False
+C_000355,CLIENT,801C060D0,Portugal Bank #43,Partnership #24242,False
+C_000356,CLIENT,801C060D0,Portugal Bank #43,Partnership #24242,False
+C_000357,CLIENT,801C061C0,Germany Bank #126,Partnership #23418,False
+C_000358,CLIENT,801C06260,Germany Bank #214,Sole Proprietorship #23239,False
+C_000359,CLIENT,801C06760,Croatia Bank #36,Corporation #20566,False
+C_000360,CLIENT,801C096C0,France Bank #35,Sole Proprietorship #22195,False
+C_000361,CLIENT,801C09D00,Germany Bank #65,Partnership #24971,False
+C_000362,CLIENT,801C09D50,Germany Bank #21,Partnership #19495,False
+C_000363,CLIENT,801C0A520,Germany Bank #65,Corporation #20654,False
+C_000364,CLIENT,801C0AE50,Portugal Bank #43,Partnership #23252,False
+C_000365,CLIENT,801C0C520,Spain Bank #23,Partnership #23646,False
+C_000366,CLIENT,801C0C9D0,Greece Bank #77,Corporation #20663,False
+C_000367,CLIENT,801C0C9D0,Greece Bank #77,Corporation #20663,False
+C_000368,CLIENT,801C0DD30,Belgium Bank #79,Sole Proprietorship #23012,False
+C_000369,CLIENT,801C0F2B0,France Bank #103,Partnership #30131,True
+C_000370,CLIENT,801C0F2B0,France Bank #103,Partnership #30131,True
+C_000371,CLIENT,801C0F580,Greece Bank #44,Corporation #20520,False
+C_000372,CLIENT,801C0FDD0,Italy Bank #97,Sole Proprietorship #27178,False
+C_000373,CLIENT,801C0FFB0,France Bank #100,Corporation #20762,False
+C_000374,CLIENT,801C0FFB0,France Bank #100,Corporation #20762,False
+C_000375,CLIENT,801C152A0,Italy Bank #53,Partnership #28850,True
+C_000376,CLIENT,801C3A9F0,National Bank of Portland,Partnership #4499,False
+C_000377,CLIENT,801C3D270,Savings Bank of Fairfield,Sole Proprietorship #4279,False
+C_000378,CLIENT,801C3E790,First Bank of Indianapolis,Partnership #4502,False
+C_000379,CLIENT,801C3FBB0,Savings Bank of Phoenix,Corporation #16348,False
+C_000380,CLIENT,801C63740,Ireland Bank #71,Sole Proprietorship #26382,True
+C_000381,CLIENT,801D1AD90,Plandor Savings Bank,Partnership #47580,True
+C_000382,CLIENT,801D2E530,Germany Bank #60,Sole Proprietorship #23260,True
+C_000383,CLIENT,801DA7F20,Plandor Savings Bank,Sole Proprietorship #4475,False
+C_000384,CLIENT,801DA8990,National Bank of the East,Partnership #5392,True
+C_000385,CLIENT,801DA8990,National Bank of the East,Partnership #5392,True
+C_000386,CLIENT,801DAABE0,Golden Bancorp,Sole Proprietorship #4478,False
+C_000387,CLIENT,801DAAEA0,Capital Trust Bank,Sole Proprietorship #8658,False
+C_000388,CLIENT,801DADE60,First Bank of Hartford,Corporation #3585,False
+C_000389,CLIENT,801DAFF30,Willows Community Bank,Sole Proprietorship #41683,False
+C_000390,CLIENT,801DB1000,First Bank of Montpelier,Partnership #4693,False
+C_000391,CLIENT,801DB18F0,Bank of the East,Partnership #4695,False
+C_000392,CLIENT,801DB1D00,Arbor Savings Bank,Partnership #6510,False
+C_000393,CLIENT,801DB21F0,First Bank of Tampa,Sole Proprietorship #4479,False
+C_000394,CLIENT,801DB2C70,Bank of Billings,Corporation #3587,True
+C_000395,CLIENT,801DB4300,Savings Bank of Harrisburg,Partnership #38524,True
+C_000396,CLIENT,801DB5620,National Bank of New Orleans,Partnership #4706,False
+C_000397,CLIENT,801DB94A0,Savings Bank of Miami,Partnership #4697,True
+C_000398,CLIENT,801DB9EC0,Arbor Federal Bank,Corporation #48561,False
+C_000399,CLIENT,801DBE6C0,Savings Bank of Harrisburg,Partnership #4699,False
+C_000400,CLIENT,801DD1C70,China Bank #6,Corporation #21313,True
+C_000401,CLIENT,801E2A890,Spain Bank #23,Partnership #53212,True
+C_000402,CLIENT,801E366E0,National Bank of the East,Corporation #13384,True
+C_000403,CLIENT,801E76F80,Slovakia Bank #106,Sole Proprietorship #23335,True
+C_000404,CLIENT,801E7AFA0,Germany Bank #3920,Sole Proprietorship #23448,False
+C_000405,CLIENT,801EA1CE0,Greece Bank #44,Corporation #21360,True
+C_000406,CLIENT,801EB8CA0,Germany Bank #105,Corporation #22476,True
+C_000407,CLIENT,801EC18E0,Spain Bank #9,Sole Proprietorship #23355,True
+C_000408,CLIENT,801EF79E0,France Bank #40,Partnership #24390,True
+C_000409,CLIENT,801F03B10,China Bank #6,Corporation #39473,True
+C_000410,CLIENT,801F4FAD0,France Bank #75,Corporation #20396,False
+C_000411,CLIENT,801F4FC10,Italy Bank #73,Partnership #3174,False
+C_000412,CLIENT,801F6B0A0,Savings Bank of Milford,Corporation #2145,True
+C_000413,CLIENT,801F97C50,Italy Bank #73,Corporation #20566,False
+C_000414,CLIENT,801F9C5C0,France Bank #4283,Partnership #29592,False
+C_000415,CLIENT,801FA1270,Netherlands Bank #72,Corporation #20829,False
+C_000416,CLIENT,801FA2770,Croatia Bank #36,Partnership #23616,False
+C_000417,CLIENT,801FA49E0,Germany Bank #239,Corporation #20566,False
+C_000418,CLIENT,801FA85B0,Germany Bank #4242,Partnership #40197,False
+C_000419,CLIENT,801FA96C0,Germany Bank #120,Corporation #38363,False
+C_000420,CLIENT,801FAB1F0,France Bank #100,Sole Proprietorship #23257,False
+C_000421,CLIENT,801FAEF00,Germany Bank #234,Corporation #23760,False
+C_000422,CLIENT,801FB2A00,Germany Bank #594,Sole Proprietorship #23866,False
+C_000423,CLIENT,801FD9E70,France Bank #103,Partnership #24454,True
+C_000424,CLIENT,802018210,National Bank of New Orleans,Partnership #39542,False
+C_000425,CLIENT,802042890,Italy Bank #438,Corporation #20146,False
+C_000426,CLIENT,80206F320,Italy Bank #49,Corporation #24931,False
+C_000427,CLIENT,8020706C0,Germany Bank #286,Corporation #27457,False
+C_000428,CLIENT,80208F660,Savings Bank of Miami,Partnership #38510,True
+C_000429,CLIENT,8020A44B0,Ireland Bank #4136,Corporation #24458,False
+C_000430,CLIENT,8020FB5E0,France Bank #40,Corporation #20989,True
+C_000431,CLIENT,8021199E0,Savings Bank of Los Angeles,Partnership #47026,True
+C_000432,CLIENT,80211A0E0,Belgium Bank #87,Partnership #24544,True
+C_000433,CLIENT,80218A900,Slovakia Bank #106,Partnership #7964,True
+C_000434,CLIENT,8021BC810,Hilltop Community Bank,Corporation #13623,True
+C_000435,CLIENT,8021FA9F0,Sunrise Credit Union,Sole Proprietorship #4762,False
+C_000436,CLIENT,8021FD2A0,Willows Thrift,Partnership #4982,False
+C_000437,CLIENT,8021FE8F0,Spruce Trust Bank,Partnership #4027,False
+C_000438,CLIENT,802208C20,Sunrise Credit Union,Sole Proprietorship #5403,False
+C_000439,CLIENT,80220DF90,Sea Bank,Corporation #3860,False
+C_000440,CLIENT,80221DDB0,Savings Bank of Fairfield,Corporation #3865,False
+C_000441,CLIENT,80221F5A0,Golden Bancorp,Sole Proprietorship #4772,False
+C_000442,CLIENT,80226C7A0,National Bank of the East,Partnership #45924,True
+C_000443,CLIENT,80227FC50,Bank of New Orleans,Partnership #5080,True
+C_000444,CLIENT,802288860,Netherlands Bank #113,Corporation #20978,True
+C_000445,CLIENT,8022EFC20,China Bank #14,Sole Proprietorship #30142,True
+C_000446,CLIENT,80236ED50,Spruce Cooperative Bank,Sole Proprietorship #10265,True
+C_000447,CLIENT,802371D80,Bank of the South,Sole Proprietorship #4957,True
+C_000448,CLIENT,802396820,Savings Bank of Indianapolis,Sole Proprietorship #16601,False
+C_000449,CLIENT,8023970E0,Bank of Chicago,Partnership #14779,False
+C_000450,CLIENT,802397850,Baltech Community Bank,Corporation #5724,False
+C_000451,CLIENT,80239A430,First Bank of Tampa,Sole Proprietorship #562,True
+C_000452,CLIENT,80239B980,Bank of the South,Sole Proprietorship #5189,False
+C_000453,CLIENT,8023D9D60,Golden Thrift,Sole Proprietorship #10845,False
+C_000454,CLIENT,8024018F0,Plandor Savings Bank,Partnership #5236,True
+C_000455,CLIENT,802458B00,Hearthstone Thrift,Partnership #40589,False
+C_000456,CLIENT,80246E400,Bank of Arkadelphia,Partnership #7726,False
+C_000457,CLIENT,80246EDA0,Hilltop Trust Bank,Partnership #38772,False
+C_000458,CLIENT,80248B3E0,Golden Thrift,Sole Proprietorship #6475,False
+C_000459,CLIENT,8024C8D80,Spruce Cooperative Bank,Corporation #4175,False
+C_000460,CLIENT,8024CAB50,Savings Bank of Butte,Partnership #3865,False
+C_000461,CLIENT,8024CABF0,Heath Savings Bank,Partnership #12039,False
+C_000462,CLIENT,80250A0C0,Plateau Community Bank,Corporation #36824,False
+C_000463,CLIENT,80250C670,Savings Bank of Sacramento,Partnership #5471,False
+C_000464,CLIENT,802555EE0,Spruce Trust Bank,Corporation #40757,True
+C_000465,CLIENT,80255E6A0,National Bank of Boston,Corporation #39871,True
+C_000466,CLIENT,8026C7E90,Italy Bank #304,Corporation #28019,False
+C_000467,CLIENT,8026CBAD0,Belgium Bank #152,Sole Proprietorship #23223,False
+C_000468,CLIENT,8026CBE40,Austria Bank #2,Sole Proprietorship #23613,False
+C_000469,CLIENT,8026D8240,National Bank of Pittsburgh,Corporation #4334,False
+C_000470,CLIENT,8026F8D40,France Bank #51,Corporation #20940,False
+C_000471,CLIENT,8027003B0,Spain Bank #37,Corporation #52692,False
+C_000472,CLIENT,802702CE0,Greece Bank #77,Corporation #21023,False
+C_000473,CLIENT,802703870,Spain Bank #450,Corporation #37388,False
+C_000474,CLIENT,80273FB80,Baltech Community Bank,Corporation #44991,True
+C_000475,CLIENT,80278EF50,Spain Bank #4532,Corporation #24787,False
+C_000476,CLIENT,8027A9260,Savings Bank of Los Angeles,Sole Proprietorship #5409,True
+C_000477,CLIENT,8027CB4E0,Baltech Community Bank,Partnership #14621,True
+C_000478,CLIENT,8027D0280,Hilltop Community Bank,Sole Proprietorship #5436,False
+C_000479,CLIENT,8027E2CB0,Germany Bank #4950,Partnership #28514,False
+C_000480,CLIENT,80280B1F0,Netherlands Bank #113,Sole Proprietorship #3072,False
+C_000481,CLIENT,80280B6F0,Germany Bank #214,Sole Proprietorship #22868,False
+C_000482,CLIENT,802813BC0,Germany Bank #21,Corporation #25367,False
+C_000483,CLIENT,802814FB0,Germany Bank #92,Sole Proprietorship #45958,False
+C_000484,CLIENT,80282AA60,Spain Bank #12,Corporation #20402,False
+C_000485,CLIENT,80282E880,Germany Bank #179,Partnership #48335,False
+C_000486,CLIENT,80282F050,Netherlands Bank #4,Sole Proprietorship #22836,False
+C_000487,CLIENT,80286F5F0,Savings Bank of New Orleans,Corporation #37945,True
+C_000488,CLIENT,8028AC420,Spain Bank #64,Corporation #41251,True
+C_000489,CLIENT,8028DCAE0,Italy Bank #84,Sole Proprietorship #23867,True
+C_000490,CLIENT,8028F11A0,Savings Bank of Danbury,Sole Proprietorship #53700,False
+C_000491,CLIENT,8028F33F0,First Bank of Danbury,Partnership #6799,False
+C_000492,CLIENT,8028F4240,Savings Bank of Fairfield,Sole Proprietorship #9512,False
+C_000493,CLIENT,8028F6660,Bank of Arkadelphia,Corporation #4525,False
+C_000494,CLIENT,8028F7EA0,First Bank of Los Angeles,Partnership #8928,False
+C_000495,CLIENT,8028F8670,Bank of Hartford,Sole Proprietorship #5572,False
+C_000496,CLIENT,80290FD30,Bank of Hartford,Partnership #5528,False
+C_000497,CLIENT,802910C20,Savings Bank of the Valley,Partnership #16183,False
+C_000498,CLIENT,802910E50,Savings Bank of Dallas,Corporation #1196,False
+C_000499,CLIENT,802919450,Acme Federal Bank,Partnership #4703,False
+C_000500,CLIENT,802929810,Capital Trust Bank,Partnership #5852,True
+C_000501,CLIENT,802934D60,Regents Trust Bank,Sole Proprietorship #6095,False
+C_000502,CLIENT,80296CA20,Belgium Bank #79,Corporation #20603,True
+C_000503,CLIENT,802974110,Savings Bank of Billings,Sole Proprietorship #48037,True
+C_000504,CLIENT,802993780,Austria Bank #20,Sole Proprietorship #23877,True
+C_000505,CLIENT,802A66370,Bank of Helena,Partnership #5424,True
+C_000506,CLIENT,802ABB380,Bank of Plattsburg,Partnership #43149,False
+C_000507,CLIENT,802C61040,Savings Bank of New York,Sole Proprietorship #4001,True
+C_000508,CLIENT,802C72030,Germany Bank #4504,Sole Proprietorship #27137,False
+C_000509,CLIENT,802CCDF10,National Bank of New Orleans,Corporation #10100,True
+C_000510,CLIENT,802CE4A20,National Bank of Pittsburgh,Sole Proprietorship #6782,False
+C_000511,CLIENT,802D0FB40,Spain Bank #23,Sole Proprietorship #24212,True
+C_000512,CLIENT,802DDEDC0,Spain Bank #1561,Sole Proprietorship #54137,False
+C_000513,CLIENT,802E15100,First Bank of Montpelier,Partnership #6343,True
+C_000514,CLIENT,802E2AD70,Savings Bank of Huron,Sole Proprietorship #17934,True
+C_000515,CLIENT,802E5BE90,Savings Bank of Huron,Corporation #4954,False
+C_000516,CLIENT,802EAF7D0,Bank of Laramie,Partnership #281,True
+C_000517,CLIENT,802F5E0D0,Croatia Bank #36,Sole Proprietorship #49266,True
+C_000518,CLIENT,802FBEBC0,China Bank #2,Partnership #30460,True
+C_000519,CLIENT,802FDD680,China Bank #6,Sole Proprietorship #29394,True
+C_000520,CLIENT,80303F3C0,Bank of Fort Wayne,Corporation #5100,True
+C_000521,CLIENT,803144A90,China Bank #8,Partnership #31104,True
+C_000522,CLIENT,803146110,China Bank #2,Corporation #28289,True
+C_000523,CLIENT,8031B5390,Flagstone Federal Bank,Corporation #3680,True
+C_000524,CLIENT,8031DBFE0,Germany Bank #38,Partnership #25375,True
+C_000525,CLIENT,8031EB1D0,First Bank of Albany,Partnership #6789,False
+C_000526,CLIENT,803288750,The Pine Federal Bank,Partnership #7363,False
+C_000527,CLIENT,803297210,Savings Bank of Fairfield,Partnership #14597,False
+C_000528,CLIENT,8032BB490,Heath Savings Bank,Partnership #7366,False
+C_000529,CLIENT,8032BC5B0,Savings Bank of Detroit,Corporation #17679,False
+C_000530,CLIENT,8032BDAA0,Bank of Fort Wayne,Partnership #720,False
+C_000531,CLIENT,8033098C0,Savings Bank of Phoenix,Partnership #48265,False
+C_000532,CLIENT,80337A8B0,Croatia Bank #36,Partnership #28665,False
+C_000533,CLIENT,80337C400,Spain Bank #12,Corporation #24998,False
+C_000534,CLIENT,8033D1170,Netherlands Bank #127,Sole Proprietorship #27033,False
+C_000535,CLIENT,8033D3A90,France Bank #33,Partnership #28395,False
+C_000536,CLIENT,8033D5DA0,Italy Bank #304,Partnership #24696,False
+C_000537,CLIENT,8033DE400,Austria Bank #2,Partnership #7964,False
+C_000538,CLIENT,8033E2790,Germany Bank #214,Corporation #24868,False
+C_000539,CLIENT,8033F8090,National Bank of Boston,Partnership #7633,False
+C_000540,CLIENT,80340DCF0,Acme Cooperative Bank,Sole Proprietorship #6651,True
+C_000541,CLIENT,80342F060,First Bank of Detroit,Partnership #11085,True
+C_000542,CLIENT,80349D400,National Bank of Boston,Partnership #17505,True
+C_000543,CLIENT,8034D0820,Flagstone Bancorp,Partnership #2918,False
+C_000544,CLIENT,8034E9AF0,Savings Bank of Fairfield,Corporation #14755,False
+C_000545,CLIENT,8034EA210,Sappo Bank,Sole Proprietorship #3805,False
+C_000546,CLIENT,8034EC110,Savings Bank of Fairfield,Corporation #5629,False
+C_000547,CLIENT,8034ED400,First Bank of the North,Partnership #1109,False
+C_000548,CLIENT,8034EF760,Bank of Hartford,Partnership #15146,False
+C_000549,CLIENT,803509D50,First Bank of Hartford,Partnership #7309,True
+C_000550,CLIENT,803528D30,Plateau Credit Union,Partnership #7344,False
+C_000551,CLIENT,80352CBF0,National Bank of Laramie,Partnership #7345,False
+C_000552,CLIENT,80352DE00,First Bank of Los Angeles,Sole Proprietorship #4025,False
+C_000553,CLIENT,803531060,First Bank of Tuscon,Partnership #1570,False
+C_000554,CLIENT,803616220,China Bank #10,Corporation #28458,True
+C_000555,CLIENT,8036AE1C0,China Bank #340,Sole Proprietorship #54158,True
+C_000556,CLIENT,8036B6370,China Bank #959,Partnership #31283,False
+C_000557,CLIENT,803707DC0,China Bank #4,Partnership #30721,True
+C_000558,CLIENT,80372CF70,France Bank #46,Corporation #28214,True
+C_000559,CLIENT,803793A30,National Bank of Detroit,Partnership #7561,True
+C_000560,CLIENT,8037951D0,Golden Bancorp,Partnership #19276,True
+C_000561,CLIENT,803803990,China Bank #38,Partnership #30900,True
+C_000562,CLIENT,80381C7A0,China Bank #41,Sole Proprietorship #46103,True
+C_000563,CLIENT,80382B300,Japan Bank #0,Sole Proprietorship #30545,False
+C_000564,CLIENT,803892E30,China Bank #6,Partnership #30356,True
+C_000565,CLIENT,8038A96B0,China Bank #4,Corporation #28289,True
+C_000566,CLIENT,8038DE530,Brownstone Trust Bank,Partnership #7636,True
+C_000567,CLIENT,8038DF660,China Bank #69,Corporation #28399,True
+C_000568,CLIENT,803908540,China Bank #9,Sole Proprietorship #30181,True
+C_000569,CLIENT,80390F790,China Bank #38,Partnership #30825,True
+C_000570,CLIENT,80391BE70,China Bank #61,Sole Proprietorship #52858,True
+C_000571,CLIENT,803936B10,China Bank #815,Partnership #31313,False
+C_000572,CLIENT,80399CED0,China Bank #26,Sole Proprietorship #29292,True
+C_000573,CLIENT,8039B1E10,Japan Bank #8,Sole Proprietorship #30572,True
+C_000574,CLIENT,8039D2050,Bank of Hartford,Partnership #14213,True
+C_000575,CLIENT,8039DCF40,Japan Bank #41,Partnership #31646,True
+C_000576,CLIENT,803A01980,Japan Bank #156,Partnership #31696,False
+C_000577,CLIENT,803A1AC00,Japan Bank #35,Sole Proprietorship #31476,True
+C_000578,CLIENT,803AE3170,Acme Federal Bank,Corporation #1602,False
+C_000579,CLIENT,803B2B200,Japan Bank #22,Partnership #31646,True
+C_000580,CLIENT,803B70100,Japan Bank #36,Partnership #31815,True
+C_000581,CLIENT,803B7F120,Spruce Bancorp,Corporation #6031,True
+C_000582,CLIENT,803C1D400,Bank of Denver,Sole Proprietorship #952,True
+C_000583,CLIENT,803C2EC60,Acme Thrift,Sole Proprietorship #1412,True
+C_000584,CLIENT,803C62630,Italy Bank #6,Partnership #24172,True
+C_000585,CLIENT,803C66270,The Pine Federal Bank,Sole Proprietorship #2077,True
+C_000586,CLIENT,803C83D60,Savings Bank of Phoenix,Corporation #11115,True
+C_000587,CLIENT,803C8E640,Baltech Thrift,Sole Proprietorship #983,False
+C_000588,CLIENT,803CA3E20,Golden Bancorp,Corporation #55228,False
+C_000589,CLIENT,803CA44E0,Savings Bank of Huron,Corporation #7620,True
+C_000590,CLIENT,803CA5E40,Acme Federal Bank,Partnership #6714,False
+C_000591,CLIENT,803CA74A0,Bank of Springfield,Sole Proprietorship #7424,False
+C_000592,CLIENT,803CA9090,National Bank of Danbury,Corporation #4341,False
+C_000593,CLIENT,803CAB8E0,First Bank of Montpelier,Partnership #2330,False
+C_000594,CLIENT,803CABBA0,Arbor Savings Bank,Sole Proprietorship #7429,False
+C_000595,CLIENT,803CB25D0,Acme Federal Bank,Corporation #17060,False
+C_000596,CLIENT,803CB7C80,Plandor Trust Bank,Sole Proprietorship #7437,False
+C_000597,CLIENT,803CC8F60,Japan Bank #45,Corporation #30208,True
+C_000598,CLIENT,803CFE980,Slovakia Bank #106,Sole Proprietorship #22420,True
+C_000599,CLIENT,803D15580,Germany Bank #124,Partnership #25544,True
+C_000600,CLIENT,803D94320,Japan Bank #41,Partnership #31653,True
+C_000601,CLIENT,803D99E70,Japan Bank #46,Corporation #29718,True
+C_000602,CLIENT,803DE4A90,Japan Bank #0,Partnership #31639,True
+C_000603,CLIENT,803E16070,Bank of Milford,Partnership #5554,False
+C_000604,CLIENT,803E261B0,First Bank of Houston,Partnership #8037,True
+C_000605,CLIENT,803E42EC0,Plandor Trust Bank,Corporation #50615,False
+C_000606,CLIENT,803E75780,Japan Bank #45,Partnership #31646,True
+C_000607,CLIENT,803ED04F0,Japan Bank #22,Corporation #29578,True
+C_000608,CLIENT,803F5E160,Japan Bank #18,Sole Proprietorship #31369,False
+C_000609,CLIENT,803F5F9E0,Japan Bank #45,Partnership #31646,False
+C_000610,CLIENT,803F7BFD0,Japan Bank #0,Sole Proprietorship #31560,False
+C_000611,CLIENT,803F7CB60,Japan Bank #44,Partnership #8169,False
+C_000612,CLIENT,803F7D750,Japan Bank #13,Partnership #39280,False
+C_000613,CLIENT,803F7D7A0,Japan Bank #8,Sole Proprietorship #30818,False
+C_000614,CLIENT,803F85BC0,Japan Bank #41,Sole Proprietorship #30658,False
+C_000615,CLIENT,803F9CB00,Japan Bank #18,Corporation #46485,True
+C_000616,CLIENT,803FF3D90,First Bank of Lacrosse,Corporation #352,True
+C_000617,CLIENT,803FFE7B0,National Bank of the East,Corporation #52794,False
+C_000618,CLIENT,803FFF060,Bank of Hartford,Corporation #44950,False
+C_000619,CLIENT,804000110,Flagstone Bancorp,Sole Proprietorship #7638,False
+C_000620,CLIENT,804002180,Baltech Thrift,Partnership #8143,False
+C_000621,CLIENT,804007450,First Bank of Lacrosse,Sole Proprietorship #1454,False
+C_000622,CLIENT,80400CD90,Savings Bank of Newport,Sole Proprietorship #974,False
+C_000623,CLIENT,80400D790,Savings Bank of Los Angeles,Corporation #8475,False
+C_000624,CLIENT,804010010,Savings Bank of Detroit,Partnership #4807,False
+C_000625,CLIENT,80411A570,Japan Bank #303,Partnership #42146,False
+C_000626,CLIENT,8041293F0,Japan Bank #50,Corporation #29525,True
+C_000627,CLIENT,80414D430,Japan Bank #18,Partnership #31646,False
+C_000628,CLIENT,8041535D0,Japan Bank #24,Corporation #29863,False
+C_000629,CLIENT,804154080,Japan Bank #312,Sole Proprietorship #31025,False
+C_000630,CLIENT,8041553F0,Japan Bank #44,Corporation #29578,False
+C_000631,CLIENT,804157340,Japan Bank #0,Corporation #29861,False
+C_000632,CLIENT,804157930,Japan Bank #179,Sole Proprietorship #31025,False
+C_000633,CLIENT,804159070,Japan Bank #55,Partnership #31639,False
+C_000634,CLIENT,80415B520,Japan Bank #13,Sole Proprietorship #31025,False
+C_000635,CLIENT,80415B840,Japan Bank #179,Corporation #29935,False
+C_000636,CLIENT,804162D10,Japan Bank #43,Corporation #30217,True
+C_000637,CLIENT,804199520,National Bank of Laramie,Sole Proprietorship #7045,False
+C_000638,CLIENT,80419C290,Bank of New York,Partnership #7326,False
+C_000639,CLIENT,80419D520,Arbor Savings Bank,Corporation #5479,False
+C_000640,CLIENT,8041A3440,Savings Bank of Laramie,Sole Proprietorship #5335,True
+C_000641,CLIENT,8041AE410,Greece Bank #5561,Partnership #24236,False
+C_000642,CLIENT,8041BF7D0,First Bank of Springfield,Corporation #6496,False
+C_000643,CLIENT,8041BF870,Sea Bank,Partnership #9522,False
+C_000644,CLIENT,8041DDAA0,Savings Bank of Topeka,Partnership #7094,False
+C_000645,CLIENT,8041DE150,Regents Thrift,Partnership #20292,False
+C_000646,CLIENT,8041EA620,First Bank of Springfield,Partnership #8260,False
+C_000647,CLIENT,8041EAC10,Regents Thrift,Sole Proprietorship #7758,False
+C_000648,CLIENT,8041EACB0,Plateau Credit Union,Sole Proprietorship #13540,False
+C_000649,CLIENT,8041EAE90,Hilltop Cooperative Bank,Corporation #18488,False
+C_000650,CLIENT,8041EBB50,National Bank of Danbury,Partnership #8261,False
+C_000651,CLIENT,8041EE000,First Bank of Springfield,Partnership #1923,False
+C_000652,CLIENT,8041EEB20,First Bank of Arkadelphia,Corporation #6467,False
+C_000653,CLIENT,8041F2330,Flagstone Bancorp,Sole Proprietorship #7760,False
+C_000654,CLIENT,804220990,Savings Bank of New York,Partnership #5900,False
+C_000655,CLIENT,80426CBE0,Willows Bancorp,Partnership #8374,False
+C_000656,CLIENT,80426DD10,National Bank of Detroit,Sole Proprietorship #20728,False
+C_000657,CLIENT,80426E0D0,Bank of Detroit,Corporation #6559,False
+C_000658,CLIENT,80426F040,First Bank of Indianapolis,Corporation #6565,False
+C_000659,CLIENT,80426F9F0,Savings Bank of Seattle,Partnership #5698,False
+C_000660,CLIENT,80426FEA0,Flagstone Federal Bank,Corporation #5299,False
+C_000661,CLIENT,804290F90,Savings Bank of Butte,Partnership #5821,True
+C_000662,CLIENT,8042A4260,Sea Bank,Sole Proprietorship #4186,False
+C_000663,CLIENT,8042E6710,France Bank #52,Sole Proprietorship #47875,True
+C_000664,CLIENT,80437CC40,Savings Bank of Lacrosse,Partnership #15469,False
+C_000665,CLIENT,8043A3B30,National Bank of Arkadelphia,Corporation #17907,False
+C_000666,CLIENT,8043B07C0,Sappo Bancorp,Sole Proprietorship #7920,True
+C_000667,CLIENT,8043B3220,Arbor Savings Bank,Partnership #14085,False
+C_000668,CLIENT,8043B3630,First Bank of Hartford,Partnership #8443,False
+C_000669,CLIENT,8043B3AB0,First Bank of Tampa,Partnership #8442,False
+C_000670,CLIENT,8043B3D70,Savings Bank of Phoenix,Corporation #18985,False
+C_000671,CLIENT,8043B7D50,National Bank of Helena,Partnership #5431,False
+C_000672,CLIENT,8043B8100,First Bank of Lacrosse,Sole Proprietorship #6041,False
+C_000673,CLIENT,804404E30,Japan Bank #36,Partnership #47946,True
+C_000674,CLIENT,8044218D0,National Bank of Boston,Sole Proprietorship #3965,True
+C_000675,CLIENT,8044456B0,Japan Bank #46,Corporation #29972,True
+C_000676,CLIENT,8044CB690,First Bank of Springfield,Partnership #1092,True
+C_000677,CLIENT,8044E2C30,Japan Bank #63,Corporation #30029,True
+C_000678,CLIENT,8044FA220,Japan Bank #816,Corporation #29862,False
+C_000679,CLIENT,80451C2E0,Acme Federal Bank,Partnership #6922,True
+C_000680,CLIENT,80451FEA0,Capital Trust Bank,Corporation #6696,False
+C_000681,CLIENT,8045CEDC0,Oasis Bank,Partnership #10474,False
+C_000682,CLIENT,8045D1B90,Sappo Bank,Corporation #4956,False
+C_000683,CLIENT,8045D60B0,First Bank of Boston,Partnership #3849,False
+C_000684,CLIENT,8045D96D0,Savings Bank of Lacrosse,Partnership #3512,False
+C_000685,CLIENT,8045DD3B0,First Bank of New Orleans,Corporation #6759,False
+C_000686,CLIENT,8045DDC70,National Bank of Detroit,Corporation #14107,False
+C_000687,CLIENT,8045E84A0,Japan Bank #436,Corporation #29863,False
+C_000688,CLIENT,804622AD0,Japan Bank #58,Sole Proprietorship #31308,True
+C_000689,CLIENT,8046427D0,Japan Bank #53,Sole Proprietorship #31592,True
+C_000690,CLIENT,804671B60,Japan Bank #41,Sole Proprietorship #31337,True
+C_000691,CLIENT,80468FA70,Japan Bank #41,Sole Proprietorship #31351,True
+C_000692,CLIENT,8046D5A70,Germany Bank #133,Partnership #45637,True
+C_000693,CLIENT,804844840,Bank of Butte,Sole Proprietorship #2068,True
+C_000694,CLIENT,8048C52A0,Netherlands Bank #3926,Sole Proprietorship #29257,False
+C_000695,CLIENT,8048CB7A0,China Bank #39,Partnership #30356,True
+C_000696,CLIENT,8048E30F0,First Bank of Chicago,Partnership #8763,True
+C_000697,CLIENT,804909F00,Germany Bank #32,Sole Proprietorship #23257,False
+C_000698,CLIENT,804916DF0,France Bank #111,Corporation #22588,False
+C_000699,CLIENT,8049240D0,France Bank #111,Partnership #25509,False
+C_000700,CLIENT,804924210,Belgium Bank #87,Sole Proprietorship #22700,False
+C_000701,CLIENT,804924E40,Netherlands Bank #55,Corporation #27801,False
+C_000702,CLIENT,80493AB10,Bank of Boston,Corporation #13610,False
+C_000703,CLIENT,80493B000,Bank of the West,Sole Proprietorship #39984,False
+C_000704,CLIENT,8049DF570,India Bank #2,Sole Proprietorship #31648,True
+C_000705,CLIENT,804A57800,Netherlands Bank #195,Partnership #24835,False
+C_000706,CLIENT,804A5CB10,Belgium Bank #417,Sole Proprietorship #42042,False
+C_000707,CLIENT,804A5EDC0,France Bank #4358,Partnership #29440,False
+C_000708,CLIENT,804A63A90,Germany Bank #239,Corporation #37409,False
+C_000709,CLIENT,804A66840,Germany Bank #65,Partnership #24852,True
+C_000710,CLIENT,804A67C40,Portugal Bank #473,Corporation #20762,False
+C_000711,CLIENT,804A6AD60,Spain Bank #81,Corporation #20865,False
+C_000712,CLIENT,804A6B820,Italy Bank #685,Partnership #42835,False
+C_000713,CLIENT,804A6CD50,Belgium Bank #26,Corporation #21598,False
+C_000714,CLIENT,804A6DAB0,Germany Bank #322,Sole Proprietorship #38965,False
+C_000715,CLIENT,804A8B6A0,India Bank #30,Sole Proprietorship #31648,True
+C_000716,CLIENT,804A8ED70,India Bank #84,Corporation #41376,False
+C_000717,CLIENT,804AB26D0,India Bank #6,Corporation #54478,False
+C_000718,CLIENT,804AB8130,India Bank #26,Partnership #52143,False
+C_000719,CLIENT,804B1A1C0,India Bank #69,Partnership #32618,False
+C_000720,CLIENT,804B1A940,India Bank #32,Corporation #30526,False
+C_000721,CLIENT,804B28A20,India Bank #25,Partnership #32618,False
+C_000722,CLIENT,804B2B4D0,India Bank #34,Sole Proprietorship #31648,False
+C_000723,CLIENT,804B3A880,India Bank #6,Partnership #51400,False
+C_000724,CLIENT,804B43600,Flagstone Bancorp,Corporation #17371,False
+C_000725,CLIENT,804B45400,China Bank #14,Corporation #30398,False
+C_000726,CLIENT,804B9FA50,India Bank #28,Partnership #32618,True
+C_000727,CLIENT,804BD06D0,India Bank #69,Sole Proprietorship #43116,True
+C_000728,CLIENT,804BD70D0,National Bank of the East,Corporation #53108,True
+C_000729,CLIENT,804BF4310,France Bank #4210,Partnership #39119,False
+C_000730,CLIENT,804C4A090,India Bank #140,Sole Proprietorship #31818,False
+C_000731,CLIENT,804D08FE0,India Bank #0,Sole Proprietorship #41249,False
+C_000732,CLIENT,804E674E0,Sappo Federal Bank,Corporation #5633,True
+C_000733,CLIENT,804E76DF0,Savings Bank of Fairfield,Partnership #38442,True
+C_000734,CLIENT,804F47D50,India Bank #59,Corporation #48076,True
+C_000735,CLIENT,804F4AED0,India Bank #277,Partnership #32618,False
+C_000736,CLIENT,804FCC420,India Bank #1154,Partnership #39325,False
+C_000737,CLIENT,804FE2220,India Bank #15,Partnership #32618,True
+C_000738,CLIENT,804FF77B0,India Bank #7,Partnership #13692,True
+C_000739,CLIENT,805016710,India Bank #32,Partnership #33053,True
+C_000740,CLIENT,805049F80,National Bank of the East,Corporation #1682,False
+C_000741,CLIENT,805090B10,Plandor Trust Bank,Corporation #7367,True
+C_000742,CLIENT,8050A3DA0,Golden Credit Union,Sole Proprietorship #3855,True
+C_000743,CLIENT,8050CBD30,India Bank #28,Partnership #32618,False
+C_000744,CLIENT,8050CCBD0,India Bank #29,Sole Proprietorship #31648,False
+C_000745,CLIENT,8050CCE00,India Bank #59,Corporation #31432,False
+C_000746,CLIENT,8050CD030,India Bank #27,Corporation #31279,False
+C_000747,CLIENT,8050D0DA0,India Bank #59,Partnership #32618,False
+C_000748,CLIENT,8050D4A40,India Bank #27,Partnership #32618,False
+C_000749,CLIENT,8050DEC30,India Bank #44,Partnership #32636,False
+C_000750,CLIENT,8050E5110,India Bank #28,Corporation #30805,False
+C_000751,CLIENT,805148BD0,Ireland Bank #71,Sole Proprietorship #24892,True
+C_000752,CLIENT,80514C390,Portugal Bank #371,Corporation #54807,True
+C_000753,CLIENT,80514DE20,First Bank of Springfield,Corporation #7408,True
+C_000754,CLIENT,8051A6D90,Capital Trust Bank,Partnership #15546,False
+C_000755,CLIENT,8051AB5D0,Savings Bank of Butte,Sole Proprietorship #8849,False
+C_000756,CLIENT,8051B0790,Savings Bank of Fairfield,Partnership #9388,False
+C_000757,CLIENT,8051E3B20,First Bank of Indianapolis,Partnership #9358,True
+C_000758,CLIENT,8051EB080,Bank of New York,Partnership #9390,False
+C_000759,CLIENT,8051F0120,Plandor Trust Bank,Corporation #13748,False
+C_000760,CLIENT,8051F0A90,Bank of Boston,Partnership #42607,False
+C_000761,CLIENT,8051F6EC0,Spruce Bancorp,Sole Proprietorship #16510,False
+C_000762,CLIENT,8051FE490,Bank of Arkadelphia,Sole Proprietorship #2347,False
+C_000763,CLIENT,8052A7650,First Bank of Houston,Partnership #9486,False
+C_000764,CLIENT,8052AA960,Flagstone Federal Bank,Partnership #17051,False
+C_000765,CLIENT,8052CC970,Mountain Trust Bank,Sole Proprietorship #1,False
+C_000766,CLIENT,8052F0D90,First Bank of Arkadelphia,Sole Proprietorship #15827,False
+C_000767,CLIENT,8052F0DE0,Bank of Springfield,Partnership #21973,False
+C_000768,CLIENT,8053046F0,Savings Bank of Sacramento,Sole Proprietorship #8963,False
+C_000769,CLIENT,8053051B0,Bank of Providence,Sole Proprietorship #8965,False
+C_000770,CLIENT,805306A30,First Bank of Los Angeles,Sole Proprietorship #7092,False
+C_000771,CLIENT,805307550,Arbor Bancorp,Partnership #4379,False
+C_000772,CLIENT,805307640,Bank of Arkadelphia,Sole Proprietorship #7697,True
+C_000773,CLIENT,805307690,Bank of Arkadelphia,Sole Proprietorship #46897,False
+C_000774,CLIENT,805316300,Italy Bank #6,Partnership #21224,True
+C_000775,CLIENT,80534C060,India Bank #32,Corporation #30885,True
+C_000776,CLIENT,805373270,India Bank #2,Sole Proprietorship #31648,False
+C_000777,CLIENT,80537FD10,India Bank #53,Partnership #32618,False
+C_000778,CLIENT,805384DD0,India Bank #2,Sole Proprietorship #31648,True
+C_000779,CLIENT,805391A30,India Bank #59,Corporation #31433,False
+C_000780,CLIENT,8053BE3E0,India Bank #27,Sole Proprietorship #31648,True
+C_000781,CLIENT,8053C0C10,India Bank #40,Sole Proprietorship #31648,True
+C_000782,CLIENT,8053C6580,India Bank #621,Partnership #39325,False
+C_000783,CLIENT,805406270,India Bank #38,Corporation #31441,False
+C_000784,CLIENT,80540FE40,India Bank #1041,Corporation #30417,False
+C_000785,CLIENT,805419E40,India Bank #45,Partnership #33780,False
+C_000786,CLIENT,80541AC10,India Bank #7,Partnership #32618,False
+C_000787,CLIENT,80541DD60,India Bank #6,Partnership #32636,False
+C_000788,CLIENT,80542BAA0,India Bank #6,Partnership #33783,False
+C_000789,CLIENT,80542C550,India Bank #0,Partnership #33784,False
+C_000790,CLIENT,80542E070,India Bank #32,Partnership #41293,False
+C_000791,CLIENT,80543C3C0,India Bank #76,Partnership #33091,True
+C_000792,CLIENT,80543FE20,India Bank #127,Corporation #41376,False
+C_000793,CLIENT,805456420,India Bank #69,Partnership #32618,False
+C_000794,CLIENT,8054569F0,India Bank #433,Partnership #33819,False
+C_000795,CLIENT,80545FA60,India Bank #49,Sole Proprietorship #31648,False
+C_000796,CLIENT,80548FCD0,India Bank #27,Corporation #48479,False
+C_000797,CLIENT,805498620,India Bank #76,Partnership #32618,False
+C_000798,CLIENT,8054A4000,India Bank #12,Partnership #32618,False
+C_000799,CLIENT,8054CDB10,India Bank #76,Partnership #32618,False
+C_000800,CLIENT,8054D8C00,India Bank #36,Corporation #31390,True
+C_000801,CLIENT,8054E4E40,India Bank #29,Sole Proprietorship #31648,False
+C_000802,CLIENT,8054E6B90,China Bank #14,Partnership #33781,False
+C_000803,CLIENT,8054E7D40,India Bank #26,Partnership #52143,False
+C_000804,CLIENT,8054FB670,India Bank #15,Partnership #33779,False
+C_000805,CLIENT,8054FCA70,India Bank #56,Corporation #48479,False
+C_000806,CLIENT,805507350,India Bank #44,Corporation #30403,False
+C_000807,CLIENT,80553D340,First Bank of Augusta,Corporation #42494,False
+C_000808,CLIENT,8055AE170,Bank of New York,Partnership #5843,True
+C_000809,CLIENT,8055F7FF0,India Bank #15,Sole Proprietorship #31648,True
+C_000810,CLIENT,80563D160,India Bank #2,Sole Proprietorship #32285,True
+C_000811,CLIENT,8056D24A0,Germany Bank #234,Sole Proprietorship #24041,True
+C_000812,CLIENT,8057ABC10,Spain Bank #3902,Partnership #52885,False
+C_000813,CLIENT,8057B0230,Plandor Savings Bank,Corporation #39936,False
+C_000814,CLIENT,8057B2BA0,Bank of the East,Partnership #5779,False
+C_000815,CLIENT,8057BA770,Savings Bank of Sacramento,Partnership #18730,True
+C_000816,CLIENT,8057C54A0,Savings Bank of Huron,Sole Proprietorship #9256,True
+C_000817,CLIENT,8057DA9D0,Savings Bank of Newport,Corporation #40774,False
+C_000818,CLIENT,8057DE330,Plandor Trust Bank,Partnership #4102,False
+C_000819,CLIENT,8057DE380,Bank of the West,Corporation #7855,False
+C_000820,CLIENT,8057F0630,Spruce Cooperative Bank,Sole Proprietorship #9110,False
+C_000821,CLIENT,8057F3B50,First Bank of Springfield,Partnership #9809,False
+C_000822,CLIENT,805821A90,Spain Bank #3276,Partnership #27378,False
+C_000823,CLIENT,805886A80,India Bank #76,Partnership #33390,True
+C_000824,CLIENT,8058FE420,India Bank #44,Partnership #33781,True
+C_000825,CLIENT,80593EE80,Savings Bank of Albany,Partnership #50881,True
+C_000826,CLIENT,805990DF0,China Bank #14,Partnership #39325,True
+C_000827,CLIENT,8059A0B60,Bank of Chicago,Corporation #3870,False
+C_000828,CLIENT,805A13780,Spain Bank #9,Corporation #22754,True
+C_000829,CLIENT,805A16080,First Bank of Danbury,Sole Proprietorship #19344,True
+C_000830,CLIENT,805A293A0,First Bank of Tuscon,Corporation #55310,False
+C_000831,CLIENT,805A29830,Bank of Arkadelphia,Sole Proprietorship #9665,False
+C_000832,CLIENT,805A2C0F0,Flagstone Bancorp,Corporation #46698,False
+C_000833,CLIENT,805A4E490,Savings Bank of New York,Corporation #38013,False
+C_000834,CLIENT,805A58280,First Bank of Albany,Partnership #43973,True
+C_000835,CLIENT,805A69D20,Plandor Savings Bank,Partnership #5335,True
+C_000836,CLIENT,805A92AA0,Hearthstone Savings Bank,Partnership #10211,False
+C_000837,CLIENT,805ABBEE0,Savings Bank of Billings,Corporation #4056,True
+C_000838,CLIENT,805AF1010,Germany Bank #234,Sole Proprietorship #24647,True
+C_000839,CLIENT,805B266D0,Savings Bank of Detroit,Partnership #8349,False
+C_000840,CLIENT,805B2B9E0,First Bank of New Orleans,Sole Proprietorship #12040,False
+C_000841,CLIENT,805B30080,Savings Bank of Fairfield,Partnership #3354,False
+C_000842,CLIENT,805B300D0,Savings Bank of New Orleans,Sole Proprietorship #9647,False
+C_000843,CLIENT,805BDB340,National Bank of Madison,Partnership #10169,False
+C_000844,CLIENT,805BE3B00,Savings Bank of Fairfield,Partnership #10192,False
+C_000845,CLIENT,805BFD440,India Bank #215,Partnership #39325,False
+C_000846,CLIENT,805C26F90,India Bank #17,Corporation #31213,True
+C_000847,CLIENT,805C32550,India Bank #243,Partnership #32618,False
+C_000848,CLIENT,805C69E20,India Bank #49,Sole Proprietorship #32880,True
+C_000849,CLIENT,805CA5A30,India Bank #40,Partnership #33568,True
+C_000850,CLIENT,805CBDE40,National Bank of Denver,Sole Proprietorship #9720,False
+C_000851,CLIENT,805CBED30,Hearthstone Savings Bank,Partnership #39579,False
+C_000852,CLIENT,805CBEFB0,Acme Federal Bank,Corporation #6153,False
+C_000853,CLIENT,805CC3EA0,First Bank of Tampa,Partnership #11705,False
+C_000854,CLIENT,805CC3F40,National Bank of Danbury,Sole Proprietorship #9729,False
+C_000855,CLIENT,805CC42B0,Savings Bank of Indianapolis,Sole Proprietorship #9650,False
+C_000856,CLIENT,805CC4FA0,Plandor Trust Bank,Partnership #16322,False
+C_000857,CLIENT,805CC4FF0,National Bank of Boston,Partnership #10242,False
+C_000858,CLIENT,805CC81A0,Savings Bank of Milford,Partnership #6267,False
+C_000859,CLIENT,805CCC6B0,Savings Bank of Harrisburg,Corporation #17758,False
+C_000860,CLIENT,805CDA310,National Bank of Tuscon,Partnership #4161,False
+C_000861,CLIENT,805CDC490,First Bank of Montpelier,Corporation #2935,False
+C_000862,CLIENT,805CDE270,National Bank of Arkadelphia,Partnership #5707,False
+C_000863,CLIENT,805CDE310,Plandor Trust Bank,Partnership #12315,False
+C_000864,CLIENT,805CDF9C0,Savings Bank of Albany,Partnership #10249,False
+C_000865,CLIENT,805CE0490,Acme Trust Bank,Partnership #2186,False
+C_000866,CLIENT,805DAB3C0,India Bank #38,Sole Proprietorship #32720,True
+C_000867,CLIENT,805E56740,India Bank #76,Partnership #32636,True
+C_000868,CLIENT,805E65780,India Bank #606,Corporation #47614,True
+C_000869,CLIENT,805EBB270,China Bank #6,Sole Proprietorship #27225,True
+C_000870,CLIENT,805EC2490,Germany Bank #137,Sole Proprietorship #23257,True
+C_000871,CLIENT,805ECF5B0,Savings Bank of Billings,Partnership #1936,False
+C_000872,CLIENT,805F23670,India Bank #16,Partnership #33499,True
+C_000873,CLIENT,805F3A3C0,India Bank #290,Partnership #49305,False
+C_000874,CLIENT,805F3EB50,Future Bank,Corporation #40116,False
+C_000875,CLIENT,805F44750,India Bank #167,Partnership #52143,False
+C_000876,CLIENT,805FB4850,France Bank #3944,Sole Proprietorship #22644,False
+C_000877,CLIENT,805FF2990,National Bank of Harrisburg,Corporation #14398,False
+C_000878,CLIENT,805FFCD70,Brownstone Savings Bank,Partnership #17479,False
+C_000879,CLIENT,806052200,First Bank of Fairfield,Corporation #9443,False
+C_000880,CLIENT,80605A3E0,Heath Savings Bank,Partnership #867,True
+C_000881,CLIENT,806069F30,Germany Bank #48,Sole Proprietorship #39027,True
+C_000882,CLIENT,80606A5D0,National Bank of Danbury,Sole Proprietorship #52443,True
+C_000883,CLIENT,8060AF260,National Bank of Laramie,Sole Proprietorship #32961,False
+C_000884,CLIENT,8060E9190,Russia Bank #15,Partnership #33909,True
+C_000885,CLIENT,80612AC70,National Bank of Laramie,Corporation #38735,False
+C_000886,CLIENT,80613F530,Russia Bank #18,Partnership #33830,True
+C_000887,CLIENT,806169AC0,National Bank of Laramie,Sole Proprietorship #32947,True
+C_000888,CLIENT,8061AD3B0,Russia Bank #16,Partnership #33830,True
+C_000889,CLIENT,8061C7360,India Bank #25,Partnership #33830,True
+C_000890,CLIENT,8061CCEA0,Australia Bank #0,Sole Proprietorship #32941,True
+C_000891,CLIENT,80629F9A0,Australia Bank #0,Corporation #50824,True
+C_000892,CLIENT,8062E7A30,Belgium Bank #1228,Sole Proprietorship #27047,True
+C_000893,CLIENT,80636A7A0,Russia Bank #38,Corporation #31492,True
+C_000894,CLIENT,806387910,Russia Bank #18,Partnership #11730,True
+C_000895,CLIENT,8063CFDF0,Savings Bank of Fairfield,Corporation #49997,False
+C_000896,CLIENT,8063D0860,National Bank of Arkadelphia,Partnership #17820,False
+C_000897,CLIENT,8063DDCC0,Acme Thrift,Sole Proprietorship #3715,False
+C_000898,CLIENT,8063F1030,Germany Bank #19,Partnership #23897,True
+C_000899,CLIENT,80640A6D0,National Bank of Boston,Sole Proprietorship #13801,False
+C_000900,CLIENT,80640C840,Desert Bancorp,Sole Proprietorship #11654,False
+C_000901,CLIENT,806417960,Flagstone Community Bank,Corporation #8531,False
+C_000902,CLIENT,806418CC0,Sappo Federal Bank,Partnership #10705,False
+C_000903,CLIENT,806478850,Russia Bank #15,Sole Proprietorship #32941,True
+C_000904,CLIENT,806482430,Russia Bank #63,Partnership #33830,True
+C_000905,CLIENT,8064AAA20,Russia Bank #36,Partnership #33830,True
+C_000906,CLIENT,8065029E0,Spruce Savings Bank,Sole Proprietorship #10953,False
+C_000907,CLIENT,80652E8F0,Russia Bank #25,Sole Proprietorship #33245,True
+C_000908,CLIENT,806578D30,Bank of Boston,Sole Proprietorship #38611,True
+C_000909,CLIENT,80657C030,Bank of Arkadelphia,Sole Proprietorship #46354,True
+C_000910,CLIENT,80662DE10,Regents Trust Bank,Corporation #5866,True
+C_000911,CLIENT,8066807B0,Savings Bank of Newport,Partnership #39761,True
+C_000912,CLIENT,806689160,National Bank of Denver,Corporation #8677,True
+C_000913,CLIENT,806694250,Future Bancorp,Sole Proprietorship #49495,True
+C_000914,CLIENT,8066C7E10,National Bank of Tuscon,Sole Proprietorship #45061,True
+C_000915,CLIENT,8066D7B00,Spruce Cooperative Bank,Partnership #22550,True
+C_000916,CLIENT,80678A430,Bank of Providence,Partnership #11023,False
+C_000917,CLIENT,8067AD800,Golden Thrift,Corporation #7766,True
+C_000918,CLIENT,8067D6C60,Germany Bank #99,Partnership #26150,True
+C_000919,CLIENT,8067EE4E0,Belgium Bank #677,Sole Proprietorship #40183,True
+C_000920,CLIENT,80681F820,Lithuania Bank #122,Corporation #20520,True
+C_000921,CLIENT,806861BF0,First Bank of Tampa,Sole Proprietorship #10523,True
+C_000922,CLIENT,806937D60,France Bank #4940,Partnership #28210,False
+C_000923,CLIENT,80693DD00,Spain Bank #68,Partnership #27496,True
+C_000924,CLIENT,806967B30,Germany Bank #105,Partnership #22388,True
+C_000925,CLIENT,806968EF0,France Bank #5088,Sole Proprietorship #27055,False
+C_000926,CLIENT,806995D20,Greece Bank #77,Corporation #22243,False
+C_000927,CLIENT,80699A280,Belgium Bank #1228,Partnership #28162,False
+C_000928,CLIENT,80699A5E0,Finland Bank #0,Partnership #26987,False
+C_000929,CLIENT,8069A6400,France Bank #984,Partnership #22388,False
+C_000930,CLIENT,8069B5FE0,Greece Bank #44,Partnership #42815,False
+C_000931,CLIENT,8069B65B0,Germany Bank #261,Sole Proprietorship #22852,False
+C_000932,CLIENT,8069B6B00,Germany Bank #137,Partnership #3174,False
+C_000933,CLIENT,8069E9C80,Italy Bank #14,Sole Proprietorship #3072,True
+C_000934,CLIENT,806A3D750,Acme Community Bank,Partnership #11451,True
+C_000935,CLIENT,806A78CA0,Russia Bank #180,Corporation #47332,False
+C_000936,CLIENT,806A78D40,Russia Bank #33,Corporation #50824,False
+C_000937,CLIENT,806A7FF70,Russia Bank #12,Partnership #33830,False
+C_000938,CLIENT,806AA7880,Russia Bank #13,Partnership #44517,True
+C_000939,CLIENT,806AA7FA0,Russia Bank #19,Corporation #31491,False
+C_000940,CLIENT,806AA96A0,Russia Bank #52,Partnership #33830,False
+C_000941,CLIENT,806AB8DB0,Russia Bank #16,Partnership #34225,False
+C_000942,CLIENT,806AB91C0,Russia Bank #53,Partnership #33830,False
+C_000943,CLIENT,806B16210,Russia Bank #53,Corporation #50824,True
+C_000944,CLIENT,806B5E250,Russia Bank #21,Partnership #39337,True
+C_000945,CLIENT,806B971B0,Russia Bank #36,Corporation #10801,True
+C_000946,CLIENT,806C0EC80,France Bank #46,Corporation #22754,False
+C_000947,CLIENT,806C0ED20,France Bank #33,Sole Proprietorship #22572,False
+C_000948,CLIENT,806C35360,Slovakia Bank #547,Sole Proprietorship #28023,False
+C_000949,CLIENT,806C3BA70,Portugal Bank #43,Corporation #20084,False
+C_000950,CLIENT,806C3C490,Germany Bank #543,Sole Proprietorship #39389,False
+C_000951,CLIENT,806C3EBF0,Germany Bank #239,Corporation #22027,False
+C_000952,CLIENT,806C42760,Italy Bank #392,Corporation #23380,False
+C_000953,CLIENT,806C45860,Netherlands Bank #971,Corporation #22676,False
+C_000954,CLIENT,806C45FE0,Spain Bank #1392,Partnership #24643,False
+C_000955,CLIENT,806C84040,Russia Bank #18,Sole Proprietorship #32941,True
+C_000956,CLIENT,806C896A0,Russia Bank #18,Corporation #32094,True
+C_000957,CLIENT,806CAE6D0,Savings Bank of Seattle,Sole Proprietorship #10858,True
+C_000958,CLIENT,806CF1310,Savings Bank of Sacramento,Corporation #423,True
+C_000959,CLIENT,806D47B10,Savings Bank of Houston,Partnership #11432,True
+C_000960,CLIENT,806DA0590,Russia Bank #40,Sole Proprietorship #32941,True
+C_000961,CLIENT,806DADD80,Russia Bank #31,Sole Proprietorship #32941,True
+C_000962,CLIENT,806DEA990,First Bank of Tuscon,Corporation #39967,True
+C_000963,CLIENT,806E1B6F0,Russia Bank #28,Sole Proprietorship #32941,True
+C_000964,CLIENT,806E5B990,Russia Bank #23,Partnership #34664,True
+C_000965,CLIENT,806E72870,Bank of Providence,Sole Proprietorship #48691,True
+C_000966,CLIENT,806E95350,National Bank of Danbury,Sole Proprietorship #10912,True
+C_000967,CLIENT,806EA2E90,Russia Bank #40,Corporation #8800,False
+C_000968,CLIENT,806EACEB0,Russia Bank #210,Sole Proprietorship #32941,False
+C_000969,CLIENT,806EAEFE0,National Bank of Laramie,Corporation #31491,False
+C_000970,CLIENT,806EB0E70,Russia Bank #106,Sole Proprietorship #32941,False
+C_000971,CLIENT,806EB4D20,Russia Bank #14,Partnership #33830,False
+C_000972,CLIENT,806EB5DC0,Russia Bank #32,Partnership #33830,False
+C_000973,CLIENT,806EC8850,Russia Bank #37,Corporation #50824,False
+C_000974,CLIENT,806ED11A0,Russia Bank #40,Partnership #6564,True
+C_000975,CLIENT,806F1BF70,Russia Bank #37,Individual #78,False
+C_000976,CLIENT,806F1C3D0,Russia Bank #22,Sole Proprietorship #32941,False
+C_000977,CLIENT,806F1FCF0,Bank of Augusta,Sole Proprietorship #8261,False
+C_000978,CLIENT,806F2B220,Russia Bank #45,Partnership #33830,True
+C_000979,CLIENT,806F3C5B0,Russia Bank #12,Partnership #4223,True
+C_000980,CLIENT,806F416F0,Russia Bank #28,Partnership #50101,True
+C_000981,CLIENT,806FA9C10,Russia Bank #16,Sole Proprietorship #32941,True
+C_000982,CLIENT,806FF2390,Savings Bank of Providence,Partnership #45932,False
+C_000983,CLIENT,807195E30,Bank of the West,Partnership #47627,True
+C_000984,CLIENT,807319780,Germany Bank #3772,Sole Proprietorship #23229,False
+C_000985,CLIENT,807339DC0,Spruce Community Bank,Partnership #6686,False
+C_000986,CLIENT,8073E7BB0,First Bank of Detroit,Corporation #9525,True
+C_000987,CLIENT,8073E9CC0,National Bank of Tampa,Partnership #11873,True
+C_000988,CLIENT,807414E80,Russia Bank #55,Corporation #31479,False
+C_000989,CLIENT,807423320,Russia Bank #55,Sole Proprietorship #32938,False
+C_000990,CLIENT,807436EE0,Russia Bank #12,Partnership #33820,False
+C_000991,CLIENT,80750D550,China Bank #41,Corporation #28222,True
+C_000992,CLIENT,80750E180,China Bank #62,Partnership #30400,True
+C_000993,CLIENT,807531CC0,Russia Bank #60,Corporation #31481,False
+C_000994,CLIENT,807558C10,Acme Thrift,Sole Proprietorship #45616,False
+C_000995,CLIENT,807559CB0,Brownstone Bancorp,Corporation #14493,False
+C_000996,CLIENT,80755AE70,First Bank of Houston,Sole Proprietorship #9389,False
+C_000997,CLIENT,80755ED60,First Bank of Dallas,Sole Proprietorship #11326,False
+C_000998,CLIENT,807560E00,Savings Bank of Danbury,Partnership #11941,False
+C_000999,CLIENT,8075642E0,Savings Bank of Seattle,Sole Proprietorship #1456,False
+C_001000,CLIENT,8075664C0,National Bank of Harrisburg,Partnership #10004,False
+C_001001,CLIENT,8075AC7C0,Savings Bank of Bridgeport,Partnership #11986,True
+C_001002,CLIENT,80762FE70,Italy Bank #6,Sole Proprietorship #24711,True
+C_001003,CLIENT,80763C2E0,Germany Bank #360,Sole Proprietorship #25469,True
+C_001004,CLIENT,807654F20,Russia Bank #25,Corporation #31485,False
+C_001005,CLIENT,80777E5C0,Savings Bank of Fairfield,Sole Proprietorship #11477,True
+C_001006,CLIENT,807784A60,Savings Bank of Los Angeles,Sole Proprietorship #45782,False
+C_001007,CLIENT,80779F730,Italy Bank #95,Sole Proprietorship #25501,True
+C_001008,CLIENT,8077B2BF0,Germany Bank #4583,Corporation #22823,False
+C_001009,CLIENT,8077CEBE0,Belgium Bank #87,Partnership #26440,True
+C_001010,CLIENT,807809890,National Bank of Boston,Corporation #9787,True
+C_001011,CLIENT,80780EAF0,First Bank of Harrisburg,Sole Proprietorship #1440,True
+C_001012,CLIENT,807824060,France Bank #984,Sole Proprietorship #22772,True
+C_001013,CLIENT,807825A80,Austria Bank #107,Partnership #41165,False
+C_001014,CLIENT,80782B2E0,Germany Bank #536,Sole Proprietorship #24892,False
+C_001015,CLIENT,80782C0B0,Belgium Bank #226,Partnership #25218,False
+C_001016,CLIENT,807830890,Italy Bank #201,Corporation #20628,False
+C_001017,CLIENT,807832770,France Bank #103,Partnership #27372,False
+C_001018,CLIENT,807833AE0,Germany Bank #74,Corporation #23255,False
+C_001019,CLIENT,8078463C0,Germany Bank #126,Sole Proprietorship #26680,False
+C_001020,CLIENT,80784CCE0,Belgium Bank #677,Sole Proprietorship #42923,True
+C_001021,CLIENT,8078B38C0,Germany Bank #80,Partnership #46781,True
+C_001022,CLIENT,8078D10C0,Savings Bank of Indianapolis,Partnership #46548,True
+C_001023,CLIENT,807949BB0,Spain Bank #450,Partnership #23242,False
+C_001024,CLIENT,80794B6F0,Savings Bank of Houston,Sole Proprietorship #11549,True
+C_001025,CLIENT,807982140,China Bank #6,Corporation #23891,True
+C_001026,CLIENT,807A249F0,First Bank of Chicago,Partnership #19219,True
+C_001027,CLIENT,807A2C280,National Bank of Boston,Sole Proprietorship #4767,True
+C_001028,CLIENT,807ABA360,Bank of Detroit,Corporation #9926,True
+C_001029,CLIENT,807ACCF80,Spain Bank #81,Partnership #25208,True
+C_001030,CLIENT,807B705E0,Austria Bank #94,Corporation #22187,True
+C_001031,CLIENT,807BC7660,Portugal Bank #5,Sole Proprietorship #22248,False
+C_001032,CLIENT,807BCA4C0,Belgium Bank #1228,Partnership #41018,False
+C_001033,CLIENT,807BD8540,Spain Bank #68,Corporation #27600,False
+C_001034,CLIENT,807BDABA0,Belgium Bank #417,Partnership #23358,False
+C_001035,CLIENT,807BDBAC0,Savings Bank of Los Angeles,Sole Proprietorship #26149,False
+C_001036,CLIENT,807BDD3C0,Belgium Bank #152,Sole Proprietorship #26516,False
+C_001037,CLIENT,807BDE920,France Bank #477,Corporation #22940,False
+C_001038,CLIENT,807BE0190,Germany Bank #553,Sole Proprietorship #54014,False
+C_001039,CLIENT,807C59180,UK Bank #29,Partnership #34805,True
+C_001040,CLIENT,807CAE5D0,City National Cooperative Bank,Sole Proprietorship #4182,False
+C_001041,CLIENT,807D147A0,Germany Bank #39,Partnership #26299,True
+C_001042,CLIENT,807DEAE80,UK Bank #30,Sole Proprietorship #34756,True
+C_001043,CLIENT,807E0AF70,China Bank #1127,Corporation #28762,False
+C_001044,CLIENT,807EB1130,Desert Bancorp,Corporation #10190,False
+C_001045,CLIENT,807EB3DD0,First Bank of the North,Sole Proprietorship #7757,False
+C_001046,CLIENT,807EB9490,Bank of Boston,Partnership #10607,False
+C_001047,CLIENT,807EBBFF0,First Bank of Plattsburg,Sole Proprietorship #11949,False
+C_001048,CLIENT,8080088A0,Slovenia Bank #1638,Partnership #26441,False
+C_001049,CLIENT,80800B6F0,Germany Bank #99,Partnership #23962,True
+C_001050,CLIENT,80803C930,Spain Bank #642,Partnership #26868,True
+C_001051,CLIENT,80807F270,Greece Bank #570,Corporation #22525,True
+C_001052,CLIENT,808098770,Germany Bank #120,Sole Proprietorship #25929,True
+C_001053,CLIENT,808099880,Germany Bank #179,Partnership #26892,True
+C_001054,CLIENT,8080DB4C0,Hilltop Bancorp,Sole Proprietorship #17527,True
+C_001055,CLIENT,8081AFAE0,Future Bank,Partnership #12735,True
+C_001056,CLIENT,8081C4F10,Austria Bank #233,Sole Proprietorship #22769,True
+C_001057,CLIENT,808222DA0,First Bank of Springfield,Corporation #10380,True
+C_001058,CLIENT,808242040,First Bank of Madison,Partnership #7620,True
+C_001059,CLIENT,8082AE710,Future Federal Bank,Corporation #17349,False
+C_001060,CLIENT,8082EC7C0,Italy Bank #4135,Corporation #24975,False
+C_001061,CLIENT,80832DDB0,Netherlands Bank #411,Sole Proprietorship #29153,True
+C_001062,CLIENT,808396D50,UK Bank #20,Corporation #32468,False
+C_001063,CLIENT,80839EF70,UK Bank #13,Corporation #40602,True
+C_001064,CLIENT,808431490,UK Bank #41,Corporation #32468,True
+C_001065,CLIENT,808442C20,UK Bank #36,Corporation #32983,True
+C_001066,CLIENT,8084C5F00,China Bank #266,Partnership #31593,False
+C_001067,CLIENT,8084CA790,China Bank #10,Partnership #31595,True
+C_001068,CLIENT,8084F4F70,UK Bank #33,Partnership #35094,True
+C_001069,CLIENT,808526B60,Oasis Federal Bank,Partnership #3915,False
+C_001070,CLIENT,80869EB90,UK Bank #35,Partnership #35045,True
+C_001071,CLIENT,808728C10,UK Bank #44,Partnership #35182,True
+C_001072,CLIENT,808749300,UK Bank #1,Partnership #34904,False
+C_001073,CLIENT,80874AF30,UK Bank #52,Corporation #32468,False
+C_001074,CLIENT,80874BAC0,UK Bank #47,Partnership #35142,False
+C_001075,CLIENT,808752270,UK Bank #5,Partnership #39386,False
+C_001076,CLIENT,808753580,UK Bank #42,Sole Proprietorship #34756,False
+C_001077,CLIENT,80875E3C0,UK Bank #5,Sole Proprietorship #34253,False
+C_001078,CLIENT,80878BA20,France Bank #35,Corporation #26138,True
+C_001079,CLIENT,8087B2BC0,UK Bank #37,Sole Proprietorship #43180,False
+C_001080,CLIENT,8087B2D90,UK Bank #33,Corporation #51871,False
+C_001081,CLIENT,8087B31F0,UK Bank #52,Corporation #32563,False
+C_001082,CLIENT,8087C02B0,UK Bank #6,Corporation #32973,False
+C_001083,CLIENT,8087F4940,UK Bank #52,Sole Proprietorship #54805,True
+C_001084,CLIENT,808831560,First Bank of Billings,Partnership #5848,False
+C_001085,CLIENT,80886BCB0,India Bank #25,Sole Proprietorship #34553,True
+C_001086,CLIENT,80887AC50,First Bank of Huron,Sole Proprietorship #14186,True
+C_001087,CLIENT,80888DC20,UK Bank #59,Corporation #32563,True
+C_001088,CLIENT,8088EBD30,Germany Bank #4058,Sole Proprietorship #27107,False
+C_001089,CLIENT,80897F6B0,Bank of the South,Partnership #2025,False
+C_001090,CLIENT,8089814C0,First Bank of Tuscon,Partnership #13198,False
+C_001091,CLIENT,808982120,National Bank of Huron,Sole Proprietorship #6157,False
+C_001092,CLIENT,808982350,Flagstone Federal Bank,Sole Proprietorship #9131,False
+C_001093,CLIENT,8089857F0,Savings Bank of Augusta,Partnership #3434,False
+C_001094,CLIENT,8089863B0,Bank of Billings,Corporation #13723,False
+C_001095,CLIENT,8089888D0,National Bank of Providence,Sole Proprietorship #6163,False
+C_001096,CLIENT,80898DBC0,Oak Bancorp,Partnership #1113,False
+C_001097,CLIENT,808998670,Sappo Bancorp,Sole Proprietorship #10056,False
+C_001098,CLIENT,80899CDD0,National Bank of Denver,Partnership #3909,False
+C_001099,CLIENT,808A00B60,The Pine Credit Union,Corporation #10806,True
+C_001100,CLIENT,808A05220,Savings Bank of Pittsburgh,Corporation #48649,True
+C_001101,CLIENT,808A32010,First Bank of Butte,Partnership #1758,True
+C_001102,CLIENT,808AADB60,UK Bank #36,Corporation #40611,True
+C_001103,CLIENT,808AE2130,UK Bank #1,Corporation #32962,True
+C_001104,CLIENT,808AE2440,UK Bank #17,Sole Proprietorship #34547,False
+C_001105,CLIENT,808AF4080,UK Bank #4,Partnership #35591,False
+C_001106,CLIENT,808AF4CC0,UK Bank #41,Corporation #32968,False
+C_001107,CLIENT,808B174B0,UK Bank #52,Corporation #32967,False
+C_001108,CLIENT,808B178F0,UK Bank #55,Partnership #43764,False
+C_001109,CLIENT,808B18D40,UK Bank #8,Partnership #35672,False
+C_001110,CLIENT,808B19130,UK Bank #40,Partnership #34689,False
+C_001111,CLIENT,808B6B340,UK Bank #63,Sole Proprietorship #34618,False
+C_001112,CLIENT,808C0E7A0,UK Bank #5,Partnership #35574,True
+C_001113,CLIENT,808C1A3D0,UK Bank #29,Corporation #32977,False
+C_001114,CLIENT,808C45FE0,Germany Bank #239,Partnership #28832,True
+C_001115,CLIENT,808CEB360,UK Bank #49,Partnership #49332,False
+C_001116,CLIENT,808CF7D60,First Bank of Tuscon,Corporation #10989,False
+C_001117,CLIENT,808CF8120,Flagstone Bancorp,Sole Proprietorship #5470,True
+C_001118,CLIENT,808CF9230,Savings Bank of Albany,Partnership #7875,False
+C_001119,CLIENT,808D16FB0,Acme Community Bank,Partnership #18314,False
+C_001120,CLIENT,808D1D510,National Bank of Indianapolis,Partnership #13445,False
+C_001121,CLIENT,808D58BC0,First Bank of Tuscon,Partnership #4806,False
+C_001122,CLIENT,808D5D8C0,Savings Bank of Los Angeles,Corporation #3485,False
+C_001123,CLIENT,808D5ECB0,Bank of Springfield,Sole Proprietorship #6541,False
+C_001124,CLIENT,808D74A80,UK Bank #31,Partnership #34904,False
+C_001125,CLIENT,808D78400,UK Bank #37,Sole Proprietorship #14097,True
+C_001126,CLIENT,808DAF450,UK Bank #208,Corporation #32940,False
+C_001127,CLIENT,808DAF620,UK Bank #0,Corporation #32965,False
+C_001128,CLIENT,808DD79F0,UK Bank #208,Partnership #34759,False
+C_001129,CLIENT,808E22AB0,UK Bank #51,Partnership #35574,False
+C_001130,CLIENT,808E44B10,UK Bank #29,Sole Proprietorship #6319,True
+C_001131,CLIENT,808E906D0,National Bank of Lincoln,Sole Proprietorship #11389,False
+C_001132,CLIENT,808ED6780,Bank of Chicago,Corporation #38170,True
+C_001133,CLIENT,808F449C0,Slovenia Bank #777,Partnership #1919,True
+C_001134,CLIENT,808F5A660,China Bank #20,Corporation #55352,False
+C_001135,CLIENT,808F5C000,China Bank #254,Corporation #47556,False
+C_001136,CLIENT,808F5C360,China Bank #71,Partnership #30978,False
+C_001137,CLIENT,808F618C0,China Bank #14,Partnership #30410,False
+C_001138,CLIENT,808F714D0,China Bank #53,Partnership #45746,False
+C_001139,CLIENT,808F72FB0,China Bank #11,Corporation #28223,False
+C_001140,CLIENT,808F73F10,China Bank #204,Sole Proprietorship #29714,False
+C_001141,CLIENT,808F7A310,China Bank #38,Partnership #31625,False
+C_001142,CLIENT,808F7AC70,China Bank #60,Corporation #28867,False
+C_001143,CLIENT,808F7AF80,China Bank #29,Sole Proprietorship #29292,False
+C_001144,CLIENT,808F7B2F0,China Bank #23,Corporation #9086,False
+C_001145,CLIENT,809031FD0,UK Bank #56,Sole Proprietorship #34714,False
+C_001146,CLIENT,8090545A0,Brownstone Trust Bank,Partnership #3372,False
+C_001147,CLIENT,8090CF330,Canada Bank #86,Partnership #36051,False
+C_001148,CLIENT,80911C350,Australia Bank #3,Sole Proprietorship #34849,True
+C_001149,CLIENT,8091259A0,Spain Bank #5080,Corporation #39347,False
+C_001150,CLIENT,80913D6A0,First Bank of Billings,Partnership #13301,False
+C_001151,CLIENT,809158E50,Canada Bank #27,Corporation #33705,True
+C_001152,CLIENT,809176AF0,Canada Bank #15,Corporation #33705,True
+C_001153,CLIENT,8091D2880,Bank of the South,Partnership #19161,False
+C_001154,CLIENT,809326EF0,First Bank of Danbury,Sole Proprietorship #13033,True
+C_001155,CLIENT,80932E380,Canada Bank #24,Corporation #44442,True
+C_001156,CLIENT,809361700,Bank of Augusta,Sole Proprietorship #3537,True
+C_001157,CLIENT,80939AC70,France Bank #3939,Corporation #51022,False
+C_001158,CLIENT,809510B10,Canada Bank #26,Sole Proprietorship #34849,True
+C_001159,CLIENT,809518AA0,Canada Bank #702,Corporation #33125,False
+C_001160,CLIENT,8095B6AF0,Canada Bank #43,Sole Proprietorship #6217,True
+C_001161,CLIENT,8095BB510,Canada Bank #98,Corporation #33351,False
+C_001162,CLIENT,809648930,Canada Bank #11,Sole Proprietorship #12884,False
+C_001163,CLIENT,8096C6720,Canada Bank #36,Partnership #35725,True
+C_001164,CLIENT,8096D1D60,Canada Bank #703,Sole Proprietorship #35374,False
+C_001165,CLIENT,80974CBF0,Canada Bank #44,Partnership #36051,True
+C_001166,CLIENT,809768440,Germany Bank #59,Partnership #27311,True
+C_001167,CLIENT,8097D85A0,First Bank of Billings,Partnership #13955,True
+C_001168,CLIENT,8097F63E0,Canada Bank #27,Partnership #53398,True
+C_001169,CLIENT,8098BC930,Spruce Bancorp,Partnership #10962,True
+C_001170,CLIENT,8098DA930,Canada Bank #4,Sole Proprietorship #34849,True
+C_001171,CLIENT,80994CE30,Canada Bank #648,Partnership #36105,False
+C_001172,CLIENT,809954440,Canada Bank #702,Partnership #36051,False
+C_001173,CLIENT,809974930,Canada Bank #62,Sole Proprietorship #44813,False
+C_001174,CLIENT,8099AF420,Canada Bank #575,Partnership #36104,False
+C_001175,CLIENT,8099B03F0,Canada Bank #63,Sole Proprietorship #1022,True
+C_001176,CLIENT,8099B6BD0,Canada Bank #708,Partnership #36105,False
+C_001177,CLIENT,809AE0AB0,Japan Bank #312,Corporation #40547,False
+C_001178,CLIENT,809B03350,Japan Bank #542,Sole Proprietorship #31565,False
+C_001179,CLIENT,809B70360,Bank of Laramie,Sole Proprietorship #13340,True
+C_001180,CLIENT,809B94750,Desert Savings Bank,Partnership #3115,True
+C_001181,CLIENT,809BBC7B0,Acme Trust Bank,Partnership #14178,True
+C_001182,CLIENT,809C04750,First Bank of Springfield,Partnership #6347,True
+C_001183,CLIENT,809C70960,Acme Federal Bank,Sole Proprietorship #17852,False
+C_001184,CLIENT,809C95C10,Canada Bank #28,Partnership #36051,False
+C_001185,CLIENT,809CD3B70,Canada Bank #47,Partnership #5796,False
+C_001186,CLIENT,809CDB340,Canada Bank #51,Corporation #33614,True
+C_001187,CLIENT,809D0B240,Canada Bank #63,Partnership #36051,False
+C_001188,CLIENT,809D10160,Canada Bank #36,Corporation #33433,False
+C_001189,CLIENT,809D273B0,Canada Bank #121,Corporation #33616,False
+C_001190,CLIENT,809D2B0F0,Canada Bank #47,Corporation #33559,True
+C_001191,CLIENT,809D30840,Canada Bank #52,Corporation #33351,False
+C_001192,CLIENT,809D45330,Canada Bank #36,Partnership #35744,False
+C_001193,CLIENT,809D4A3C0,Canada Bank #35,Partnership #36105,False
+C_001194,CLIENT,809D4A640,Canada Bank #60,Sole Proprietorship #35096,False
+C_001195,CLIENT,809D4BA30,Canada Bank #25,Partnership #36104,False
+C_001196,CLIENT,809D4BAD0,Canada Bank #32,Partnership #35742,False
+C_001197,CLIENT,809D4FF40,Canada Bank #28,Partnership #35725,False
+C_001198,CLIENT,809D52D70,Canada Bank #59,Corporation #33366,False
+C_001199,CLIENT,809D55A70,Canada Bank #42,Partnership #36112,False
+C_001200,CLIENT,809D6B5C0,Canada Bank #117,Partnership #35725,False
+C_001201,CLIENT,809DAEC50,Canada Bank #43,Partnership #36117,False
+C_001202,CLIENT,809DB2950,Canada Bank #47,Corporation #33718,False
+C_001203,CLIENT,809DFF880,Canada Bank #47,Sole Proprietorship #35096,True
+C_001204,CLIENT,809E26AD0,Mexico Bank #0,Partnership #36105,True
+C_001205,CLIENT,809E2CA80,Canada Bank #58,Corporation #33124,False
+C_001206,CLIENT,809E7C580,Canada Bank #690,Partnership #49740,False
+C_001207,CLIENT,809E842E0,Canada Bank #724,Sole Proprietorship #34861,False
+C_001208,CLIENT,809E91DA0,The Pine Credit Union,Partnership #39627,False
+C_001209,CLIENT,809EBEDA0,Acme Cooperative Bank,Corporation #9828,False
+C_001210,CLIENT,809F5BDC0,First Bank of Chicago,Sole Proprietorship #13555,True
+C_001211,CLIENT,809F77020,Canada Bank #57,Sole Proprietorship #12600,True
+C_001212,CLIENT,809FA6F80,Savings Bank of Providence,Partnership #54066,False
+C_001213,CLIENT,809FD84D0,National Bank of New Orleans,Sole Proprietorship #13630,False
+C_001214,CLIENT,809FDAE30,First Bank of Butte,Sole Proprietorship #4425,False
+C_001215,CLIENT,809FDC2F0,First Bank of Houston,Partnership #55168,False
+C_001216,CLIENT,809FDFC70,Savings Bank of Plattsburg,Corporation #5255,False
+C_001217,CLIENT,809FF8270,Sunrise Credit Union,Corporation #12777,False
+C_001218,CLIENT,809FFB330,Hearthstone Savings Bank,Corporation #14201,False
+C_001219,CLIENT,809FFB4C0,Savings Bank of New Orleans,Partnership #6984,False
+C_001220,CLIENT,80A00A840,Hilltop Cooperative Bank,Corporation #765,False
+C_001221,CLIENT,80A00DA60,Bank of Danbury,Sole Proprietorship #1542,False
+C_001222,CLIENT,80A0111D0,Arbor Federal Bank,Corporation #2945,False
+C_001223,CLIENT,80A011920,Brownstone Credit Union,Partnership #22579,False
+C_001224,CLIENT,80A012230,Savings Bank of Pittsburgh,Partnership #3478,False
+C_001225,CLIENT,80A03A470,National Bank of Helena,Sole Proprietorship #4859,True
+C_001226,CLIENT,80A0486E0,Savings Bank of Butte,Partnership #14456,True
+C_001227,CLIENT,80A04AE20,Future Bancorp,Sole Proprietorship #17791,False
+C_001228,CLIENT,80A0780F0,Golden Credit Union,Sole Proprietorship #13702,True
+C_001229,CLIENT,80A0F74D0,Acme Cooperative Bank,Partnership #14521,True
+C_001230,CLIENT,80A114780,Australia Bank #0,Corporation #33736,True
+C_001231,CLIENT,80A12EEA0,Australia Bank #3,Corporation #34165,True
+C_001232,CLIENT,80A1865E0,Plateau Federal Bank,Partnership #13977,False
+C_001233,CLIENT,80A197F80,UK Bank #29,Corporation #33736,False
+C_001234,CLIENT,80A19C860,Australia Bank #0,Partnership #36506,False
+C_001235,CLIENT,80A1C21D0,India Bank #0,Corporation #33736,False
+C_001236,CLIENT,80A1D1480,Australia Bank #0,Partnership #36506,False
+C_001237,CLIENT,80A1D17F0,Australia Bank #837,Corporation #43613,False
+C_001238,CLIENT,80A1D6B40,Australia Bank #0,Partnership #36506,False
+C_001239,CLIENT,80A1DBA60,UK Bank #29,Corporation #33736,False
+C_001240,CLIENT,80A1DEEB0,Australia Bank #20,Corporation #33736,False
+C_001241,CLIENT,80A1E7930,Australia Bank #47,Corporation #33736,False
+C_001242,CLIENT,80A1FB9F0,India Bank #0,Corporation #33736,True
+C_001243,CLIENT,80A254E10,Australia Bank #606,Corporation #34165,False
+C_001244,CLIENT,80A27F2F0,Australia Bank #17,Sole Proprietorship #44822,False
+C_001245,CLIENT,80A2A5D10,Australia Bank #22,Sole Proprietorship #35781,True
+C_001246,CLIENT,80A2DE560,Japan Bank #0,Sole Proprietorship #51055,True
+C_001247,CLIENT,80A32F2B0,Flagstone Community Bank,Sole Proprietorship #12012,True
+C_001248,CLIENT,80A42A870,National Bank of the East,Partnership #44561,True
+C_001249,CLIENT,80A43FE30,Mexico Bank #16,Partnership #36511,True
+C_001250,CLIENT,80A480AC0,Greece Bank #570,Corporation #24771,True
+C_001251,CLIENT,80A49BA50,Australia Bank #23,Partnership #36506,True
+C_001252,CLIENT,80A5176A0,UK Bank #29,Partnership #45845,True
+C_001253,CLIENT,80A5DCAE0,Australia Bank #45,Partnership #36230,True
+C_001254,CLIENT,80A5F2BC0,UK Bank #29,Sole Proprietorship #35585,True
+C_001255,CLIENT,80A5FA9F0,Australia Bank #95,Corporation #34164,False
+C_001256,CLIENT,80A61E590,Australia Bank #34,Partnership #36506,False
+C_001257,CLIENT,80A620720,Australia Bank #26,Corporation #33955,False
+C_001258,CLIENT,80A668060,France Bank #63,Partnership #27420,False
+C_001259,CLIENT,80A66B910,Belgium Bank #152,Corporation #38502,True
+C_001260,CLIENT,80A66F460,France Bank #424,Corporation #40447,False
+C_001261,CLIENT,80A673510,Italy Bank #1275,Corporation #24587,True
+C_001262,CLIENT,80A674D10,Netherlands Bank #507,Sole Proprietorship #27044,False
+C_001263,CLIENT,80A692BC0,Germany Bank #116,Sole Proprietorship #28659,False
+C_001264,CLIENT,80A692C10,Germany Bank #124,Corporation #20614,False
+C_001265,CLIENT,80A693970,Germany Bank #62,Corporation #25545,False
+C_001266,CLIENT,80A694E30,Spain Bank #1115,Corporation #42766,False
+C_001267,CLIENT,80A6A5800,Croatia Bank #36,Corporation #21504,True
+C_001268,CLIENT,80A716810,Plateau Bank,Partnership #5333,True
+C_001269,CLIENT,80A7475A0,Spain Bank #114,Corporation #12611,True
+C_001270,CLIENT,80A79C440,Portugal Bank #128,Partnership #23242,True
+C_001271,CLIENT,80A847310,Australia Bank #43,Sole Proprietorship #40518,True
+C_001272,CLIENT,80A8E3230,France Bank #984,Partnership #27416,True
+C_001273,CLIENT,80A8E65D0,France Bank #52,Sole Proprietorship #27364,True
+C_001274,CLIENT,80A9491C0,China Bank #16,Partnership #40234,True
+C_001275,CLIENT,80A98C410,Australia Bank #33,Partnership #36506,True
+C_001276,CLIENT,80A9E6B10,Australia Bank #20,Corporation #33911,True
+C_001277,CLIENT,80AA05290,China Bank #340,Corporation #28308,True
+C_001278,CLIENT,80AA1FDC0,China Bank #966,Corporation #28925,False
+C_001279,CLIENT,80AA54A80,Australia Bank #596,Partnership #36506,False
+C_001280,CLIENT,80AA68C00,Austria Bank #2,Partnership #27322,True
+C_001281,CLIENT,80AA89060,Australia Bank #162,Partnership #36506,True
+C_001282,CLIENT,80AA959F0,India Bank #25,Corporation #32940,False
+C_001283,CLIENT,80AA95A90,UK Bank #94,Sole Proprietorship #34405,False
+C_001284,CLIENT,80AA9B110,UK Bank #31,Partnership #50823,False
+C_001285,CLIENT,80AA9C990,UK Bank #20,Corporation #32967,False
+C_001286,CLIENT,80AA9FE50,UK Bank #56,Corporation #33041,False
+C_001287,CLIENT,80AAA1680,UK Bank #6,Corporation #32237,False
+C_001288,CLIENT,80AAA1FE0,UK Bank #59,Sole Proprietorship #33895,True
+C_001289,CLIENT,80AAA8EA0,UK Bank #6,Corporation #32995,False
+C_001290,CLIENT,80AAA9790,UK Bank #4,Corporation #33001,False
+C_001291,CLIENT,80AAB0290,UK Bank #30,Sole Proprietorship #47408,True
+C_001292,CLIENT,80AAE89D0,Savings Bank of Portsmouth,Individual #21,False
+C_001293,CLIENT,80AB54F20,First Bank of Pittsburgh,Sole Proprietorship #16430,False
+C_001294,CLIENT,80AB68AA0,Bank of Danbury,Partnership #11001,False
+C_001295,CLIENT,80AB6E640,First Bank of Tampa,Sole Proprietorship #14257,False
+C_001296,CLIENT,80AB6FF00,Savings Bank of Newbury,Corporation #12445,False
+C_001297,CLIENT,80AB70170,Regents Bank,Corporation #40917,False
+C_001298,CLIENT,80AB76170,Willows Bancorp,Sole Proprietorship #21965,False
+C_001299,CLIENT,80AB76670,First Bank of Arkadelphia,Corporation #40917,False
+C_001300,CLIENT,80AB76E40,First Bank of Billings,Partnership #3088,False
+C_001301,CLIENT,80AB8A580,Savings Bank of Danbury,Corporation #2129,False
+C_001302,CLIENT,80AB8D320,Germany Bank #32,Partnership #26269,True
+C_001303,CLIENT,80ABCB960,Italy Bank #4438,Sole Proprietorship #42059,False
+C_001304,CLIENT,80ABDD6E0,Germany Bank #214,Corporation #22482,True
+C_001305,CLIENT,80AC45000,Australia Bank #844,Individual #95,False
+C_001306,CLIENT,80AC45CA0,First Bank of Plattsburg,Corporation #12473,True
+C_001307,CLIENT,80AD0E790,Australia Bank #63,Partnership #36506,False
+C_001308,CLIENT,80AD0FD80,Australia Bank #314,Corporation #43613,False
+C_001309,CLIENT,80AD1E9E0,Japan Bank #0,Partnership #36506,False
+C_001310,CLIENT,80AD21810,Australia Bank #18,Corporation #33736,False
+C_001311,CLIENT,80AD21BD0,Australia Bank #57,Corporation #34165,False
+C_001312,CLIENT,80AD26D80,Australia Bank #25,Corporation #33736,False
+C_001313,CLIENT,80AD7E420,India Bank #0,Corporation #33736,False
+C_001314,CLIENT,80AD89AE0,Australia Bank #43,Corporation #33736,False
+C_001315,CLIENT,80AD8AD30,Australia Bank #314,Corporation #33736,False
+C_001316,CLIENT,80AD8D6E0,Australia Bank #39,Corporation #33736,False
+C_001317,CLIENT,80AD960E0,Australia Bank #47,Sole Proprietorship #5836,True
+C_001318,CLIENT,80ADA1200,Australia Bank #21,Corporation #33736,False
+C_001319,CLIENT,80ADA21A0,Australia Bank #50,Partnership #36506,False
+C_001320,CLIENT,80ADA21F0,Australia Bank #18,Corporation #33736,False
+C_001321,CLIENT,80ADA4090,Australia Bank #63,Partnership #36359,False
+C_001322,CLIENT,80ADA5FA0,Australia Bank #27,Partnership #36506,False
+C_001323,CLIENT,80ADBB8A0,Australia Bank #83,Partnership #786,True
+C_001324,CLIENT,80ADE3B50,Australia Bank #616,Partnership #36506,False
+C_001325,CLIENT,80ADFECB0,Bank of Miami,Partnership #16865,False
+C_001326,CLIENT,80AE6EAD0,National Bank of Pittsburgh,Partnership #3923,True
+C_001327,CLIENT,80AE76620,Sappo Credit Union,Corporation #219,False
+C_001328,CLIENT,80AE9A7B0,First Bank of Springfield,Partnership #15229,True
+C_001329,CLIENT,80AEBECB0,National Bank of Fort Wayne,Corporation #749,True
+C_001330,CLIENT,80AEF57F0,Sunrise Bancorp,Sole Proprietorship #2576,False
+C_001331,CLIENT,80AF0C520,Italy Bank #4548,Partnership #27562,False
+C_001332,CLIENT,80AF148E0,China Bank #37,Sole Proprietorship #29889,False
+C_001333,CLIENT,80AF1A340,China Bank #358,Sole Proprietorship #29875,False
+C_001334,CLIENT,80AF1A9D0,China Bank #9,Partnership #31052,False
+C_001335,CLIENT,80AF1ABB0,China Bank #40,Sole Proprietorship #29928,False
+C_001336,CLIENT,80AF1E150,China Bank #8,Corporation #28914,False
+C_001337,CLIENT,80AF1F630,China Bank #38,Sole Proprietorship #29878,True
+C_001338,CLIENT,80AF20FD0,China Bank #68,Sole Proprietorship #30151,False
+C_001339,CLIENT,80AF24890,China Bank #40,Partnership #31107,False
+C_001340,CLIENT,80AF24A20,China Bank #39,Partnership #31121,False
+C_001341,CLIENT,80AF25220,China Bank #76,Sole Proprietorship #29653,False
+C_001342,CLIENT,80AF84530,Australia Bank #45,Sole Proprietorship #53126,True
+C_001343,CLIENT,80AFCBC70,Australia Bank #200,Partnership #36224,False
+C_001344,CLIENT,80B061620,Australia Bank #3,Corporation #19190,True
+C_001345,CLIENT,80B0C3F40,Australia Bank #17,Partnership #36466,True
+C_001346,CLIENT,80B0C3F40,Australia Bank #17,Partnership #36466,True
+C_001347,CLIENT,80B0F1830,China Bank #340,Partnership #31078,True
+C_001348,CLIENT,80B114B30,China Bank #64,Partnership #30410,False
+C_001349,CLIENT,80B114EA0,China Bank #13,Corporation #29340,False
+C_001350,CLIENT,80B127240,China Bank #24,Corporation #29408,False
+C_001351,CLIENT,80B128E20,China Bank #9,Sole Proprietorship #29979,False
+C_001352,CLIENT,80B136B30,China Bank #35,Corporation #47556,True
+C_001353,CLIENT,80B13BAF0,China Bank #38,Corporation #28482,False
+C_001354,CLIENT,80B142090,China Bank #225,Partnership #30684,False
+C_001355,CLIENT,80B169DD0,China Bank #16,Partnership #7052,True
+C_001356,CLIENT,80B1BCDA0,China Bank #19,Partnership #30978,False
+C_001357,CLIENT,80B2A6480,Australia Bank #30,Corporation #33736,False
+C_001358,CLIENT,80B2A7F10,Australia Bank #31,Corporation #33736,False
+C_001359,CLIENT,80B2A8910,Australia Bank #17,Corporation #33736,False
+C_001360,CLIENT,80B2A9540,Australia Bank #39,Sole Proprietorship #35864,False
+C_001361,CLIENT,80B2AB2A0,Australia Bank #248,Partnership #36506,False
+C_001362,CLIENT,80B2AC1B0,Australia Bank #3,Sole Proprietorship #44822,False
+C_001363,CLIENT,80B2B1B00,Australia Bank #401,Partnership #36506,False
+C_001364,CLIENT,80B2BA800,Australia Bank #284,Corporation #33736,False
+C_001365,CLIENT,80B2BA8F0,Australia Bank #18,Corporation #33736,False
+C_001366,CLIENT,80B3DD4D0,Hilltop Trust Bank,Partnership #15492,True
+C_001367,CLIENT,80B434CB0,Spruce Bancorp,Sole Proprietorship #8747,True
+C_001368,CLIENT,80B4B2B30,Golden Federal Bank,Corporation #3107,False
+C_001369,CLIENT,80B4BEFB0,Hearthstone Bancorp,Partnership #15612,True
+C_001370,CLIENT,80B505960,Italy Bank #587,Partnership #49583,False
+C_001371,CLIENT,80B507E00,Germany Bank #594,Sole Proprietorship #26723,False
+C_001372,CLIENT,80B50ADD0,Germany Bank #137,Sole Proprietorship #26658,True
+C_001373,CLIENT,80B50E8E0,Ireland Bank #358,Corporation #24818,False
+C_001374,CLIENT,80B5112C0,Spain Bank #992,Corporation #50427,False
+C_001375,CLIENT,80B51F710,Netherlands Bank #117,Sole Proprietorship #53233,False
+C_001376,CLIENT,80B51FBC0,France Bank #477,Partnership #29701,False
+C_001377,CLIENT,80B53CDB0,Ireland Bank #324,Sole Proprietorship #27815,False
+C_001378,CLIENT,80B6D5AB0,First Bank of the West,Sole Proprietorship #38795,False
+C_001379,CLIENT,80B6DD7B0,Capital Bancorp,Sole Proprietorship #14939,False
+C_001380,CLIENT,80B6DF630,Sappo Bank,Partnership #11560,False
+C_001381,CLIENT,80B6E4840,Savings Bank of Billings,Sole Proprietorship #6285,False
+C_001382,CLIENT,80B6E9F90,Bank of Billings,Sole Proprietorship #45645,False
+C_001383,CLIENT,80B6EE020,National Bank of Harrisburg,Sole Proprietorship #12905,False
+C_001384,CLIENT,80B6EE780,First Bank of Huron,Partnership #15765,False
+C_001385,CLIENT,80B6EE820,First Bank of Tampa,Corporation #14626,False
+C_001386,CLIENT,80B7F0DB0,Golden Credit Union,Sole Proprietorship #18339,False
+C_001387,CLIENT,80B7F3B20,Savings Bank of Columbus,Sole Proprietorship #14974,True
+C_001388,CLIENT,80B809770,Oasis Savings Bank,Partnership #23102,False
+C_001389,CLIENT,80B816CB0,Regents Cooperative Bank,Partnership #20616,False
+C_001390,CLIENT,80B81F350,The Pine Thrift,Partnership #45429,True
+C_001391,CLIENT,80B828DE0,Willows Thrift,Sole Proprietorship #16905,True
+C_001392,CLIENT,80B84D250,Germany Bank #322,Sole Proprietorship #25053,False
+C_001393,CLIENT,80B850170,Italy Bank #73,Corporation #23717,False
+C_001394,CLIENT,80B8557A0,Italy Bank #50,Corporation #25391,False
+C_001395,CLIENT,80B855930,Germany Bank #543,Partnership #28365,False
+C_001396,CLIENT,80B8799D0,Austria Bank #1979,Partnership #25778,False
+C_001397,CLIENT,80B87D050,Germany Bank #57,Corporation #23704,False
+C_001398,CLIENT,80B87F590,Savings Bank of Los Angeles,Sole Proprietorship #27065,False
+C_001399,CLIENT,80B884600,Germany Bank #93,Partnership #50698,False
+C_001400,CLIENT,80B89ED40,The Pine Thrift,Corporation #6174,True
+C_001401,CLIENT,80B8AB270,First Bank of Tampa,Sole Proprietorship #45616,True
+C_001402,CLIENT,80B8B18B0,National Bank of Tuscon,Sole Proprietorship #47034,True
+C_001403,CLIENT,80B8C96C0,Germany Bank #39,Sole Proprietorship #23591,True
+C_001404,CLIENT,80B92FEE0,China Bank #225,Partnership #13513,True
+C_001405,CLIENT,80B9F0EE0,Portugal Bank #5,Sole Proprietorship #27020,True
+C_001406,CLIENT,80BA543E0,Netherlands Bank #113,Partnership #24002,True
+C_001407,CLIENT,80BA962E0,Ireland Bank #71,Partnership #27805,True
+C_001408,CLIENT,80BAEB110,France Bank #54,Corporation #23215,True
+C_001409,CLIENT,80BBC79B0,Bank of Billings,Partnership #15977,True
+C_001410,CLIENT,80BC14260,First Bank of Dallas,Partnership #52224,True
+C_001411,CLIENT,80BC45050,China Bank #1053,Sole Proprietorship #30431,False
+C_001412,CLIENT,80BC7FE90,Belgium Bank #4312,Corporation #23387,False
+C_001413,CLIENT,80BCABCA0,Italy Bank #4683,Corporation #21692,False
+C_001414,CLIENT,80BD5D6F0,National Bank of Montpelier,Corporation #13367,True
+C_001415,CLIENT,80BDAE580,National Bank of Indianapolis,Corporation #16621,False
+C_001416,CLIENT,80BDAF6E0,Acme Federal Bank,Sole Proprietorship #15275,False
+C_001417,CLIENT,80BDAFB20,Sappo Bancorp,Partnership #16097,False
+C_001418,CLIENT,80BDB27A0,National Bank of Indianapolis,Partnership #16114,False
+C_001419,CLIENT,80BDB9CE0,National Bank of Indianapolis,Corporation #17559,False
+C_001420,CLIENT,80BDBDBD0,Savings Bank of Los Angeles,Corporation #9389,False
+C_001421,CLIENT,80BDBE350,National Bank of Tuscon,Sole Proprietorship #18951,False
+C_001422,CLIENT,80BDBE750,Heath Savings Bank,Partnership #16110,False
+C_001423,CLIENT,80BDC3290,Heath Credit Union,Corporation #12819,False
+C_001424,CLIENT,80BDC3DB0,Plandor Trust Bank,Corporation #14538,False
+C_001425,CLIENT,80BDC5350,First Bank of Portland,Sole Proprietorship #9600,False
+C_001426,CLIENT,80BDD8780,Acme Bancorp,Partnership #22154,False
+C_001427,CLIENT,80BDF1060,First Bank of Watertown,Sole Proprietorship #14781,False
+C_001428,CLIENT,80BDF12E0,Hilltop Credit Union,Sole Proprietorship #15298,False
+C_001429,CLIENT,80BDF1B30,Bank of the West,Corporation #7278,False
+C_001430,CLIENT,80BDF43D0,Flagstone Savings Bank,Partnership #3755,False
+C_001431,CLIENT,80BDF5360,First Bank of Tampa,Partnership #16137,False
+C_001432,CLIENT,80BDF7110,Plandor Savings Bank,Partnership #19270,False
+C_001433,CLIENT,80BDF91C0,Arbor Bancorp,Sole Proprietorship #9023,False
+C_001434,CLIENT,80BDF9A30,Arbor Federal Bank,Corporation #5241,False
+C_001435,CLIENT,80BDFBFF0,Heath Thrift,Partnership #6577,False
+C_001436,CLIENT,80BE87020,Canada Bank #26,Partnership #36808,True
+C_001437,CLIENT,80BE9B100,UK Bank #208,Sole Proprietorship #41323,True
+C_001438,CLIENT,80BEB87E0,Mexico Bank #15,Sole Proprietorship #35956,True
+C_001439,CLIENT,80BEF6450,Russia Bank #55,Partnership #33830,True
+C_001440,CLIENT,80BF3BF90,France Bank #1181,Sole Proprietorship #53396,True
+C_001441,CLIENT,80BF4C160,Slovakia Bank #547,Corporation #20994,True
+C_001442,CLIENT,80BF6A470,Bank of Chicago,Sole Proprietorship #1209,False
+C_001443,CLIENT,80BF6C070,National Bank of Montpelier,Sole Proprietorship #4469,True
+C_001444,CLIENT,80BF76730,First Bank of Billings,Sole Proprietorship #2791,True
+C_001445,CLIENT,80BF85A70,Regents Bank,Sole Proprietorship #10859,False
+C_001446,CLIENT,80BF9FFC0,Savings Bank of Augusta,Partnership #41485,False
+C_001447,CLIENT,80BFD9240,Dawn Community Bank,Corporation #13717,True
+C_001448,CLIENT,80BFF4510,Sappo Thrift,Sole Proprietorship #15463,False
+C_001449,CLIENT,80BFF6250,Oasis Bank,Sole Proprietorship #15938,False
+C_001450,CLIENT,80BFF79D0,Savings Bank of Lacrosse,Corporation #49017,False
+C_001451,CLIENT,80BFF9180,Bank of Cleveland,Sole Proprietorship #15468,False
+C_001452,CLIENT,80BFFED40,National Bank of Philadelphia,Sole Proprietorship #16710,False
+C_001453,CLIENT,80BFFED90,Willows Thrift,Partnership #16319,False
+C_001454,CLIENT,80C0036A0,First Bank of Arkadelphia,Sole Proprietorship #15471,False
+C_001455,CLIENT,80C007830,Fieldstone Federal Bank,Partnership #116,False
+C_001456,CLIENT,80C0458E0,Mexico Bank #8,Partnership #36548,True
+C_001457,CLIENT,80C0B9480,Bank of Seattle,Corporation #14533,False
+C_001458,CLIENT,80C0D5B50,Golden Thrift,Sole Proprietorship #10613,True
+C_001459,CLIENT,80C0F6F20,Acme Cooperative Bank,Partnership #16410,False
+C_001460,CLIENT,80C136480,Flagstone Community Bank,Sole Proprietorship #48654,True
+C_001461,CLIENT,80C1898B0,Mexico Bank #15,Corporation #5012,True
+C_001462,CLIENT,80C208360,First Bank of Los Angeles,Corporation #13813,True
+C_001463,CLIENT,80C21E690,Austria Bank #1979,Partnership #39485,True
+C_001464,CLIENT,80C23BB00,Spain Bank #4786,Partnership #51332,False
+C_001465,CLIENT,80C27C850,First Bank of Tampa,Sole Proprietorship #8965,True
+C_001466,CLIENT,80C2BEE90,Bank of Lincoln,Partnership #17421,False
+C_001467,CLIENT,80C2C2B10,First Bank of Seattle,Sole Proprietorship #17015,False
+C_001468,CLIENT,80C2D6A60,China Bank #43,Partnership #30976,False
+C_001469,CLIENT,80C2D7530,China Bank #204,Sole Proprietorship #29706,False
+C_001470,CLIENT,80C2DCAE0,Savings Bank of Los Angeles,Partnership #39781,True
+C_001471,CLIENT,80C2E3210,China Bank #23,Corporation #28998,False
+C_001472,CLIENT,80C2E8200,China Bank #33,Corporation #28930,False
+C_001473,CLIENT,80C2E9130,China Bank #30,Sole Proprietorship #29984,False
+C_001474,CLIENT,80C2EB670,China Bank #14,Sole Proprietorship #30073,False
+C_001475,CLIENT,80C2EDE10,China Bank #105,Sole Proprietorship #29340,False
+C_001476,CLIENT,80C2EE380,China Bank #41,Corporation #28893,False
+C_001477,CLIENT,80C34BF40,Acme Bank,Sole Proprietorship #18456,False
+C_001478,CLIENT,80C39B650,Canada Bank #26,Partnership #36592,True
+C_001479,CLIENT,80C3DED30,Japan Bank #102,Partnership #32457,False
+C_001480,CLIENT,80C434570,Japan Bank #46,Partnership #32487,False
+C_001481,CLIENT,80C434840,Japan Bank #8,Corporation #30358,False
+C_001482,CLIENT,80C44D580,Japan Bank #235,Partnership #32492,False
+C_001483,CLIENT,80C44D6C0,Japan Bank #49,Corporation #30361,False
+C_001484,CLIENT,80C44D850,Japan Bank #55,Corporation #30314,False
+C_001485,CLIENT,80C44E0C0,Japan Bank #36,Corporation #29578,False
+C_001486,CLIENT,80C460E10,Japan Bank #112,Partnership #32457,False
+C_001487,CLIENT,80C465EC0,Japan Bank #58,Corporation #30208,False
+C_001488,CLIENT,80C46DE50,Japan Bank #40,Partnership #31646,True
+C_001489,CLIENT,80C46E4A0,Japan Bank #67,Partnership #32327,False
+C_001490,CLIENT,80C46EB30,Japan Bank #55,Partnership #32463,False
+C_001491,CLIENT,80C4762C0,Japan Bank #13,Corporation #30299,False
+C_001492,CLIENT,80C4A0B70,Japan Bank #845,Partnership #41240,False
+C_001493,CLIENT,80C4CCF20,Japan Bank #148,Partnership #42147,True
+C_001494,CLIENT,80C51C390,Savings Bank of Fairfield,Partnership #40869,True
+C_001495,CLIENT,80C527330,Spain Bank #992,Sole Proprietorship #23756,True
+C_001496,CLIENT,80C54A950,Germany Bank #92,Sole Proprietorship #55147,True
+C_001497,CLIENT,80C64E3A0,Australia Bank #0,Corporation #34546,True
+C_001498,CLIENT,80C6F48A0,Sappo Bank,Partnership #45448,True
+C_001499,CLIENT,80C702290,Sappo Bancorp,Corporation #13956,True
+C_001500,CLIENT,80C7075C0,Savings Bank of Lincoln,Partnership #1332,True
+C_001501,CLIENT,80C73E400,Germany Bank #662,Corporation #34349,True
+C_001502,CLIENT,80C7A4440,Belgium Bank #677,Corporation #41203,True
+C_001503,CLIENT,80C7D0E10,Bank of Arkadelphia,Partnership #40740,True
+C_001504,CLIENT,80C7F3EF0,Acme Trust Bank,Partnership #44561,True
+C_001505,CLIENT,80C7F7E40,Hearthstone Bancorp,Sole Proprietorship #11394,False
+C_001506,CLIENT,80C815B70,National Bank of Milford,Partnership #12808,True
+C_001507,CLIENT,80C8A8AA0,Germany Bank #179,Partnership #23855,True
+C_001508,CLIENT,80C8ACAD0,Belgium Bank #4102,Sole Proprietorship #48792,False
+C_001509,CLIENT,80C8BC8F0,Netherlands Bank #4,Sole Proprietorship #27255,True
+C_001510,CLIENT,80C8DD220,Belgium Bank #4651,Sole Proprietorship #43710,False
+C_001511,CLIENT,80C905A50,Sunrise Credit Union,Corporation #48654,True
+C_001512,CLIENT,80C95D120,Sea Bank,Corporation #15193,True
+C_001513,CLIENT,80CA21140,Mexico Bank #42,Partnership #10894,True
+C_001514,CLIENT,80CA3E3D0,Mexico Bank #37,Partnership #36514,False
+C_001515,CLIENT,80CA42A50,Mexico Bank #42,Partnership #36544,False
+C_001516,CLIENT,80CA73F10,Mexico Bank #43,Partnership #36544,False
+C_001517,CLIENT,80CA79980,Mexico Bank #33,Partnership #36808,False
+C_001518,CLIENT,80CA7B170,Sunrise Federal Bank,Partnership #36544,False
+C_001519,CLIENT,80CA7BE90,Mexico Bank #0,Partnership #36544,False
+C_001520,CLIENT,80CA81EB0,Mexico Bank #42,Partnership #36808,False
+C_001521,CLIENT,80CA84380,Mexico Bank #38,Partnership #54158,False
+C_001522,CLIENT,80CAE3930,China Bank #29,Corporation #28654,True
+C_001523,CLIENT,80CB4E960,UK Bank #40,Corporation #47696,True
+C_001524,CLIENT,80CD01840,Brook Community Bank,Sole Proprietorship #3029,True
+C_001525,CLIENT,80CD76230,Mexico Bank #37,Partnership #16532,True
+C_001526,CLIENT,80CD829F0,Heath Thrift,Partnership #17031,True
+C_001527,CLIENT,80CDAB750,Mexico Bank #33,Partnership #36544,True
+C_001528,CLIENT,80CE3BE30,Brazil Bank #11,Corporation #34629,True
+C_001529,CLIENT,80CE474D0,Brazil Bank #7,Partnership #36818,True
+C_001530,CLIENT,80CE74A30,Germany Bank #543,Corporation #1037,True
+C_001531,CLIENT,80CE75620,France Bank #192,Partnership #28205,True
+C_001532,CLIENT,80CE80760,National Bank of Laramie,Partnership #36817,False
+C_001533,CLIENT,80CE8FDA0,National Bank of Laramie,Corporation #18817,True
+C_001534,CLIENT,80CF0E190,Brazil Bank #8,Corporation #4198,True
+C_001535,CLIENT,80CF647B0,Brazil Bank #19,Sole Proprietorship #36484,False
+C_001536,CLIENT,80CF66960,UK Bank #29,Corporation #18817,False
+C_001537,CLIENT,80CF669B0,Brazil Bank #9,Corporation #18817,False
+C_001538,CLIENT,80CF73810,UK Bank #29,Corporation #49932,False
+C_001539,CLIENT,80CFB97A0,Brazil Bank #6,Corporation #18817,False
+C_001540,CLIENT,80CFBABF0,Brazil Bank #24,Corporation #34629,False
+C_001541,CLIENT,80CFBD9B0,National Bank of Laramie,Corporation #34629,False
+C_001542,CLIENT,80CFC4C40,Brazil Bank #12,Partnership #52171,False
+C_001543,CLIENT,80CFC8040,Brazil Bank #9,Corporation #18817,False
+C_001544,CLIENT,80D051180,Bank of the East,Partnership #17168,True
+C_001545,CLIENT,80D05C950,First Bank of Los Angeles,Sole Proprietorship #286,False
+C_001546,CLIENT,80D083750,Spain Bank #4718,Partnership #26150,False
+C_001547,CLIENT,80D0DE010,National Bank of Providence,Corporation #14399,False
+C_001548,CLIENT,80D0DF9D0,National Bank of Springfield,Partnership #15287,False
+C_001549,CLIENT,80D0E0B10,Sappo Bancorp,Sole Proprietorship #15682,False
+C_001550,CLIENT,80D0ECE10,Savings Bank of Albany,Sole Proprietorship #11443,False
+C_001551,CLIENT,80D0F38A0,Plandor Savings Bank,Sole Proprietorship #14958,False
+C_001552,CLIENT,80D0F4E10,First Bank of the West,Partnership #998,False
+C_001553,CLIENT,80D0F6200,Savings Bank of Montpelier,Sole Proprietorship #4226,False
+C_001554,CLIENT,80D0F6FE0,Flagstone Federal Bank,Partnership #17253,False
+C_001555,CLIENT,80D229080,Bank of Augusta,Partnership #44201,False
+C_001556,CLIENT,80D233DB0,China Bank #8,Partnership #31268,True
+C_001557,CLIENT,80D257050,First Bank of Columbus,Sole Proprietorship #9463,False
+C_001558,CLIENT,80D257450,National Bank of Montpelier,Sole Proprietorship #9026,False
+C_001559,CLIENT,80D25DAA0,National Bank of Arkadelphia,Partnership #1279,False
+C_001560,CLIENT,80D281630,Savings Bank of Dallas,Partnership #7960,False
+C_001561,CLIENT,80D2B38A0,Flagstone Credit Union,Partnership #6338,False
+C_001562,CLIENT,80D2DC7D0,Savings Bank of Topeka,Sole Proprietorship #1572,True
+C_001563,CLIENT,80D2EDF30,Spain Bank #4004,Corporation #38534,False
+C_001564,CLIENT,80D327360,Sappo Savings Bank,Sole Proprietorship #46996,False
+C_001565,CLIENT,80D328960,Savings Bank of Los Angeles,Sole Proprietorship #16595,True
+C_001566,CLIENT,80D34F990,Bank of Portland,Sole Proprietorship #12998,False
+C_001567,CLIENT,80D3604E0,Sea Bank,Sole Proprietorship #3710,False
+C_001568,CLIENT,80D367460,First Bank of Springfield,Sole Proprietorship #3213,False
+C_001569,CLIENT,80D36AD70,First Bank of Laramie,Corporation #2057,False
+C_001570,CLIENT,80D36B150,First Bank of Los Angeles,Corporation #44442,False
+C_001571,CLIENT,80D36CB40,Savings Bank of Columbus,Partnership #12519,False
+C_001572,CLIENT,80D36E3B0,National Bank of Harrisburg,Sole Proprietorship #12591,False
+C_001573,CLIENT,80D36E6C0,National Bank of Pittsburgh,Sole Proprietorship #8358,False
+C_001574,CLIENT,80D3718D0,National Bank of Newport,Sole Proprietorship #16642,False
+C_001575,CLIENT,80D372FB0,First Bank of Tuscon,Sole Proprietorship #7277,False
+C_001576,CLIENT,80D378200,Bank of Arkadelphia,Partnership #5683,False
+C_001577,CLIENT,80D42DCF0,Heath Credit Union,Partnership #49069,True
+C_001578,CLIENT,80D454600,First Bank of Los Angeles,Partnership #50620,True
+C_001579,CLIENT,80D45D750,Acme Community Bank,Corporation #9078,True
+C_001580,CLIENT,80D4AFD60,National Bank of Philadelphia,Partnership #10550,True
+C_001581,CLIENT,80D4F8460,Bank of Springfield,Partnership #227,True
+C_001582,CLIENT,80D519890,Bank of Montpelier,Corporation #55468,True
+C_001583,CLIENT,80D52AE50,Germany Bank #126,Partnership #28284,True
+C_001584,CLIENT,80D551FF0,National Bank of Tuscon,Corporation #51724,True
+C_001585,CLIENT,80D578C50,Brazil Bank #10,Corporation #38824,True
+C_001586,CLIENT,80D634110,Savings Bank of Bridgeport,Corporation #8790,True
+C_001587,CLIENT,80D640E90,National Bank of Seattle,Corporation #2887,True
+C_001588,CLIENT,80D655A00,First Bank of Tampa,Corporation #43736,True
+C_001589,CLIENT,80D65C190,First Bank of Los Angeles,Sole Proprietorship #20916,False
+C_001590,CLIENT,80D678DB0,Austria Bank #107,Partnership #39101,True
+C_001591,CLIENT,80D6DC9F0,Brazil Bank #22,Corporation #34629,True
+C_001592,CLIENT,80D8036D0,Greece Bank #452,Partnership #41099,True
+C_001593,CLIENT,80D86A880,Brazil Bank #16,Corporation #18817,True
+C_001594,CLIENT,80D8F53F0,National Bank of Miami,Partnership #1074,True
+C_001595,CLIENT,80D8F53F0,National Bank of Miami,Partnership #1074,True
+C_001596,CLIENT,80D953BD0,Bank of the South,Partnership #17988,False
+C_001597,CLIENT,80D954990,First Bank of Omaha,Sole Proprietorship #15408,False
+C_001598,CLIENT,80D955860,Italy Bank #304,Partnership #43592,True
+C_001599,CLIENT,80D956BB0,Willows Savings Bank,Corporation #15007,False
+C_001600,CLIENT,80D95B290,Savings Bank of Fairfield,Sole Proprietorship #8268,False
+C_001601,CLIENT,80D95C1E0,National Bank of Boston,Partnership #17994,False
+C_001602,CLIENT,80D95EA20,Bank of Augusta,Partnership #853,False
+C_001603,CLIENT,80D963A80,Savings Bank of Topeka,Sole Proprietorship #13548,False
+C_001604,CLIENT,80D964480,Savings Bank of Huron,Partnership #1954,False
+C_001605,CLIENT,80D964D00,Bank of Pittsburgh,Partnership #17993,False
+C_001606,CLIENT,80D9A31F0,China Bank #43,Partnership #31099,True
+C_001607,CLIENT,80DA34F60,Savings Bank of Indianapolis,Partnership #41583,False
+C_001608,CLIENT,80DA6F420,National Bank of the South,Partnership #1894,True
+C_001609,CLIENT,80DA83E80,Bank of Omaha,Corporation #17387,False
+C_001610,CLIENT,80DA86060,France Bank #75,Sole Proprietorship #27629,False
+C_001611,CLIENT,80DA886C0,Netherlands Bank #683,Partnership #29220,False
+C_001612,CLIENT,80DA8BD70,France Bank #373,Corporation #20525,False
+C_001613,CLIENT,80DA8BF50,Germany Bank #101,Corporation #24929,False
+C_001614,CLIENT,80DA8DE20,Germany Bank #261,Corporation #25025,False
+C_001615,CLIENT,80DA90000,Italy Bank #82,Corporation #24213,False
+C_001616,CLIENT,80DA95FC0,Austria Bank #466,Corporation #24185,False
+C_001617,CLIENT,80DA97DD0,Germany Bank #851,Sole Proprietorship #26512,True
+C_001618,CLIENT,80DA97F10,France Bank #373,Partnership #51007,False
+C_001619,CLIENT,80DA98640,France Bank #424,Corporation #24966,True
+C_001620,CLIENT,80DA987D0,Austria Bank #298,Corporation #24238,False
+C_001621,CLIENT,80DAC29B0,Bank of Portland,Sole Proprietorship #4350,False
+C_001622,CLIENT,80DAC7D50,Savings Bank of Topeka,Corporation #17122,False
+C_001623,CLIENT,80DAC93D0,First Bank of Houston,Sole Proprietorship #12450,False
+C_001624,CLIENT,80DACCDE0,Arbor Thrift,Partnership #5642,False
+C_001625,CLIENT,80DACD490,National Bank of Detroit,Sole Proprietorship #12713,False
+C_001626,CLIENT,80DACE200,National Bank of the South,Partnership #891,False
+C_001627,CLIENT,80DACEC30,Bank of Augusta,Partnership #9112,False
+C_001628,CLIENT,80DACFD40,Bank of Providence,Partnership #9304,False
+C_001629,CLIENT,80DBADA80,Bank of Danbury,Partnership #12380,False
+C_001630,CLIENT,80DCC9680,Greece Bank #3228,Partnership #26055,False
+C_001631,CLIENT,80DD85450,Switzerland Bank #10,Partnership #5697,False
+C_001632,CLIENT,80DDCA6A0,Heath Thrift,Corporation #15287,True
+C_001633,CLIENT,80DE18E90,Netherlands Bank #27,Corporation #20537,True
+C_001634,CLIENT,80DF06680,Savings Bank of the South,Corporation #17076,False
+C_001635,CLIENT,80DF21F10,National Bank of Indianapolis,Sole Proprietorship #21803,True
+C_001636,CLIENT,80DF451B0,First Bank of Phoenix,Partnership #9201,False
+C_001637,CLIENT,80DF654B0,Spruce Federal Bank,Corporation #46709,True
+C_001638,CLIENT,80DF83250,First Bank of Springfield,Partnership #18441,True
+C_001639,CLIENT,80DFDA990,National Bank of Harrisburg,Partnership #39713,True
+C_001640,CLIENT,80DFF8490,Slovakia Bank #442,Partnership #24209,True
+C_001641,CLIENT,80E012220,First Bank of Indianapolis,Sole Proprietorship #17514,True
+C_001642,CLIENT,80E107100,Desert Bank,Partnership #15537,False
+C_001643,CLIENT,80E16D0B0,Bank of Laramie,Sole Proprietorship #4989,True
+C_001644,CLIENT,80E2C5A90,Bank of Detroit,Corporation #51854,False
+C_001645,CLIENT,80E35A3D0,Bank of Los Angeles,Partnership #18828,True
+C_001646,CLIENT,80E35D820,Hearthstone Credit Union,Sole Proprietorship #48153,True
+C_001647,CLIENT,80E40C5F0,Austria Bank #2,Corporation #54042,True
+C_001648,CLIENT,80E41BB70,Italy Bank #262,Partnership #28502,True
+C_001649,CLIENT,80E446440,Switzerland Bank #9,Sole Proprietorship #36680,True
+C_001650,CLIENT,80E45CEA0,China Bank #4,Sole Proprietorship #1261,True
+C_001651,CLIENT,80E46D0B0,Switzerland Bank #987,Partnership #40429,False
+C_001652,CLIENT,80E50A610,Switzerland Bank #10,Corporation #34854,True
+C_001653,CLIENT,80E5631C0,Japan Bank #154,Corporation #37634,False
+C_001654,CLIENT,80E58F320,First Bank of New Orleans,Corporation #15879,True
+C_001655,CLIENT,80E5ABE40,Switzerland Bank #954,Corporation #34854,False
+C_001656,CLIENT,80E5C5420,Switzerland Bank #5,Sole Proprietorship #17115,True
+C_001657,CLIENT,80E5DB120,Switzerland Bank #8,Sole Proprietorship #36725,True
+C_001658,CLIENT,80E5DBE80,Switzerland Bank #0,Corporation #34980,True
+C_001659,CLIENT,80E62A630,Switzerland Bank #16,Partnership #48927,True
+C_001660,CLIENT,80E6A81F0,National Bank of Helena,Partnership #52595,True
+C_001661,CLIENT,80E6B1A90,Germany Bank #160,Corporation #51554,True
+C_001662,CLIENT,80E6BBF00,Bank of Cleveland,Partnership #19011,True
+C_001663,CLIENT,80E6CA8D0,China Bank #303,Partnership #30446,True
+C_001664,CLIENT,80E6D9750,China Bank #64,Corporation #28874,False
+C_001665,CLIENT,80E6DAC40,China Bank #76,Partnership #31283,False
+C_001666,CLIENT,80E6DCAB0,China Bank #1030,Corporation #46468,False
+C_001667,CLIENT,80E6E9840,First Bank of Columbus,Corporation #5901,True
+C_001668,CLIENT,80E715C90,China Bank #41,Partnership #30401,False
+C_001669,CLIENT,80E716180,China Bank #310,Partnership #42127,False
+C_001670,CLIENT,80E718000,China Bank #16,Corporation #28812,False
+C_001671,CLIENT,80E7180F0,China Bank #39,Corporation #28765,False
+C_001672,CLIENT,80E719790,China Bank #58,Corporation #28927,False
+C_001673,CLIENT,80E719F00,Savings Bank of Denver,Partnership #39221,False
+C_001674,CLIENT,80E72DC60,China Bank #65,Corporation #39613,True
+C_001675,CLIENT,80E75B310,Desert Bank,Partnership #7337,False
+C_001676,CLIENT,80E7D5AB0,Switzerland Bank #31,Partnership #43101,True
+C_001677,CLIENT,80E87FCD0,Switzerland Bank #924,Partnership #36960,False
+C_001678,CLIENT,80E94FA80,Switzerland Bank #11,Partnership #36960,False
+C_001679,CLIENT,80E97FA80,Switzerland Bank #9,Partnership #46435,True
+C_001680,CLIENT,80EACBC50,Switzerland Bank #1003,Partnership #37692,False
+C_001681,CLIENT,80EADC270,Switzerland Bank #1096,Partnership #36960,False
+C_001682,CLIENT,80EB17430,Greece Bank #4060,Sole Proprietorship #27995,False
+C_001683,CLIENT,80EB1E930,Switzerland Bank #51,Corporation #2477,True
+C_001684,CLIENT,80EB726B0,Switzerland Bank #9,Corporation #34856,True
+C_001685,CLIENT,80EBD2960,Germany Bank #5911,Corporation #20535,False
+C_001686,CLIENT,80EBE2F00,Germany Bank #133,Corporation #25030,True
+C_001687,CLIENT,80EBF1580,Netherlands Bank #29,Corporation #22516,True
+C_001688,CLIENT,80EC7E760,First Bank of Pittsburgh,Corporation #1110,True
+C_001689,CLIENT,80EC9C290,Switzerland Bank #1262,Partnership #37692,False
+C_001690,CLIENT,80ECEABA0,National Bank of Milford,Corporation #14533,True
+C_001691,CLIENT,80ECF4060,Spain Bank #450,Corporation #26222,True
+C_001692,CLIENT,80ED72BA0,Spain Bank #208,Corporation #20910,True
+C_001693,CLIENT,80ED75AC0,Germany Bank #286,Partnership #28196,True
+C_001694,CLIENT,80EDAE1B0,Switzerland Bank #248,Sole Proprietorship #44844,False
+C_001695,CLIENT,80EE582B0,Bank of Providence,Corporation #5693,True
+C_001696,CLIENT,80EEF58C0,Switzerland Bank #35,Sole Proprietorship #36635,False
+C_001697,CLIENT,80EEF5A50,Switzerland Bank #35,Sole Proprietorship #36904,False
+C_001698,CLIENT,80EEFF9E0,Switzerland Bank #216,Corporation #35749,False
+C_001699,CLIENT,80EF023F0,Switzerland Bank #32,Corporation #34854,False
+C_001700,CLIENT,80EF02E40,Switzerland Bank #36,Partnership #37692,False
+C_001701,CLIENT,80EF02F30,Switzerland Bank #216,Sole Proprietorship #36724,False
+C_001702,CLIENT,80EF04940,Switzerland Bank #9,Partnership #36960,False
+C_001703,CLIENT,80EF052A0,Switzerland Bank #35,Partnership #36960,False
+C_001704,CLIENT,80EF49640,China Bank #303,Corporation #54284,True
+C_001705,CLIENT,80EF6EAA0,China Bank #33,Partnership #9456,True
+C_001706,CLIENT,80EF96640,China Bank #8,Sole Proprietorship #29352,True
+C_001707,CLIENT,80EFACF30,China Bank #59,Sole Proprietorship #30258,True
+C_001708,CLIENT,80EFDDBB0,China Bank #358,Sole Proprietorship #30176,True
+C_001709,CLIENT,80F01B390,Switzerland Bank #53,Partnership #37280,True
+C_001710,CLIENT,80F063680,Switzerland Bank #16,Sole Proprietorship #52902,True
+C_001711,CLIENT,80F10D150,Switzerland Bank #3,Corporation #35319,False
+C_001712,CLIENT,80F10F3B0,Switzerland Bank #170,Partnership #36960,False
+C_001713,CLIENT,80F1164A0,Switzerland Bank #170,Corporation #34854,False
+C_001714,CLIENT,80F118FD0,Switzerland Bank #46,Corporation #34854,False
+C_001715,CLIENT,80F11B580,Switzerland Bank #5,Corporation #35001,False
+C_001716,CLIENT,80F11E7B0,Switzerland Bank #284,Partnership #36960,False
+C_001717,CLIENT,80F137800,Switzerland Bank #1249,Corporation #34854,False
+C_001718,CLIENT,80F13D910,Plateau Community Bank,Corporation #2689,True
+C_001719,CLIENT,80F14B070,Switzerland Bank #21,Corporation #34854,False
+C_001720,CLIENT,80F154640,Switzerland Bank #5,Corporation #34854,False
+C_001721,CLIENT,80F181A50,Switzerland Bank #31,Partnership #37338,True
+C_001722,CLIENT,80F18F9D0,Switzerland Bank #39,Corporation #35060,True
+C_001723,CLIENT,80F1B4940,UK Bank #7,Partnership #21667,True
+C_001724,CLIENT,80F1E0120,National Bank of Harrisburg,Partnership #17361,True
+C_001725,CLIENT,80F1F4BD0,Switzerland Bank #36,Corporation #34854,True
+C_001726,CLIENT,80F21C090,Switzerland Bank #1221,Partnership #37692,False
+C_001727,CLIENT,80F224D00,Switzerland Bank #32,Partnership #16112,True
+C_001728,CLIENT,80F363750,Germany Bank #1088,Corporation #20257,True
+C_001729,CLIENT,80F441010,Switzerland Bank #1387,Sole Proprietorship #47456,False
+C_001730,CLIENT,80F461EE0,Switzerland Bank #48,Corporation #35443,False
+C_001731,CLIENT,80F471D00,Switzerland Bank #44,Partnership #36960,False
+C_001732,CLIENT,80F4728D0,Switzerland Bank #82,Corporation #34854,False
+C_001733,CLIENT,80F472E20,Switzerland Bank #25,Corporation #34854,False
+C_001734,CLIENT,80F4787D0,Switzerland Bank #22,Partnership #36960,False
+C_001735,CLIENT,80F4822A0,Switzerland Bank #112,Corporation #34854,False
+C_001736,CLIENT,80F4823E0,Switzerland Bank #65,Partnership #37692,False
+C_001737,CLIENT,80F484A30,Switzerland Bank #50,Corporation #34854,False
+C_001738,CLIENT,80F484D50,Switzerland Bank #18,Partnership #40429,False
+C_001739,CLIENT,80F485FF0,Switzerland Bank #53,Partnership #37691,False
+C_001740,CLIENT,80F4860E0,Switzerland Bank #31,Corporation #34854,False
+C_001741,CLIENT,80F499130,Switzerland Bank #0,Corporation #35118,True
+C_001742,CLIENT,80F499820,Switzerland Bank #72,Partnership #37692,False
+C_001743,CLIENT,80F49A360,Switzerland Bank #35,Partnership #36960,False
+C_001744,CLIENT,80F49AD40,Switzerland Bank #1,Corporation #34854,False
+C_001745,CLIENT,80F49CCB0,Switzerland Bank #25,Corporation #34854,False
+C_001746,CLIENT,80F4A0B70,Switzerland Bank #193,Partnership #36960,False
+C_001747,CLIENT,80F4A10F0,Switzerland Bank #46,Corporation #34854,False
+C_001748,CLIENT,80F4A1C20,Switzerland Bank #26,Partnership #36960,False
+C_001749,CLIENT,80F4A2460,Switzerland Bank #45,Corporation #34854,False
+C_001750,CLIENT,80F4A5B80,Switzerland Bank #42,Partnership #37234,False
+C_001751,CLIENT,80F4A6680,Switzerland Bank #29,Corporation #34854,False
+C_001752,CLIENT,80F4D47F0,Switzerland Bank #1302,Corporation #34854,False
+C_001753,CLIENT,80F500E60,Switzerland Bank #1159,Corporation #35797,False
+C_001754,CLIENT,80F509740,Switzerland Bank #25,Corporation #35487,False
+C_001755,CLIENT,80F5159E0,Switzerland Bank #21,Partnership #36960,False
+C_001756,CLIENT,80F52CD80,Switzerland Bank #53,Partnership #36960,False
+C_001757,CLIENT,80F52D870,Switzerland Bank #21,Corporation #34854,False
+C_001758,CLIENT,80F52D960,Switzerland Bank #72,Partnership #37692,False
+C_001759,CLIENT,80F5319E0,Switzerland Bank #171,Corporation #34854,False
+C_001760,CLIENT,80F5322D0,Switzerland Bank #65,Corporation #34854,False
+C_001761,CLIENT,80F535040,Switzerland Bank #1150,Sole Proprietorship #37051,False
+C_001762,CLIENT,80F5407F0,Switzerland Bank #193,Corporation #34854,False
+C_001763,CLIENT,80F542950,Switzerland Bank #65,Sole Proprietorship #21697,True
+C_001764,CLIENT,80F56A4D0,Switzerland Bank #47,Sole Proprietorship #37166,False
+C_001765,CLIENT,80F56EE40,Switzerland Bank #50,Corporation #34909,False
+C_001766,CLIENT,80F574900,Switzerland Bank #24,Corporation #34854,False
+C_001767,CLIENT,80F5862B0,Switzerland Bank #5,Corporation #34854,False
+C_001768,CLIENT,80F587A20,Switzerland Bank #24,Corporation #34854,False
+C_001769,CLIENT,80F588EF0,Switzerland Bank #119,Corporation #34854,False
+C_001770,CLIENT,80F5D4A80,Switzerland Bank #45,Sole Proprietorship #615,True
+C_001771,CLIENT,80F65C7D0,Switzerland Bank #9,Corporation #34854,False
+C_001772,CLIENT,80F6727B0,Switzerland Bank #1490,Corporation #47152,False
+C_001773,CLIENT,80F683C70,Switzerland Bank #1144,Corporation #34854,False
+C_001774,CLIENT,80F728F60,Switzerland Bank #1214,Corporation #47152,False
+C_001775,CLIENT,80F8250B0,Switzerland Bank #1164,Partnership #37691,False
+C_001776,CLIENT,80F8487E0,Switzerland Bank #957,Sole Proprietorship #37402,False
+C_001777,CLIENT,80F8976E0,Switzerland Bank #1427,Corporation #35797,False
+C_001778,CLIENT,80F95BB60,National Bank of Omaha,Corporation #5276,False
+C_001779,CLIENT,80FA3DBD0,Switzerland Bank #41,Sole Proprietorship #36703,False
+C_001780,CLIENT,80FA40FF0,Switzerland Bank #1,Sole Proprietorship #36884,False
+C_001781,CLIENT,80FA415A0,Switzerland Bank #170,Corporation #34854,False
+C_001782,CLIENT,80FABEA70,Switzerland Bank #0,Corporation #35141,False
+C_001783,CLIENT,80FAD1C80,Switzerland Bank #147,Partnership #36960,False
+C_001784,CLIENT,80FAD51A0,Switzerland Bank #47,Sole Proprietorship #42353,False
+C_001785,CLIENT,80FAD5550,Switzerland Bank #1,Corporation #34854,False
+C_001786,CLIENT,80FAD7710,Switzerland Bank #32,Corporation #43641,False
+C_001787,CLIENT,80FAD7B50,Switzerland Bank #34,Partnership #37692,False
+C_001788,CLIENT,80FB08D10,Switzerland Bank #119,Corporation #34854,False
+C_001789,CLIENT,80FB16BD0,Switzerland Bank #11,Corporation #34854,False
+C_001790,CLIENT,80FB5D040,Switzerland Bank #768,Corporation #44866,False
+C_001791,CLIENT,80FB84A00,Oak Community Bank,Sole Proprietorship #12808,False
+C_001792,CLIENT,80FBCD550,National Bank of Sacramento,Partnership #19618,True
+C_001793,CLIENT,80FC1B2A0,Germany Bank #4272,Corporation #26041,False
+C_001794,CLIENT,80FCC1740,First Bank of Pittsburgh,Sole Proprietorship #54535,True
+C_001795,CLIENT,80FD41750,Israel Bank #1058,Partnership #50498,False
+C_001796,CLIENT,80FD99C90,First Bank of Portland,Corporation #46663,False
+C_001797,CLIENT,80FDA84F0,Savings Bank of Fort Wayne,Sole Proprietorship #47644,True
+C_001798,CLIENT,80FE25690,Plateau Trust Bank,Sole Proprietorship #38839,True
+C_001799,CLIENT,80FE90E10,Bank of Denver,Sole Proprietorship #18694,True
+C_001800,CLIENT,80FEF3A50,National Bank of the North,Sole Proprietorship #18736,True
+C_001801,CLIENT,80FFAE5E0,Israel Bank #211,Corporation #35871,False
+C_001802,CLIENT,80FFD2C60,National Bank of Pittsburgh,Partnership #37705,True
+C_001803,CLIENT,810183CE0,Savings Bank of Dallas,Partnership #14868,True
+C_001804,CLIENT,810186380,Acme Federal Bank,Partnership #19909,True
+C_001805,CLIENT,810241490,China Bank #33,Partnership #31457,True
+C_001806,CLIENT,81024EED0,Israel Bank #42,Sole Proprietorship #37543,True
+C_001807,CLIENT,8102614C0,Bank of Phoenix,Sole Proprietorship #4684,False
+C_001808,CLIENT,8103C25F0,France Bank #1273,Sole Proprietorship #27834,True
+C_001809,CLIENT,810408DE0,National Bank of Boston,Sole Proprietorship #41767,True
+C_001810,CLIENT,81054BAA0,Israel Bank #1111,Corporation #35871,False
+C_001811,CLIENT,8105CFDC0,First Bank of the North,Partnership #20197,True
+C_001812,CLIENT,810650A20,Israel Bank #1130,Partnership #52799,False
+C_001813,CLIENT,8106B1750,China Bank #38,Partnership #31468,True
+C_001814,CLIENT,81071A7F0,Greece Bank #2128,Sole Proprietorship #48843,True
+C_001815,CLIENT,81074B590,Flagstone Savings Bank,Sole Proprietorship #17682,True
+C_001816,CLIENT,810795540,Israel Bank #8,Partnership #37705,False
+C_001817,CLIENT,81079E890,Israel Bank #251,Partnership #37705,False
+C_001818,CLIENT,81079F150,Israel Bank #19,Partnership #37705,False
+C_001819,CLIENT,8107A0740,Israel Bank #36,Corporation #35958,False
+C_001820,CLIENT,8107A0960,Israel Bank #24,Partnership #37705,False
+C_001821,CLIENT,8107BB990,Israel Bank #24,Partnership #37705,True
+C_001822,CLIENT,8107D2090,Israel Bank #11,Corporation #35871,True
+C_001823,CLIENT,8107D3A60,Israel Bank #41,Corporation #35851,False
+C_001824,CLIENT,8107FC470,Israel Bank #51,Corporation #36097,False
+C_001825,CLIENT,810872BA0,Israel Bank #32,Partnership #38049,True
+C_001826,CLIENT,8108DB590,Israel Bank #19,Sole Proprietorship #45573,True
+C_001827,CLIENT,81097EAF0,Bank of Miami,Partnership #19916,False
+C_001828,CLIENT,8109BDC80,National Bank of Tuscon,Corporation #10045,False
+C_001829,CLIENT,810A16CE0,Israel Bank #1065,Corporation #35871,False
+C_001830,CLIENT,810A97A50,Spain Bank #174,Corporation #23391,True
+C_001831,CLIENT,810AD3A90,Savings Bank of Houston,Corporation #47865,True
+C_001832,CLIENT,810B68D50,Netherlands Bank #91,Sole Proprietorship #26672,True
+C_001833,CLIENT,810CAD000,France Bank #5438,Corporation #44676,False
+C_001834,CLIENT,810CB8A70,Spain Bank #5192,Partnership #29301,False
+C_001835,CLIENT,810E62EB0,First Bank of Miami,Sole Proprietorship #19471,True
+C_001836,CLIENT,810F5ED30,France Bank #8,Partnership #41447,True
+C_001837,CLIENT,810FA6A50,Germany Bank #38,Partnership #27615,False
+C_001838,CLIENT,810FAAB30,Germany Bank #1251,Corporation #24607,False
+C_001839,CLIENT,810FAB1A0,Netherlands Bank #683,Partnership #27246,False
+C_001840,CLIENT,810FB24E0,Germany Bank #908,Partnership #45620,False
+C_001841,CLIENT,810FB4D10,Italy Bank #194,Corporation #23363,True
+C_001842,CLIENT,810FDA680,Spain Bank #23,Corporation #23333,False
+C_001843,CLIENT,810FDB280,Italy Bank #98,Corporation #25182,False
+C_001844,CLIENT,810FE1170,Germany Bank #2499,Corporation #22054,False
+C_001845,CLIENT,810FE11C0,France Bank #290,Corporation #43390,False
+C_001846,CLIENT,810FE6340,Savings Bank of Los Angeles,Corporation #49785,False
+C_001847,CLIENT,810FF5B00,Italy Bank #587,Partnership #26098,False
+C_001848,CLIENT,811006A00,Fieldstone Cooperative Bank,Corporation #10031,True
+C_001849,CLIENT,811099C90,Acme Cooperative Bank,Partnership #8766,True
+C_001850,CLIENT,81109ED60,Italy Bank #97,Sole Proprietorship #28055,True
+C_001851,CLIENT,81121FAB0,National Bank of Laramie,Sole Proprietorship #19667,True
+C_001852,CLIENT,811225F60,Savings Bank of Augusta,Sole Proprietorship #6757,False
+C_001853,CLIENT,811273830,Israel Bank #35,Sole Proprietorship #2804,True
+C_001854,CLIENT,811292ED0,Israel Bank #1108,Corporation #35871,False
+C_001855,CLIENT,8112C4010,Savings Bank of Fairfield,Sole Proprietorship #1709,True
+C_001856,CLIENT,8113961C0,Israel Bank #981,Corporation #36255,False
+C_001857,CLIENT,8113E1930,Bank of Miami,Corporation #16770,False
+C_001858,CLIENT,8113EEDB0,Mountain Savings Bank,Sole Proprietorship #12043,True
+C_001859,CLIENT,811451920,Lithuania Bank #1764,Corporation #47523,True
+C_001860,CLIENT,8114AE0C0,China Bank #26,Partnership #31197,False
+C_001861,CLIENT,8114AE1B0,China Bank #512,Sole Proprietorship #30007,False
+C_001862,CLIENT,8114AE3E0,China Bank #20,Corporation #29130,False
+C_001863,CLIENT,8114AF270,China Bank #550,Sole Proprietorship #29984,False
+C_001864,CLIENT,8114AFBE0,China Bank #374,Partnership #31121,False
+C_001865,CLIENT,8114AFF00,Savings Bank of Denver,Corporation #42081,False
+C_001866,CLIENT,8114BFAA0,China Bank #8,Sole Proprietorship #29495,False
+C_001867,CLIENT,8114C0050,China Bank #58,Sole Proprietorship #9683,True
+C_001868,CLIENT,8114C2920,China Bank #17,Partnership #31255,False
+C_001869,CLIENT,81151ABD0,Israel Bank #541,Sole Proprietorship #38182,False
+C_001870,CLIENT,81152ABB0,Israel Bank #34,Corporation #35871,False
+C_001871,CLIENT,81152D030,Israel Bank #10,Sole Proprietorship #45573,False
+C_001872,CLIENT,811531A80,Israel Bank #9,Corporation #36344,False
+C_001873,CLIENT,811533380,Israel Bank #53,Corporation #35871,False
+C_001874,CLIENT,811537160,Israel Bank #5,Corporation #35871,False
+C_001875,CLIENT,811537810,Israel Bank #102,Partnership #37705,False
+C_001876,CLIENT,8115438A0,Israel Bank #197,Corporation #36255,False
+C_001877,CLIENT,81157C250,Israel Bank #12,Corporation #35871,False
+C_001878,CLIENT,81157C2A0,Israel Bank #96,Partnership #37705,False
+C_001879,CLIENT,8115846C0,Israel Bank #66,Partnership #37705,False
+C_001880,CLIENT,8115886E0,Israel Bank #9,Partnership #37705,False
+C_001881,CLIENT,811596CD0,Israel Bank #39,Corporation #35871,False
+C_001882,CLIENT,811596E10,Israel Bank #43,Corporation #35871,False
+C_001883,CLIENT,811597180,Israel Bank #43,Sole Proprietorship #38061,False
+C_001884,CLIENT,811598D40,Israel Bank #17,Corporation #35871,False
+C_001885,CLIENT,8115A1430,Israel Bank #33,Partnership #37705,False
+C_001886,CLIENT,8115A2260,Israel Bank #119,Partnership #37705,False
+C_001887,CLIENT,8115A28F0,Israel Bank #21,Partnership #37705,False
+C_001888,CLIENT,8115A2FD0,Israel Bank #53,Corporation #35871,False
+C_001889,CLIENT,8115A3250,Israel Bank #5,Corporation #35871,False
+C_001890,CLIENT,811611D00,Italy Bank #49,Partnership #46281,True
+C_001891,CLIENT,81172B400,The Pine Thrift,Partnership #12025,True
+C_001892,CLIENT,8117D7430,Israel Bank #954,Partnership #52799,False
+C_001893,CLIENT,8118E76A0,Dawn Cooperative Bank,Corporation #2738,False
+C_001894,CLIENT,8118F49B0,Germany Bank #719,Sole Proprietorship #28248,True
+C_001895,CLIENT,8119701D0,France Bank #372,Sole Proprietorship #28040,False
+C_001896,CLIENT,811971DC0,Germany Bank #862,Corporation #51553,False
+C_001897,CLIENT,811973570,Italy Bank #293,Sole Proprietorship #40068,False
+C_001898,CLIENT,811974390,Germany Bank #279,Corporation #24323,False
+C_001899,CLIENT,811974F00,Austria Bank #466,Corporation #26872,False
+C_001900,CLIENT,811976A40,Austria Bank #182,Sole Proprietorship #39082,False
+C_001901,CLIENT,81197F9E0,Germany Bank #4305,Corporation #27786,False
+C_001902,CLIENT,81198DE10,Spain Bank #341,Corporation #24868,True
+C_001903,CLIENT,8119A3AC0,Italy Bank #13,Corporation #24328,False
+C_001904,CLIENT,8119B4410,Germany Bank #48,Corporation #23704,False
+C_001905,CLIENT,8119F8CC0,Saudi Arabia Bank #4,Sole Proprietorship #16903,True
+C_001906,CLIENT,8119F8CC0,Saudi Arabia Bank #4,Sole Proprietorship #16903,True
+C_001907,CLIENT,8119F8CC0,Saudi Arabia Bank #4,Sole Proprietorship #16903,True
+C_001908,CLIENT,811A32DC0,Savings Bank of Sacramento,Sole Proprietorship #53363,True
+C_001909,CLIENT,811A331E0,Bank of Helena,Sole Proprietorship #48200,False
+C_001910,CLIENT,811A4DBD0,Saudi Arabia Bank #4,Partnership #38226,True
+C_001911,CLIENT,811A4DBD0,Saudi Arabia Bank #4,Partnership #38226,True
+C_001912,CLIENT,811A4DBD0,Saudi Arabia Bank #4,Partnership #38226,True
+C_001913,CLIENT,811A4DBD0,Saudi Arabia Bank #4,Partnership #38226,True
+C_001914,CLIENT,811A65E30,Saudi Arabia Bank #4,Sole Proprietorship #10602,True
+C_001915,CLIENT,811A65E30,Saudi Arabia Bank #4,Sole Proprietorship #10602,True
+C_001916,CLIENT,811A65E30,Saudi Arabia Bank #4,Sole Proprietorship #10602,True
+C_001917,CLIENT,811A67510,Switzerland Bank #8,Partnership #38226,True
+C_001918,CLIENT,811A67510,Switzerland Bank #8,Partnership #38226,True
+C_001919,CLIENT,811A67510,Switzerland Bank #8,Partnership #38226,True
+C_001920,CLIENT,811A71590,Saudi Arabia Bank #7,Corporation #19043,False
+C_001921,CLIENT,811AD68A0,Italy Bank #2133,Partnership #27448,True
+C_001922,CLIENT,811AF52C0,Italy Bank #1969,Sole Proprietorship #24623,True
+C_001923,CLIENT,811B6E170,Switzerland Bank #8,Partnership #6126,True
+C_001924,CLIENT,811B6E170,Switzerland Bank #8,Partnership #6126,True
+C_001925,CLIENT,811B6E170,Switzerland Bank #8,Partnership #6126,True
+C_001926,CLIENT,811B6E170,Switzerland Bank #8,Partnership #6126,True
+C_001927,CLIENT,811B6E2B0,Israel Bank #6,Partnership #38226,True
+C_001928,CLIENT,811B82650,Saudi Arabia Bank #5,Partnership #38226,False
+C_001929,CLIENT,811B88600,Israel Bank #6,Sole Proprietorship #10402,True
+C_001930,CLIENT,811B9B110,Switzerland Bank #8,Sole Proprietorship #10543,True
+C_001931,CLIENT,811B9B160,Saudi Arabia Bank #4,Corporation #36539,True
+C_001932,CLIENT,811BCF2E0,Switzerland Bank #8,Corporation #36573,True
+C_001933,CLIENT,811BD8570,Oasis Community Bank,Partnership #3587,True
+C_001934,CLIENT,811C1F440,Saudi Arabia Bank #5,Partnership #38226,False
+C_001935,CLIENT,811C33CD0,Israel Bank #6,Corporation #19043,False
+C_001936,CLIENT,811C341B0,Saudi Arabia Bank #4,Corporation #36539,False
+C_001937,CLIENT,811C34A50,Saudi Arabia Bank #18,Corporation #48544,False
+C_001938,CLIENT,811C37FB0,Israel Bank #6,Corporation #36539,False
+C_001939,CLIENT,811C383F0,Saudi Arabia Bank #7,Corporation #36746,False
+C_001940,CLIENT,811C39690,Saudi Arabia Bank #6,Partnership #38226,False
+C_001941,CLIENT,811C42F00,Saudi Arabia Bank #7,Partnership #38226,True
+C_001942,CLIENT,811C48E10,Saudi Arabia Bank #4,Corporation #36539,False
+C_001943,CLIENT,811C4EDD0,Saudi Arabia Bank #14,Sole Proprietorship #38225,True
+C_001944,CLIENT,811C4EDD0,Saudi Arabia Bank #14,Sole Proprietorship #38225,True
+C_001945,CLIENT,811C4F910,Saudi Arabia Bank #24,Corporation #36539,False
+C_001946,CLIENT,811CA9400,Croatia Bank #34,Partnership #27085,False
+C_001947,CLIENT,811CABF30,France Bank #51,Partnership #28092,False
+C_001948,CLIENT,811CAF360,France Bank #1466,Corporation #26748,False
+C_001949,CLIENT,811CB01D0,France Bank #52,Sole Proprietorship #28320,False
+C_001950,CLIENT,811CB0310,Germany Bank #65,Corporation #21152,False
+C_001951,CLIENT,811CB3CC0,Croatia Bank #36,Partnership #23465,False
+C_001952,CLIENT,811CB62E0,Spain Bank #41,Corporation #24816,False
+C_001953,CLIENT,811CB63D0,France Bank #454,Corporation #23170,False
+C_001954,CLIENT,811CB6560,Germany Bank #62,Partnership #23882,False
+C_001955,CLIENT,811CB9F70,Netherlands Bank #470,Corporation #49453,False
+C_001956,CLIENT,811D61880,Saudi Arabia Bank #5,Corporation #36539,False
+C_001957,CLIENT,811D6F4E0,Saudi Arabia Bank #7,Partnership #38226,False
+C_001958,CLIENT,811D80C30,Saudi Arabia Bank #5,Corporation #14622,True
+C_001959,CLIENT,811D80C30,Saudi Arabia Bank #5,Corporation #14622,True
+C_001960,CLIENT,811D80C30,Saudi Arabia Bank #5,Corporation #14622,True
+C_001961,CLIENT,811DCA9B0,Israel Bank #6,Sole Proprietorship #38255,True
+C_001962,CLIENT,811DCA9B0,Israel Bank #6,Sole Proprietorship #38255,True
+C_001963,CLIENT,811DD0B10,Saudi Arabia Bank #24,Sole Proprietorship #4233,False
+C_001964,CLIENT,811DE1100,Sea Savings Bank,Corporation #14037,False
+C_001965,CLIENT,811E03C30,Saudi Arabia Bank #6,Sole Proprietorship #46269,True
+C_001966,CLIENT,811E71060,First Bank of Hartford,Sole Proprietorship #20212,True
+C_001967,CLIENT,811ED7DF0,Saudi Arabia Bank #18,Partnership #38433,True
+C_001968,CLIENT,811EDA7A0,Saudi Arabia Bank #18,Partnership #14481,True
+C_001969,CLIENT,811EDA7A0,Saudi Arabia Bank #18,Partnership #14481,True
+C_001970,CLIENT,811EDA940,Saudi Arabia Bank #4,Partnership #38226,True
+C_001971,CLIENT,811EDAA30,Saudi Arabia Bank #22,Corporation #36539,True
+C_001972,CLIENT,811FCA7B0,Saudi Arabia Bank #14,Partnership #11333,True
+C_001973,CLIENT,8120573F0,UK Bank #40,Partnership #35411,False
+C_001974,CLIENT,81207C3A0,UK Bank #57,Corporation #32977,False
+C_001975,CLIENT,81207D280,UK Bank #58,Sole Proprietorship #34754,True
+C_001976,CLIENT,81207DF20,UK Bank #36,Partnership #35574,False
+C_001977,CLIENT,81207F1C0,UK Bank #63,Partnership #35585,False
+C_001978,CLIENT,8120853B0,UK Bank #13,Sole Proprietorship #34275,False
+C_001979,CLIENT,812089B10,UK Bank #362,Corporation #32991,False
+C_001980,CLIENT,81208AB90,UK Bank #1,Corporation #32908,False
+C_001981,CLIENT,812090240,UK Bank #62,Corporation #32974,False
+C_001982,CLIENT,8120A96C0,UK Bank #307,Corporation #32983,False
+C_001983,CLIENT,8120A9800,UK Bank #686,Partnership #35567,False
+C_001984,CLIENT,8120D4990,Saudi Arabia Bank #15,Corporation #46041,True
+C_001985,CLIENT,8120D4990,Saudi Arabia Bank #15,Corporation #46041,True
+C_001986,CLIENT,8120D49E0,Saudi Arabia Bank #8,Partnership #38226,True
+C_001987,CLIENT,8120D49E0,Saudi Arabia Bank #8,Partnership #38226,True
+C_001988,CLIENT,8120E16B0,Germany Bank #207,Corporation #27131,False
+C_001989,CLIENT,8120E1CA0,Croatia Bank #546,Sole Proprietorship #23034,False
+C_001990,CLIENT,8120E2D30,Spain Bank #66,Corporation #23783,False
+C_001991,CLIENT,8120E2D80,France Bank #189,Sole Proprietorship #26832,False
+C_001992,CLIENT,8120E3A00,Netherlands Bank #91,Partnership #27402,False
+C_001993,CLIENT,8120E5700,France Bank #63,Partnership #28926,False
+C_001994,CLIENT,8120E7DE0,Austria Bank #107,Sole Proprietorship #23867,False
+C_001995,CLIENT,8120E8810,Greece Bank #180,Sole Proprietorship #28118,False
+C_001996,CLIENT,812217950,Mountain Credit Union,Partnership #1408,False
+C_001997,CLIENT,81221FA90,Savings Bank of Columbus,Sole Proprietorship #20152,False
+C_001998,CLIENT,81223EDF0,India Bank #58,Corporation #31442,True
+C_001999,CLIENT,812254EE0,India Bank #985,Partnership #33783,False
+C_002000,CLIENT,81230E3E0,Hearthstone Community Bank,Corporation #8400,True
+C_002001,CLIENT,81235E8B0,Israel Bank #6,Sole Proprietorship #45578,True
+C_002002,CLIENT,81235EAA0,Saudi Arabia Bank #24,Partnership #38351,True
+C_002003,CLIENT,81235EAA0,Saudi Arabia Bank #24,Partnership #38351,True
+C_002004,CLIENT,81235EC40,Saudi Arabia Bank #16,Corporation #19043,True
+C_002005,CLIENT,81235EE30,Saudi Arabia Bank #12,Corporation #36687,True
+C_002006,CLIENT,81235EE30,Saudi Arabia Bank #12,Corporation #36687,True
+C_002007,CLIENT,8123789D0,Israel Bank #6,Partnership #38357,True
+C_002008,CLIENT,8123962F0,Saudi Arabia Bank #26,Sole Proprietorship #6432,True
+C_002009,CLIENT,81243E2A0,Savings Bank of Detroit,Sole Proprietorship #11633,True
+C_002010,CLIENT,8124B1D90,Hearthstone Credit Union,Corporation #4725,True
+C_002011,CLIENT,812532CF0,Italy Bank #13,Corporation #27309,False
+C_002012,CLIENT,812552D60,Finland Bank #0,Corporation #26628,False
+C_002013,CLIENT,812556DC0,France Bank #28,Partnership #28849,False
+C_002014,CLIENT,812557CC0,France Bank #656,Sole Proprietorship #51152,False
+C_002015,CLIENT,812559500,Belgium Bank #345,Sole Proprietorship #29052,False
+C_002016,CLIENT,81255A150,France Bank #372,Corporation #43406,False
+C_002017,CLIENT,81255B210,Belgium Bank #258,Corporation #53692,False
+C_002018,CLIENT,81255B300,Spain Bank #219,Sole Proprietorship #25428,False
+C_002019,CLIENT,81256B170,Portugal Bank #2012,Partnership #29475,False
+C_002020,CLIENT,8125A5920,Germany Bank #159,Sole Proprietorship #49324,False
+C_002021,CLIENT,8125A59C0,Lithuania Bank #1764,Partnership #23929,False
+C_002022,CLIENT,8125B2570,Germany Bank #951,Corporation #44649,False
+C_002023,CLIENT,8125B3350,Netherlands Bank #500,Corporation #26436,False
+C_002024,CLIENT,8125B64C0,Belgium Bank #345,Partnership #27709,False
+C_002025,CLIENT,8125B94D0,Germany Bank #709,Corporation #27105,False
+C_002026,CLIENT,8125BF8F0,Belgium Bank #258,Partnership #28933,False
+C_002027,CLIENT,8125BFDA0,France Bank #54,Partnership #28695,False
+C_002028,CLIENT,8125D3FD0,China Bank #1013,Individual #60,False
+C_002029,CLIENT,812734DB0,Spain Bank #171,Corporation #27505,False
+C_002030,CLIENT,8127352E0,France Bank #902,Corporation #24739,False
+C_002031,CLIENT,812738D60,Belgium Bank #2607,Corporation #20590,False
+C_002032,CLIENT,812738EF0,Portugal Bank #1692,Corporation #25108,False
+C_002033,CLIENT,81273BFF0,France Bank #111,Partnership #27129,False
+C_002034,CLIENT,81273D100,Spain Bank #363,Sole Proprietorship #27676,False
+C_002035,CLIENT,81273DE50,France Bank #47,Corporation #24627,False
+C_002036,CLIENT,81273F190,Netherlands Bank #131,Sole Proprietorship #50811,False
+C_002037,CLIENT,8127451B0,Italy Bank #262,Partnership #27148,False
+C_002038,CLIENT,8128BD2C0,Spain Bank #4653,Partnership #50746,False
+C_002039,CLIENT,8128CBEB0,France Bank #5417,Sole Proprietorship #49354,False
+C_002040,CLIENT,81291F8A0,Germany Bank #5489,Corporation #43377,False
+C_002041,CLIENT,812989E20,France Bank #638,Sole Proprietorship #26052,True
+C_002042,CLIENT,812A129E0,First Bank of the Valley,Partnership #702,True
+C_002043,CLIENT,812A296C0,Sea Cooperative Bank,Partnership #15771,False
+C_002044,CLIENT,812A60050,National Bank of Topeka,Partnership #6318,True
+C_002045,CLIENT,812ACA800,Germany Bank #3856,Sole Proprietorship #22651,False
+C_002046,CLIENT,812B0E720,Brownstone Thrift,Partnership #14772,False
+C_002047,CLIENT,812B83980,Plateau Trust Bank,Partnership #9949,False
+C_002048,CLIENT,812B83980,Plateau Trust Bank,Partnership #9949,False
+C_002049,CLIENT,812B842D0,First Bank of Butte,Sole Proprietorship #3202,False
+C_002050,CLIENT,812B84960,Bank of Fairfield,Corporation #11918,False
+C_002051,CLIENT,812B85C90,First Bank of Butte,Sole Proprietorship #7756,False
+C_002052,CLIENT,812B85DD0,The Pine Thrift,Corporation #6497,False
+C_002053,CLIENT,812B86430,First Bank of Phoenix,Corporation #10534,False
+C_002054,CLIENT,812B86520,Brownstone Credit Union,Corporation #52655,False
+C_002055,CLIENT,812B87510,Plateau Trust Bank,Corporation #4880,False
+C_002056,CLIENT,812B87560,National Bank of Watertown,Corporation #4346,False
+C_002057,CLIENT,812B876A0,Plandor Trust Bank,Partnership #3816,False
+C_002058,CLIENT,812B87740,National Bank of Montpelier,Partnership #1669,False
+C_002059,CLIENT,812B90D60,Brownstone Bancorp,Sole Proprietorship #2953,False
+C_002060,CLIENT,812BB1FE0,National Bank of Tuscon,Corporation #839,False
+C_002061,CLIENT,812BB2030,Savings Bank of Huron,Sole Proprietorship #20747,False
+C_002062,CLIENT,812BB3800,Oasis Bank,Partnership #7046,False
+C_002063,CLIENT,812BB3990,Sea Community Bank,Partnership #20956,False
+C_002064,CLIENT,812BB3990,Sea Community Bank,Partnership #20956,False
+C_002065,CLIENT,812BB5D10,Savings Bank of Tampa,Partnership #3327,False
+C_002066,CLIENT,812BB5D10,Savings Bank of Tampa,Partnership #3327,False
+C_002067,CLIENT,812C17390,Lithuania Bank #5114,Corporation #52016,False
+C_002068,CLIENT,812D06150,Switzerland Bank #8,Partnership #46999,True
+C_002069,CLIENT,812D1A410,Saudi Arabia Bank #4,Corporation #7852,True
+C_002070,CLIENT,812D1A410,Saudi Arabia Bank #4,Corporation #7852,True
+C_002071,CLIENT,812D1A650,Saudi Arabia Bank #19,Partnership #38434,True
+C_002072,CLIENT,812D1A650,Saudi Arabia Bank #19,Partnership #38434,True
+C_002073,CLIENT,812D1AC00,Saudi Arabia Bank #26,Partnership #605,True
+C_002074,CLIENT,812D1AC00,Saudi Arabia Bank #26,Partnership #605,True
+C_002075,CLIENT,812D1B280,Saudi Arabia Bank #27,Sole Proprietorship #47477,True
+C_002076,CLIENT,812D1B280,Saudi Arabia Bank #27,Sole Proprietorship #47477,True
+C_002077,CLIENT,812D3B2E0,Savings Bank of the Valley,Sole Proprietorship #5703,False
+C_002078,CLIENT,812DE68E0,Bank of Newbury,Corporation #8197,False
+C_002079,CLIENT,812F2CC20,First Bank of Indianapolis,Partnership #17462,False
+C_002080,CLIENT,812F30330,Regents Trust Bank,Sole Proprietorship #17831,False
+C_002081,CLIENT,8130DE600,National Bank of Watertown,Partnership #7293,False
+C_002082,CLIENT,8130DF780,Savings Bank of Laramie,Sole Proprietorship #17836,False
+C_002083,CLIENT,8130E1350,Spruce Bank,Partnership #12672,False
+C_002084,CLIENT,8130E28E0,National Bank of Detroit,Partnership #3865,False
+C_002085,CLIENT,8130E2A70,National Bank of Watertown,Partnership #4116,False
+C_002086,CLIENT,8130E5E00,Arbor Cooperative Bank,Partnership #2820,False
+C_002087,CLIENT,8130E5E50,Bank of Cleveland,Partnership #12474,False
+C_002088,CLIENT,8130E71F0,Savings Bank of Los Angeles,Sole Proprietorship #14933,False
+C_002089,CLIENT,8131F0060,Germany Bank #4212,Partnership #28350,False
+C_002090,CLIENT,8132EDFB0,Savings Bank of Huron,Partnership #7809,False
+C_002091,CLIENT,8133065F0,France Bank #5084,Corporation #25324,False
+C_002092,CLIENT,8134D5C80,Finland Bank #5379,Partnership #23520,False
+C_002093,CLIENT,8135031E0,Bank of Providence,Partnership #22434,False
+C_002094,CLIENT,813503230,First Bank of the West,Sole Proprietorship #21345,False
+C_002095,CLIENT,813508BC0,Willows Community Bank,Partnership #10917,False
+C_002096,CLIENT,8135093E0,Arbor Savings Bank,Sole Proprietorship #49211,False
+C_002097,CLIENT,813510DE0,Bank of Boston,Corporation #8575,False
+C_002098,CLIENT,813511D30,Bank of Arkadelphia,Partnership #22436,False
+C_002099,CLIENT,813513070,Plateau Credit Union,Partnership #7187,False
+C_002100,CLIENT,813513820,Willows Thrift,Partnership #22437,False
+C_002101,CLIENT,813516530,Acme Bank,Sole Proprietorship #2985,False
+C_002102,CLIENT,8135AB3B0,National Bank of Lacrosse,Sole Proprietorship #13119,False
+C_002103,CLIENT,8135B0B20,Bank of Miami,Partnership #18797,False
+C_002104,CLIENT,8135B3A50,National Bank of the Valley,Sole Proprietorship #6967,False
+C_002105,CLIENT,8135B42F0,Bank of Arkadelphia,Partnership #11272,False
+C_002106,CLIENT,8135B4A20,Acme Federal Bank,Corporation #17135,False
+C_002107,CLIENT,8135B5690,Willows Bancorp,Partnership #11561,False
+C_002108,CLIENT,8135B8B00,Capital Thrift,Sole Proprietorship #803,False
+C_002109,CLIENT,8135B99C0,Savings Bank of Harrisburg,Sole Proprietorship #21402,False
+C_002110,CLIENT,8135BDF30,Savings Bank of Dallas,Corporation #14262,False
+C_002111,CLIENT,8138F6720,Savings Bank of Laramie,Corporation #7365,False
+C_002112,CLIENT,8138F8560,National Bank of Los Angeles,Sole Proprietorship #7573,False
+C_002113,CLIENT,8139C2290,Flagstone Federal Bank,Corporation #1748,False
+C_002114,CLIENT,8139C2F00,Desert Cooperative Bank,Corporation #6911,False
+C_002115,CLIENT,813A083E0,National Bank of Montpelier,Partnership #1178,False
+C_002116,CLIENT,813A11180,Future Thrift,Sole Proprietorship #21574,False
+C_002117,CLIENT,813A115E0,Savings Bank of Milford,Sole Proprietorship #12995,False
+C_002118,CLIENT,813A42340,Mountain Bank,Partnership #1026,False
+C_002119,CLIENT,813A43510,First Bank of Springfield,Partnership #16103,False
+C_002120,CLIENT,813A43B20,National Bank of Albany,Corporation #16527,False
+C_002121,CLIENT,813A59030,Spruce Cooperative Bank,Sole Proprietorship #1948,False
+C_002122,CLIENT,813ABDC10,Bank of Cleveland,Corporation #19623,False
+C_002123,CLIENT,813AC0530,First Bank of the West,Partnership #5416,False
+C_002124,CLIENT,813AC7DC0,First Bank of Boston,Sole Proprietorship #336,False
+C_002125,CLIENT,813ACFB00,National Bank of Arkadelphia,Partnership #414,False
+C_002126,CLIENT,813AD1040,Brownstone Credit Union,Sole Proprietorship #2291,False
+C_002127,CLIENT,813AD3CA0,Bank of Billings,Sole Proprietorship #20060,False
+C_002128,CLIENT,813AD4FE0,Bank of Portsmouth,Corporation #3792,False
+C_002129,CLIENT,813AD8120,First Bank of Harrisburg,Partnership #12272,False
+C_002130,CLIENT,813AD8340,Savings Bank of Butte,Sole Proprietorship #6980,False
+C_002131,CLIENT,813ADBA30,First Bank of Phoenix,Corporation #40225,False
+C_002132,CLIENT,813ADBE70,First Bank of Hartford,Partnership #14219,False
+C_002133,CLIENT,813ADD7D0,Savings Bank of Fairfield,Corporation #13723,False
+C_002134,CLIENT,813AE0E60,Desert Thrift,Corporation #12291,False
+C_002135,CLIENT,813B02360,National Bank of the East,Sole Proprietorship #10317,False
+C_002136,CLIENT,813B06360,Savings Bank of Los Angeles,Partnership #10810,False
+C_002137,CLIENT,813B9CF80,Bank of Fort Wayne,Corporation #15021,False
+C_002138,CLIENT,813EFDDB0,Bank of Lincoln,Partnership #14823,False
+C_002139,CLIENT,814365060,Savings Bank of Los Angeles,Sole Proprietorship #5264,False
+C_002140,CLIENT,8145E1550,Sunrise Bank,Sole Proprietorship #13000,False
+C_002141,CLIENT,8147F2400,Italy Bank #392,Corporation #28212,False
+C_002142,CLIENT,8147F48E0,France Bank #2421,Partnership #42824,False
+C_002143,CLIENT,8147F7A50,Spain Bank #758,Sole Proprietorship #27824,False
+C_002144,CLIENT,8147FB1D0,France Bank #173,Corporation #27135,False
+C_002145,CLIENT,814804BF0,Italy Bank #1091,Corporation #25439,False
+C_002146,CLIENT,8148053B0,Germany Bank #124,Corporation #26430,False
+C_002147,CLIENT,814807990,France Bank #173,Partnership #28717,False
+C_002148,CLIENT,814807A80,Italy Bank #49,Sole Proprietorship #27651,False
+C_002149,CLIENT,8148087D0,Italy Bank #587,Corporation #48801,False
+C_002150,CLIENT,814809FA0,Italy Bank #17,Sole Proprietorship #41057,False
+C_002151,CLIENT,81480A090,Spain Bank #9,Sole Proprietorship #25101,False
+C_002152,CLIENT,8148451D0,France Bank #1368,Partnership #29576,False
+C_002153,CLIENT,81484A710,Italy Bank #1395,Partnership #27344,False
+C_002154,CLIENT,81484C660,France Bank #30,Corporation #24321,False
+C_002155,CLIENT,81484CB60,France Bank #102,Corporation #21585,False
+C_002156,CLIENT,81484CE20,Netherlands Bank #127,Sole Proprietorship #26588,False
+C_002157,CLIENT,814965B00,Saudi Arabia Bank #19,Partnership #16,True
+C_002158,CLIENT,814965B00,Saudi Arabia Bank #19,Partnership #16,True
