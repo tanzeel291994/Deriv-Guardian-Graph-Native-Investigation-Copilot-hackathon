@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: deriv-guardian
+    runtime: docker
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: PORT
+        value: 10000
+
